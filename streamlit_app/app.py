@@ -1,5 +1,5 @@
 import streamlit as st
-from streamlit_app.sections import jobs_overview, skills_overview, wordcloud, salaries_overview, skills_cooccurence
+from sections import jobs_overview, skills_overview, wordcloud, salaries_overview, skills_cooccurence
 import sys
 import os
 
