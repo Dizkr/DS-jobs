@@ -1,5 +1,5 @@
 import streamlit as st
-from sections import jobs_overview, skills_overview, wordcloud, salaries_overview, skills_cooccurence
+from streamlit_app.sections import jobs_overview, skills_overview, wordcloud, salaries_overview, skills_cooccurence
 
 st.set_page_config(page_title="DS Job Dashboard", layout="wide")
 
