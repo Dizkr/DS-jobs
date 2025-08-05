@@ -1,10 +1,9 @@
-import streamlit as st
-from sections import jobs_overview, skills_overview, wordcloud, salaries_overview, skills_cooccurence
 import sys
 import os
-
-# Add the project root to sys.path
 sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), "..")))
+
+import streamlit as st
+from sections import jobs_overview, skills_overview, wordcloud, salaries_overview, skills_cooccurence
 
 st.set_page_config(page_title="DS Job Dashboard", layout="wide")
 
