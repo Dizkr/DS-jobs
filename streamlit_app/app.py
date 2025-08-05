@@ -10,7 +10,7 @@ st.set_page_config(page_title="DS Job Dashboard", layout="wide")
 # Navigation
 page = st.segmented_control(
     "Choose a view",
-    ["📊 Jobs Overview", "🧠 Skills Overview", "🔗 Skills Cooccurence", "💵 Salary Overview", "☁️ Word Cloud"], 
+    ["📊 Jobs Overview", "🧠 Skills Overview", "🔗 Skills Co-occurence", "💵 Salary Overview", "☁️ Word Cloud"], 
     selection_mode="single",
     default = "📊 Jobs Overview"
 )
@@ -22,7 +22,7 @@ if page == "📊 Jobs Overview":
 elif page == "🧠 Skills Overview":
     skills_overview.render()
 
-elif page == "🔗 Skills Cooccurence":
+elif page == "🔗 Skills Co-occurence":
     skills_cooccurence.render()
 
 elif page == "💵 Salary Overview":
