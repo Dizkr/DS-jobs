@@ -25,7 +25,8 @@ def render():
 
     sal_types= ['Net per month - B2B', 'Net per hour - B2B', 'Gross per month - Permanent']
 
-    sal_opt = st.segmented_control("Choose salary type", sal_types, selection_mode="single")
+    sal_opt = st.segmented_control("Choose salary type", sal_types, selection_mode="single",
+    default = 'Net per month - B2B')
     cat_opt = st.segmented_control("Choose category", categories, selection_mode="single")
     exp_opt = st.segmented_control("Choose experience", exp_levels, selection_mode="single")
 

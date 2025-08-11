@@ -1,0 +1,3774 @@
+Job ID,Technology,Experience Level,Category,Experience
+0,Databases,advanced,Data Engineering,Mid
+0,SQL,advanced,Data Engineering,Mid
+0,Linux,regular,Data Engineering,Mid
+0,Windows,regular,Data Engineering,Mid
+1,PostgreSQL,advanced,Database Administration,Mid
+1,High Availability,advanced,Database Administration,Mid
+1,Linux,advanced,Database Administration,Mid
+1,Oracle,regular,Database Administration,Mid
+1,SQL,regular,Database Administration,Mid
+1,CI/CD,nice to have,Database Administration,Mid
+2,IDMC,regular,Unclassified,Manager / C-level
+2,ETL,regular,Unclassified,Manager / C-level
+2,Azure,regular,Unclassified,Manager / C-level
+3,AWS,advanced,Data Science,Senior
+3,Airflow,advanced,Data Science,Senior
+3,SQL,advanced,Data Science,Senior
+3,Python,advanced,Data Science,Senior
+4,ETL,advanced,Data Engineering,Senior
+4,SQL,advanced,Data Engineering,Senior
+4,Airflow,regular,Data Engineering,Senior
+4,DBT,regular,Data Engineering,Senior
+4,Snowflake,regular,Data Engineering,Senior
+4,Python,regular,Data Engineering,Senior
+4,AWS,nice to have,Data Engineering,Senior
+4,Databricks,nice to have,Data Engineering,Senior
+5,AWS,advanced,Data Engineering,Senior
+5,GCP,advanced,Data Engineering,Senior
+5,Hadoop,advanced,Data Engineering,Senior
+5,Cloudera,advanced,Data Engineering,Senior
+5,Azure,advanced,Data Engineering,Senior
+5,PySpark,regular,Data Engineering,Senior
+5,Java,regular,Data Engineering,Senior
+5,Python,regular,Data Engineering,Senior
+5,Scala,regular,Data Engineering,Senior
+6,Databricks,advanced,Data Architecture,Senior
+6,Data Lake,advanced,Data Architecture,Senior
+6,Azure Synapse Analytics,advanced,Data Architecture,Senior
+6,Tableau,advanced,Data Architecture,Senior
+6,Power BI,advanced,Data Architecture,Senior
+7,VBA,master,Data Engineering,Mid
+7,SQL,master,Data Engineering,Mid
+7,T-SQL,advanced,Data Engineering,Mid
+7,SQL Server,advanced,Data Engineering,Mid
+7,Databases,advanced,Data Engineering,Mid
+7,Data Integration,advanced,Data Engineering,Mid
+8,Power BI,advanced,Data Analysis & BI,Mid
+8,SQL Server,advanced,Data Analysis & BI,Mid
+8,ETL tools,regular,Data Analysis & BI,Mid
+8,Python,junior,Data Analysis & BI,Mid
+8,Azure,nice to have,Data Analysis & BI,Mid
+9,Clickup,junior,Unclassified,Junior
+9,Buble,junior,Unclassified,Junior
+9,Databases,junior,Unclassified,Junior
+9,No Code,junior,Unclassified,Junior
+9,Low code,junior,Unclassified,Junior
+9,Artificial Intelligence,nice to have,Unclassified,Junior
+10,Artificial Intelligence,regular,Data Science,Mid
+11,AWS,advanced,Data Engineering,Senior
+11,Terraform,advanced,Data Engineering,Senior
+11,SQL,advanced,Data Engineering,Senior
+11,Python,advanced,Data Engineering,Senior
+12,Data Vault,advanced,Data Architecture,Senior
+12,Snowflake,advanced,Data Architecture,Senior
+12,DBT,advanced,Data Architecture,Senior
+12,AWS,regular,Data Architecture,Senior
+13,Data Vault,advanced,Data Architecture,Senior
+13,ETL,advanced,Data Architecture,Senior
+13,DBT,advanced,Data Architecture,Senior
+13,Data Engineering,advanced,Data Architecture,Senior
+14,Python,regular,Data Engineering,Senior
+14,Machine Learning,regular,Data Engineering,Senior
+14,AWS,nice to have,Data Engineering,Senior
+14,Azure,nice to have,Data Engineering,Senior
+14,GCP,nice to have,Data Engineering,Senior
+15,Palantir Foundry,regular,Data Engineering,Mid
+15,ETL,regular,Data Engineering,Mid
+15,SQL,regular,Data Engineering,Mid
+15,Python,regular,Data Engineering,Mid
+15,AWS,nice to have,Data Engineering,Mid
+15,Azure,nice to have,Data Engineering,Mid
+15,GCP,nice to have,Data Engineering,Mid
+15,CI/CD,nice to have,Data Engineering,Mid
+16,Python,advanced,Data Engineering,Senior
+16,AWS,nice to have,Data Engineering,Senior
+16,GCP,nice to have,Data Engineering,Senior
+16,Azure,nice to have,Data Engineering,Senior
+17,PyTorch,regular,Unclassified,Mid
+17,TensorFlow,regular,Unclassified,Mid
+17,scikit-learn,regular,Unclassified,Mid
+17,Pandas,regular,Unclassified,Mid
+17,NumPy,regular,Unclassified,Mid
+17,Python,regular,Unclassified,Mid
+18,Oracle,regular,Unclassified,Mid
+18,SQL,regular,Unclassified,Mid
+18,Informatica Power Center,regular,Unclassified,Mid
+18,Spark,nice to have,Unclassified,Mid
+18,Python,nice to have,Unclassified,Mid
+19,AWS,advanced,Unclassified,Mid
+19,SQL,advanced,Unclassified,Mid
+19,Python,advanced,Unclassified,Mid
+20,Microsoft Excel,regular,Data Analysis & BI,Junior
+20,SQL,junior,Data Analysis & BI,Junior
+20,Python,junior,Data Analysis & BI,Junior
+20,plotly,junior,Data Analysis & BI,Junior
+20,Pandas,junior,Data Analysis & BI,Junior
+21,AWS,advanced,Data Engineering,Senior
+21,DWH,advanced,Data Engineering,Senior
+21,SQL,advanced,Data Engineering,Senior
+21,Python,advanced,Data Engineering,Senior
+21,DBT,nice to have,Data Engineering,Senior
+21,Java,nice to have,Data Engineering,Senior
+22,Python,advanced,Data Science,Senior
+22,SQL,advanced,Data Science,Senior
+22,Spark,advanced,Data Science,Senior
+22,TensorFlow,advanced,Data Science,Senior
+22,PyTorch,advanced,Data Science,Senior
+22,GCP/AWS/AZURE,regular,Data Science,Senior
+23,Machine Learning,regular,Data Science,Mid
+23,NLP,regular,Data Science,Mid
+23,modelling,regular,Data Science,Mid
+23,Generative AI,regular,Data Science,Mid
+24,PostgreSQL,regular,Data Analysis & BI,Senior
+24,ETL,regular,Data Analysis & BI,Senior
+24,ETL tools,regular,Data Analysis & BI,Senior
+24,SQL,regular,Data Analysis & BI,Senior
+24,Oracle,regular,Data Analysis & BI,Senior
+24,Python,regular,Data Analysis & BI,Senior
+24,Enterprise Architect,regular,Data Analysis & BI,Senior
+25,Entity Data,advanced,Data Analysis & BI,Mid
+25,Microsoft Excel,advanced,Data Analysis & BI,Mid
+25,Confluence,regular,Data Analysis & BI,Mid
+25,SQL,junior,Data Analysis & BI,Mid
+25,ETL,nice to have,Data Analysis & BI,Mid
+26,Airflow,regular,Data Science,Mid
+26,Artificial Intelligence,regular,Data Science,Mid
+26,Azure,regular,Data Science,Mid
+26,Kafka,regular,Data Science,Mid
+26,Python,regular,Data Science,Mid
+27,Python,regular,Data Engineering,Mid
+27,API,regular,Data Engineering,Mid
+27,BigQuery,regular,Data Engineering,Mid
+27,Looker,regular,Data Engineering,Mid
+27,GCP,regular,Data Engineering,Mid
+27,Fivetran,regular,Data Engineering,Mid
+27,Zapier,regular,Data Engineering,Mid
+27,Make,regular,Data Engineering,Mid
+28,Azure,regular,Data Analysis & BI,Mid
+28,OR,regular,Data Analysis & BI,Mid
+29,Azure Data Factory,regular,Data Engineering,Mid
+29,Databricks,regular,Data Engineering,Mid
+29,Airflow,regular,Data Engineering,Mid
+29,ETL tools,regular,Data Engineering,Mid
+29,Azure,regular,Data Engineering,Mid
+30,Power BI,advanced,Data Analysis & BI,Mid
+30,DAX,advanced,Data Analysis & BI,Mid
+30,SQL,advanced,Data Analysis & BI,Mid
+30,RDBMS,regular,Data Analysis & BI,Mid
+30,Azure SQL,junior,Data Analysis & BI,Mid
+30,Azure Data Lake,junior,Data Analysis & BI,Mid
+31,Oracle,advanced,Data Engineering,Senior
+31,PostgreSQL,advanced,Data Engineering,Senior
+32,ETL,advanced,Data Engineering,Senior
+32,Databricks,advanced,Data Engineering,Senior
+32,SQL,advanced,Data Engineering,Senior
+32,Python,advanced,Data Engineering,Senior
+32,Data engineer,advanced,Data Engineering,Senior
+32,Azure,regular,Data Engineering,Senior
+32,CI/CD,regular,Data Engineering,Senior
+33,Azure Databricks,advanced,Unclassified,Senior
+33,DATA MODELLING,advanced,Unclassified,Senior
+33,ETL Pipelines,advanced,Unclassified,Senior
+34,ETL,regular,Data Analysis & BI,Mid
+34,SQL,regular,Data Analysis & BI,Mid
+34,Python,regular,Data Analysis & BI,Mid
+34,Dataiku,nice to have,Data Analysis & BI,Mid
+35,Python,advanced,Data Engineering,Senior
+35,AWS,advanced,Data Engineering,Senior
+35,MongoDB,regular,Data Engineering,Senior
+35,Spark,regular,Data Engineering,Senior
+35,Delta Lake,regular,Data Engineering,Senior
+36,Data Lake,advanced,Data Engineering,Senior
+36,Azure,advanced,Data Engineering,Senior
+36,Azure Data Factory,advanced,Data Engineering,Senior
+36,ETRM,advanced,Data Engineering,Senior
+36,Databricks,regular,Data Engineering,Senior
+37,Microsoft Excel,advanced,Data Analysis & BI,Mid
+37,SQL,regular,Data Analysis & BI,Mid
+37,Looker,regular,Data Analysis & BI,Mid
+37,Google Analytics,nice to have,Data Analysis & BI,Mid
+37,Power BI,nice to have,Data Analysis & BI,Mid
+37,BigQuery,nice to have,Data Analysis & BI,Mid
+37,Google Tag Manager,nice to have,Data Analysis & BI,Mid
+38,Algorithms,regular,Data Science,Mid
+38,Python,regular,Data Science,Mid
+38,Spark,regular,Data Science,Mid
+38,Azure,nice to have,Data Science,Mid
+38,GCP,nice to have,Data Science,Mid
+38,Kubernetes,nice to have,Data Science,Mid
+38,SQL,nice to have,Data Science,Mid
+38,Databricks,nice to have,Data Science,Mid
+38,BigQuery,nice to have,Data Science,Mid
+39,Power Platform,advanced,Unclassified,Senior
+39,Copilot,regular,Unclassified,Senior
+39,Power BI,regular,Unclassified,Senior
+39,Azure,regular,Unclassified,Senior
+39,Power Apps,regular,Unclassified,Senior
+39,Power Automate,regular,Unclassified,Senior
+39,TypeScript,regular,Unclassified,Senior
+39,JavaScript,regular,Unclassified,Senior
+39,Azure DevOps,nice to have,Unclassified,Senior
+40,Git,advanced,Data Engineering,Senior
+40,ETL,advanced,Data Engineering,Senior
+40,Azure,advanced,Data Engineering,Senior
+40,Data Warehouse,advanced,Data Engineering,Senior
+40,Delta Lake,advanced,Data Engineering,Senior
+40,SQL,advanced,Data Engineering,Senior
+40,Python,advanced,Data Engineering,Senior
+40,Glue,advanced,Data Engineering,Senior
+40,Apache Spark,advanced,Data Engineering,Senior
+41,"Data Guard, RMAN, Data Pump",advanced,Database Administration,Senior
+41,Linux,advanced,Database Administration,Senior
+41,Oracle,advanced,Database Administration,Senior
+41,Oracle GoldenGate,junior,Database Administration,Senior
+41,RAC (ASM) environment (19c),junior,Database Administration,Senior
+42,Informatica Powercenter,regular,Data Engineering,Mid
+42,Databricks,regular,Data Engineering,Mid
+42,Azure,regular,Data Engineering,Mid
+42,Azure DevOps,regular,Data Engineering,Mid
+42,SQL,regular,Data Engineering,Mid
+42,SQL Server,regular,Data Engineering,Mid
+43,RDBMS,junior,Data Analysis & BI,Junior
+43,Relational Databases,junior,Data Analysis & BI,Junior
+43,SQL,junior,Data Analysis & BI,Junior
+43,Python,junior,Data Analysis & BI,Junior
+44,Kotlin,regular,Data Engineering,Mid
+44,Databases,regular,Data Engineering,Mid
+44,Java,regular,Data Engineering,Mid
+44,Scala,regular,Data Engineering,Mid
+45,Large Language Models,regular,Unclassified,Senior
+45,Azure,regular,Unclassified,Senior
+45,Python,regular,Unclassified,Senior
+45,Generative AI,regular,Unclassified,Senior
+46,Apache Hadoop,master,Database Administration,Mid
+46,Apache Spark,nice to have,Database Administration,Mid
+47,Salesforce,advanced,Database Administration,Mid
+47,Integrating systems,advanced,Database Administration,Mid
+47,Google Sheets,advanced,Database Administration,Mid
+47,Google Workspace,regular,Database Administration,Mid
+47,Apex,nice to have,Database Administration,Mid
+48,GCP,advanced,Data Engineering,Senior
+48,BigQuery,advanced,Data Engineering,Senior
+48,SQL,advanced,Data Engineering,Senior
+48,Python,regular,Data Engineering,Senior
+49,Power BI,advanced,Data Analysis & BI,Senior
+49,SQL,advanced,Data Analysis & BI,Senior
+49,Power Automate,advanced,Data Analysis & BI,Senior
+49,Snowflake,nice to have,Data Analysis & BI,Senior
+49,Python,nice to have,Data Analysis & BI,Senior
+50,Bash,advanced,Database Administration,Senior
+50,Databases,advanced,Database Administration,Senior
+50,Oracle,advanced,Database Administration,Senior
+50,Oracle,advanced,Database Administration,Senior
+50,Oracle,advanced,Database Administration,Senior
+50,SQL,regular,Database Administration,Senior
+50,Linux OS,regular,Database Administration,Senior
+50,Virtualization,junior,Database Administration,Senior
+50,Python,nice to have,Database Administration,Senior
+51,Azure,advanced,Data Science,Mid
+51,Python,advanced,Data Science,Mid
+51,Machine Learning,advanced,Data Science,Mid
+53,ServiceNow,master,Unclassified,Senior
+53,Front-End,master,Unclassified,Senior
+53,Backend,master,Unclassified,Senior
+53,Data Warehousing,master,Unclassified,Senior
+53,ETL,master,Unclassified,Senior
+53,Snowflake,master,Unclassified,Senior
+53,Talend,master,Unclassified,Senior
+53,Tableau,master,Unclassified,Senior
+54,ETL,advanced,Unclassified,Senior
+54,Spark,advanced,Unclassified,Senior
+54,JSON,advanced,Unclassified,Senior
+54,Azure,advanced,Unclassified,Senior
+54,Databricks,advanced,Unclassified,Senior
+54,SQL,advanced,Unclassified,Senior
+54,Python,advanced,Unclassified,Senior
+54,Scala,advanced,Unclassified,Senior
+54,NoSQL,advanced,Unclassified,Senior
+56,BigQuery,regular,Data Architecture,Mid
+56,Cloud,regular,Data Architecture,Mid
+56,Pub/Sub,regular,Data Architecture,Mid
+56,Dataflow,regular,Data Architecture,Mid
+56,Dataproc,regular,Data Architecture,Mid
+56,Apache Beam,regular,Data Architecture,Mid
+56,Cloud Composer,regular,Data Architecture,Mid
+57,SQL Server,advanced,Database Administration,Senior
+57,DBA,advanced,Database Administration,Senior
+57,MySQL,advanced,Database Administration,Senior
+57,Database design,advanced,Database Administration,Senior
+57,Oracle,advanced,Database Administration,Senior
+57,AWS,nice to have,Database Administration,Senior
+57,BI,nice to have,Database Administration,Senior
+57,Azure,nice to have,Database Administration,Senior
+58,ETL Pipelines,regular,Data Analysis & BI,Mid
+58,Python,regular,Data Analysis & BI,Mid
+58,Apache Spark,regular,Data Analysis & BI,Mid
+58,Data Lake,nice to have,Data Analysis & BI,Mid
+58,Data Bricks,nice to have,Data Analysis & BI,Mid
+58,Azure,nice to have,Data Analysis & BI,Mid
+59,PostgreSQL,advanced,Data Architecture,Senior
+59,ETL tools,advanced,Data Architecture,Senior
+59,MySQL,advanced,Data Architecture,Senior
+59,MongoDB,advanced,Data Architecture,Senior
+59,SQL,advanced,Data Architecture,Senior
+59,Enterprise Architect,advanced,Data Architecture,Senior
+59,DWH,advanced,Data Architecture,Senior
+59,Python,regular,Data Architecture,Senior
+60,SQL,advanced,Data Engineering,Senior
+60,GCP,advanced,Data Engineering,Senior
+60,ETL,advanced,Data Engineering,Senior
+60,BigQuery,advanced,Data Engineering,Senior
+60,DBT,advanced,Data Engineering,Senior
+60,Apache Airflow,regular,Data Engineering,Senior
+60,Cloud Composer,regular,Data Engineering,Senior
+60,Kafka,regular,Data Engineering,Senior
+60,Looker,regular,Data Engineering,Senior
+60,CI/CD,regular,Data Engineering,Senior
+61,Artificial Intelligence,advanced,Data Science,Manager / C-level
+61,ML/AI systems,advanced,Data Science,Manager / C-level
+61,Data & AI Strategy,advanced,Data Science,Manager / C-level
+61,Python,advanced,Data Science,Manager / C-level
+61,Data platforms,advanced,Data Science,Manager / C-level
+61,Data architectures,advanced,Data Science,Manager / C-level
+63,Python,advanced,Data Engineering,Senior
+63,AWS,advanced,Data Engineering,Senior
+63,Spark,regular,Data Engineering,Senior
+63,PySpark,regular,Data Engineering,Senior
+63,Kubernetes,regular,Data Engineering,Senior
+63,Delta Lake,regular,Data Engineering,Senior
+64,CI/CD,regular,Data Engineering,Mid
+64,SAS,regular,Data Engineering,Mid
+64,Oracle,regular,Data Engineering,Mid
+64,Azure,junior,Data Engineering,Mid
+64,Kafka,junior,Data Engineering,Mid
+65,Java,advanced,Data Engineering,Senior
+65,Spring Boot,advanced,Data Engineering,Senior
+65,CI/CD,advanced,Data Engineering,Senior
+65,GCP,advanced,Data Engineering,Senior
+65,streaming,advanced,Data Engineering,Senior
+65,Kafka,advanced,Data Engineering,Senior
+65,Apache  Beam,regular,Data Engineering,Senior
+65,Groovy,regular,Data Engineering,Senior
+66,SQL,advanced,Unclassified,Mid
+66,Informatica Powercenter,regular,Unclassified,Mid
+66,Oracle,regular,Unclassified,Mid
+66,Oracle,regular,Unclassified,Mid
+67,Azure,regular,Data Engineering,Mid
+67,Databricks,regular,Data Engineering,Mid
+67,Python,regular,Data Engineering,Mid
+67,SQL,regular,Data Engineering,Mid
+67,PySpark,junior,Data Engineering,Mid
+68,web analytics,regular,Data Analysis & BI,Mid
+68,Adobe Analytics,regular,Data Analysis & BI,Mid
+68,SEO,regular,Data Analysis & BI,Mid
+69,Python,advanced,Data Engineering,Senior
+69,Azure,advanced,Data Engineering,Senior
+69,Databricks,advanced,Data Engineering,Senior
+70,Git,advanced,Data Analysis & BI,Senior
+70,PySpark,advanced,Data Analysis & BI,Senior
+70,Spark,advanced,Data Analysis & BI,Senior
+70,CI/CD,advanced,Data Analysis & BI,Senior
+70,Data Warehousing,advanced,Data Analysis & BI,Senior
+70,Power BI,advanced,Data Analysis & BI,Senior
+70,BI,advanced,Data Analysis & BI,Senior
+70,Fabric,advanced,Data Analysis & BI,Senior
+70,Azure DevOps,advanced,Data Analysis & BI,Senior
+70,Data Engineering,advanced,Data Analysis & BI,Senior
+71,GCP,master,Data Engineering,Senior
+71,BigQuery,master,Data Engineering,Senior
+71,SQL,master,Data Engineering,Senior
+71,Python,advanced,Data Engineering,Senior
+72,Python,advanced,Unclassified,Senior
+72,SQL,advanced,Unclassified,Senior
+72,PostgreSQL,advanced,Unclassified,Senior
+72,GenAI,regular,Unclassified,Senior
+73,AWS,master,Data Architecture,Senior
+73,Azure,master,Data Architecture,Senior
+73,Terraform,master,Data Architecture,Senior
+73,Apache Spark,master,Data Architecture,Senior
+73,CI/CD,master,Data Architecture,Senior
+74,ETL,regular,Data Engineering,Senior
+74,Jira,regular,Data Engineering,Senior
+74,SQL Server,regular,Data Engineering,Senior
+74,Microsoft Dynamics 365,nice to have,Data Engineering,Senior
+74,JavaScript,nice to have,Data Engineering,Senior
+74,TypeScript,nice to have,Data Engineering,Senior
+74,GraphQL,nice to have,Data Engineering,Senior
+74,Apollo,nice to have,Data Engineering,Senior
+74,SAP,nice to have,Data Engineering,Senior
+75,ETL,regular,Data Engineering,Mid
+75,ELT,regular,Data Engineering,Mid
+75,Azure Data Factory,regular,Data Engineering,Mid
+75,ADLS,regular,Data Engineering,Mid
+75,SQL,regular,Data Engineering,Mid
+75,Python,regular,Data Engineering,Mid
+75,CI/CD,junior,Data Engineering,Mid
+75,Docker,nice to have,Data Engineering,Mid
+75,Kubernetes,nice to have,Data Engineering,Mid
+76,UML,advanced,Data Analysis & BI,Senior
+76,ETL,advanced,Data Analysis & BI,Senior
+76,ETL tools,advanced,Data Analysis & BI,Senior
+76,Power BI,advanced,Data Analysis & BI,Senior
+76,SQL,advanced,Data Analysis & BI,Senior
+77,Python,advanced,Data Engineering,Mid
+77,SQL,regular,Data Engineering,Mid
+77,Docker,junior,Data Engineering,Mid
+77,Grafana,nice to have,Data Engineering,Mid
+77,Machine Learning,nice to have,Data Engineering,Mid
+78,NumPy,regular,Data Engineering,Mid
+78,Spark,regular,Data Engineering,Mid
+78,Pandas,regular,Data Engineering,Mid
+78,SQL,regular,Data Engineering,Mid
+78,Python,regular,Data Engineering,Mid
+79,SQL,advanced,Data Analysis & BI,Mid
+79,Celonis,advanced,Data Analysis & BI,Mid
+79,data mining,regular,Data Analysis & BI,Mid
+79,Python,regular,Data Analysis & BI,Mid
+79,Matlab,regular,Data Analysis & BI,Mid
+79,R,regular,Data Analysis & BI,Mid
+80,CRM,advanced,Unclassified,Senior
+80,Power BI,advanced,Unclassified,Senior
+80,Artificial Intelligence,advanced,Unclassified,Senior
+80,Data analysis,advanced,Unclassified,Senior
+80,Salesforce,advanced,Unclassified,Senior
+80,Apollo,advanced,Unclassified,Senior
+80,SQL,advanced,Unclassified,Senior
+80,Clay,advanced,Unclassified,Senior
+80,Zapier,regular,Unclassified,Senior
+81,Google Kubernetes Engine,regular,Data Engineering,Mid
+81,GitOPS,regular,Data Engineering,Mid
+81,ArgoCD,regular,Data Engineering,Mid
+81,Terraform,regular,Data Engineering,Mid
+81,GCP,regular,Data Engineering,Mid
+81,CI/CD,regular,Data Engineering,Mid
+81,OpenShift,regular,Data Engineering,Mid
+81,Linux,regular,Data Engineering,Mid
+81,redhat,regular,Data Engineering,Mid
+81,Linux (Debian),regular,Data Engineering,Mid
+82,Python,advanced,Data Engineering,Mid
+82,Pandas,advanced,Data Engineering,Mid
+82,SQL,advanced,Data Engineering,Mid
+82,DBT,regular,Data Engineering,Mid
+82,GitLab,regular,Data Engineering,Mid
+82,Snowflake,regular,Data Engineering,Mid
+82,ETL,regular,Data Engineering,Mid
+83,Python,advanced,Data Engineering,Mid
+83,SQL,regular,Data Engineering,Mid
+83,Apache Airflow,regular,Data Engineering,Mid
+84,ETL,advanced,Unclassified,Senior
+84,Java,advanced,Unclassified,Senior
+84,Python,advanced,Unclassified,Senior
+84,Spark,regular,Unclassified,Senior
+84,SQL,regular,Unclassified,Senior
+85,PySpark,advanced,Data Engineering,Senior
+85,Spark,advanced,Data Engineering,Senior
+85,Databricks,advanced,Data Engineering,Senior
+85,Python,advanced,Data Engineering,Senior
+85,SQL Server,nice to have,Data Engineering,Senior
+86,Data Lake,advanced,Data Architecture,Senior
+86,AWS,advanced,Data Architecture,Senior
+86,Data Lakehouse,advanced,Data Architecture,Senior
+86,CI/CD,advanced,Data Architecture,Senior
+86,Terraform,advanced,Data Architecture,Senior
+86,Databricks,advanced,Data Architecture,Senior
+86,Delta Lake,advanced,Data Architecture,Senior
+87,Git,advanced,Data Engineering,Senior
+87,PostgreSQL,advanced,Data Engineering,Senior
+87,CI/CD,advanced,Data Engineering,Senior
+87,SQL Server,advanced,Data Engineering,Senior
+87,Databricks,advanced,Data Engineering,Senior
+87,Delta Lake,advanced,Data Engineering,Senior
+87,AWS,regular,Data Engineering,Senior
+87,Azure,regular,Data Engineering,Senior
+87,GCP,regular,Data Engineering,Senior
+87,Python,regular,Data Engineering,Senior
+88,Power BI,regular,Database Administration,Mid
+88,SQL Server,regular,Database Administration,Mid
+88,ETL tools,junior,Database Administration,Mid
+88,Azure,nice to have,Database Administration,Mid
+89,Full-stack BI Development,regular,Data Analysis & BI,Mid
+89,Power BI,regular,Data Analysis & BI,Mid
+89,Snowflake,regular,Data Analysis & BI,Mid
+89,Managed Services,junior,Data Analysis & BI,Mid
+89,Matillion,nice to have,Data Analysis & BI,Mid
+89,Oracle,nice to have,Data Analysis & BI,Mid
+89,SSIS,nice to have,Data Analysis & BI,Mid
+90,Pandas,advanced,Data Science,Senior
+90,Numpy,advanced,Data Science,Senior
+90,Scikit-Learn,advanced,Data Science,Senior
+90,Python,advanced,Data Science,Senior
+90,Machine Learning,regular,Data Science,Senior
+90,Feature Engineering,regular,Data Science,Senior
+91,SQL,regular,Data Analysis & BI,Mid
+91,PostgreSQL,regular,Data Analysis & BI,Mid
+91,ERD,regular,Data Analysis & BI,Mid
+91,Power BI,regular,Data Analysis & BI,Mid
+92,SQL,advanced,Data Analysis & BI,Mid
+92,ETL tools,regular,Data Analysis & BI,Mid
+92,BI tools,regular,Data Analysis & BI,Mid
+92,Snowflake,regular,Data Analysis & BI,Mid
+92,Redshift,regular,Data Analysis & BI,Mid
+92,Python,regular,Data Analysis & BI,Mid
+92,R,regular,Data Analysis & BI,Mid
+93,Hadoop,advanced,Unclassified,Mid
+93,Apache Airflow,advanced,Unclassified,Mid
+93,SQL,advanced,Unclassified,Mid
+93,Python,advanced,Unclassified,Mid
+93,Apache Spark,advanced,Unclassified,Mid
+94,Data Warehousing,advanced,Data Science,Senior
+94,dimensional modeling,advanced,Data Science,Senior
+94,PostgreSQL,nice to have,Data Science,Senior
+94,data vault 2.0,nice to have,Data Science,Senior
+94,Snowflake,nice to have,Data Science,Senior
+94,Oracle,nice to have,Data Science,Senior
+95,Power BI,regular,Data Analysis & BI,Senior
+95,KYC,regular,Data Analysis & BI,Senior
+95,SQL,regular,Data Analysis & BI,Senior
+95,R,junior,Data Analysis & BI,Senior
+95,Java,junior,Data Analysis & BI,Senior
+95,Python,junior,Data Analysis & BI,Senior
+95,Scala,junior,Data Analysis & BI,Senior
+96,Excel,regular,Data Engineering,Mid
+96,Databricks,regular,Data Engineering,Mid
+96,Python,regular,Data Engineering,Mid
+96,Apache Spark,regular,Data Engineering,Mid
+96,Git,junior,Data Engineering,Mid
+96,Azure/AWS,nice to have,Data Engineering,Mid
+97,Apache Spark,advanced,Data Engineering,Mid
+97,Databricks,regular,Data Engineering,Mid
+97,Python,regular,Data Engineering,Mid
+97,PySpark,regular,Data Engineering,Mid
+97,SQL,regular,Data Engineering,Mid
+97,Azure,regular,Data Engineering,Mid
+98,Azure,advanced,Data Engineering,Senior
+98,Databricks,advanced,Data Engineering,Senior
+98,SQL,advanced,Data Engineering,Senior
+98,Spark,regular,Data Engineering,Senior
+98,Python,regular,Data Engineering,Senior
+98,AWS,nice to have,Data Engineering,Senior
+98,Snowflake,nice to have,Data Engineering,Senior
+99,REST API,advanced,Unclassified,Mid
+99,SQL,advanced,Unclassified,Mid
+99,Snowflake,regular,Unclassified,Mid
+99,JavaScript,regular,Unclassified,Mid
+99,Python,regular,Unclassified,Mid
+100,Flink,regular,Data Engineering,Senior
+100,Java,regular,Data Engineering,Senior
+100,Python,regular,Data Engineering,Senior
+100,Dremio,regular,Data Engineering,Senior
+100,Apache Spark,regular,Data Engineering,Senior
+100,DataMesh,nice to have,Data Engineering,Senior
+101,Relational Databases,junior,Data Analysis & BI,Junior
+101,RDBMS,junior,Data Analysis & BI,Junior
+101,SQL,junior,Data Analysis & BI,Junior
+101,Python,junior,Data Analysis & BI,Junior
+102,CI/CD,advanced,Data Engineering,Senior
+102,SQL,advanced,Data Engineering,Senior
+102,NoSQL,advanced,Data Engineering,Senior
+102,Python,advanced,Data Engineering,Senior
+102,Data Engineering,advanced,Data Engineering,Senior
+102,GCP,regular,Data Engineering,Senior
+102,Data Warehouse,regular,Data Engineering,Senior
+103,NumPy,advanced,Data Science,Senior
+103,Pandas,advanced,Data Science,Senior
+103,Python,advanced,Data Science,Senior
+104,DBT,advanced,Data Architecture,Senior
+104,Data Vault,advanced,Data Architecture,Senior
+104,Snowflake,advanced,Data Architecture,Senior
+104,SQL,advanced,Data Architecture,Senior
+104,Python,advanced,Data Architecture,Senior
+104,AWS,regular,Data Architecture,Senior
+104,Matillion,nice to have,Data Architecture,Senior
+105,SaaS,advanced,Data Architecture,Mid
+105,IaaS,advanced,Data Architecture,Mid
+105,PaaS,advanced,Data Architecture,Mid
+106,Databricks,advanced,Data Engineering,Senior
+106,Data Lake,regular,Data Engineering,Senior
+106,Azure Synapse Analytics,regular,Data Engineering,Senior
+106,Snowflake,nice to have,Data Engineering,Senior
+107,Python,regular,Data Engineering,Mid
+107,SQL,regular,Data Engineering,Mid
+107,Apache Spark,regular,Data Engineering,Mid
+107,Apache Hadoop,regular,Data Engineering,Mid
+107,ETL,regular,Data Engineering,Mid
+107,AWS,nice to have,Data Engineering,Mid
+107,Power BI,nice to have,Data Engineering,Mid
+107,Tableau,nice to have,Data Engineering,Mid
+108,SQL,advanced,Data Engineering,Senior
+108,Airflow,regular,Data Engineering,Senior
+108,ETL,regular,Data Engineering,Senior
+108,Spark,regular,Data Engineering,Senior
+108,Hadoop,regular,Data Engineering,Senior
+108,Apache Airflow,regular,Data Engineering,Senior
+108,Python,regular,Data Engineering,Senior
+108,Apache Spark,regular,Data Engineering,Senior
+108,Docker,nice to have,Data Engineering,Senior
+108,Kubernetes,nice to have,Data Engineering,Senior
+109,Azure,advanced,Data Engineering,Senior
+109,Data Lakehouse,regular,Data Engineering,Senior
+109,Synapse,regular,Data Engineering,Senior
+109,Databricks,regular,Data Engineering,Senior
+109,Delta Lake,regular,Data Engineering,Senior
+109,SQL,regular,Data Engineering,Senior
+109,Apache Spark,regular,Data Engineering,Senior
+109,Microsoft Fabric,junior,Data Engineering,Senior
+110,Python,regular,Data Engineering,Senior
+110,SQL,regular,Data Engineering,Senior
+110,ETL,regular,Data Engineering,Senior
+110,Airflow,regular,Data Engineering,Senior
+110,BigQuery,regular,Data Engineering,Senior
+110,GCP,regular,Data Engineering,Senior
+110,GCP,regular,Data Engineering,Senior
+111,Airflow,regular,Data Science,Mid
+111,Docker,regular,Data Science,Mid
+111,Databases,regular,Data Science,Mid
+111,Flask,regular,Data Science,Mid
+111,SQL,regular,Data Science,Mid
+111,Python,regular,Data Science,Mid
+112,Hadoop,advanced,Data Engineering,Senior
+112,Cloudera,advanced,Data Engineering,Senior
+112,AWS,advanced,Data Engineering,Senior
+112,Azure,advanced,Data Engineering,Senior
+112,GCP,advanced,Data Engineering,Senior
+112,Python,advanced,Data Engineering,Senior
+112,PySpark,advanced,Data Engineering,Senior
+112,SQL,advanced,Data Engineering,Senior
+113,Oracle,master,Unclassified,Senior
+113,Oracle,master,Unclassified,Senior
+113,XML,advanced,Unclassified,Senior
+113,JSON,advanced,Unclassified,Senior
+113,Jira,advanced,Unclassified,Senior
+113,Python,nice to have,Unclassified,Senior
+114,analiza ruchu marketingowego,advanced,Data Analysis & BI,Mid
+114,Google Analytics,regular,Data Analysis & BI,Mid
+114,Power BI,regular,Data Analysis & BI,Mid
+114,Google Tag Manager,regular,Data Analysis & BI,Mid
+114,SQL,regular,Data Analysis & BI,Mid
+115,GCP,advanced,Unclassified,Senior
+115,ETL,advanced,Unclassified,Senior
+115,Data Warehousing,advanced,Unclassified,Senior
+115,GCP,advanced,Unclassified,Senior
+115,BigQuery,advanced,Unclassified,Senior
+115,SQL,advanced,Unclassified,Senior
+115,Python,advanced,Unclassified,Senior
+115,Apache,nice to have,Unclassified,Senior
+115,IntelliJ,nice to have,Unclassified,Senior
+115,Gradle,nice to have,Unclassified,Senior
+117,SQL,regular,Data Engineering,Senior
+117,Python,regular,Data Engineering,Senior
+117,Palantir Foundry,regular,Data Engineering,Senior
+117,Palantir,regular,Data Engineering,Senior
+117,AWS,regular,Data Engineering,Senior
+117,GCP,regular,Data Engineering,Senior
+117,Azure,regular,Data Engineering,Senior
+117,CI/CD,nice to have,Data Engineering,Senior
+117,Git,nice to have,Data Engineering,Senior
+118,Machine Learning,advanced,Data Architecture,Senior
+118,Azure,advanced,Data Architecture,Senior
+118,Databricks,advanced,Data Architecture,Senior
+119,AWS,regular,Data Engineering,Senior
+119,DBT,regular,Data Engineering,Senior
+119,Snowflake,regular,Data Engineering,Senior
+119,SQL,regular,Data Engineering,Senior
+119,Python,regular,Data Engineering,Senior
+120,DWH,advanced,Data Engineering,Senior
+120,Azure,advanced,Data Engineering,Senior
+120,SQL,advanced,Data Engineering,Senior
+120,Python,advanced,Data Engineering,Senior
+121,Snowflake,master,Data Architecture,Senior
+121,ETL tools,advanced,Data Architecture,Senior
+121,SQL,advanced,Data Architecture,Senior
+121,Python,advanced,Data Architecture,Senior
+121,ETL,advanced,Data Architecture,Senior
+121,AWS,regular,Data Architecture,Senior
+121,Azure,regular,Data Architecture,Senior
+122,SQL,regular,Data Analysis & BI,Mid
+122,Microsoft SSIS,regular,Data Analysis & BI,Mid
+122,Google Data Flow,regular,Data Analysis & BI,Mid
+122,Cloud Composer,regular,Data Analysis & BI,Mid
+122,Airflow,regular,Data Analysis & BI,Mid
+122,Power BI,nice to have,Data Analysis & BI,Mid
+122,Data Studio,nice to have,Data Analysis & BI,Mid
+122,Looker,nice to have,Data Analysis & BI,Mid
+123,Snowflake,regular,Data Engineering,Senior
+123,Data Vault,regular,Data Engineering,Senior
+123,AWS,regular,Data Engineering,Senior
+123,SQL,regular,Data Engineering,Senior
+123,NoSQL,regular,Data Engineering,Senior
+124,Tableau,advanced,Data Analysis & BI,Senior
+124,Tibco,regular,Data Analysis & BI,Senior
+124,SQL,regular,Data Analysis & BI,Senior
+124,ETL,regular,Data Analysis & BI,Senior
+124,DWH,regular,Data Analysis & BI,Senior
+124,SAP BusinessObjects,regular,Data Analysis & BI,Senior
+125,Python,regular,Data Science,Mid
+125,R,regular,Data Science,Mid
+125,SQL,regular,Data Science,Mid
+126,SQL,advanced,Data Engineering,Senior
+126,Python,advanced,Data Engineering,Senior
+126,AWS,regular,Data Engineering,Senior
+126,Airflow,regular,Data Engineering,Senior
+126,BI Tools (Sigma/Tableau),regular,Data Engineering,Senior
+127,Python,advanced,Data Analysis & BI,Senior
+127,SQL Server,advanced,Data Analysis & BI,Senior
+127,Power BI,advanced,Data Analysis & BI,Senior
+128,Snowflake,advanced,Data Engineering,Senior
+128,AWS,advanced,Data Engineering,Senior
+129,Tableau,advanced,Unclassified,Senior
+130,Python,regular,Data Science,Mid
+130,NumPy,junior,Data Science,Mid
+130,Machine Learning,junior,Data Science,Mid
+130,Pandas,junior,Data Science,Mid
+130,Apache Hadoop,nice to have,Data Science,Mid
+130,Apache Spark,nice to have,Data Science,Mid
+131,Python,regular,Data Engineering,Mid
+131,Azure,regular,Data Engineering,Mid
+131,Databricks,regular,Data Engineering,Mid
+131,SQL,regular,Data Engineering,Mid
+132,TM1,regular,Data Analysis & BI,Mid
+132,Tagetik,regular,Data Analysis & BI,Mid
+132,IBM Cognos Controller,regular,Data Analysis & BI,Mid
+132,CDM,regular,Data Analysis & BI,Mid
+133,Tableau,regular,Unclassified,Mid
+133,Tableau,regular,Unclassified,Mid
+133,QlikSense,nice to have,Unclassified,Mid
+134,Scala,regular,Unclassified,Mid
+134,Spark,regular,Unclassified,Mid
+134,Hadoop,regular,Unclassified,Mid
+134,Hive,regular,Unclassified,Mid
+134,Oozie,regular,Unclassified,Mid
+134,Kafka,regular,Unclassified,Mid
+134,Docker,regular,Unclassified,Mid
+134,Kubernetes,regular,Unclassified,Mid
+135,AWS,advanced,Data Engineering,Senior
+135,CI/CD,advanced,Data Engineering,Senior
+135,Spark,advanced,Data Engineering,Senior
+135,Python,advanced,Data Engineering,Senior
+135,Git,regular,Data Engineering,Senior
+135,Databricks,regular,Data Engineering,Senior
+135,SQL,regular,Data Engineering,Senior
+136,Power BI,regular,Data Analysis & BI,Mid
+136,Tableau,regular,Data Analysis & BI,Mid
+136,SQL,regular,Data Analysis & BI,Mid
+136,SQL Server,regular,Data Analysis & BI,Mid
+136,ETL,regular,Data Analysis & BI,Mid
+137,Databricks,advanced,Data Engineering,Senior
+137,Python,advanced,Data Engineering,Senior
+137,SQL,advanced,Data Engineering,Senior
+137,Azure DevOps,advanced,Data Engineering,Senior
+137,Azure,advanced,Data Engineering,Senior
+137,Azure,advanced,Data Engineering,Senior
+138,MySQL,advanced,Data Engineering,Senior
+138,PostgreSQL,advanced,Data Engineering,Senior
+138,AWS Aurora,advanced,Data Engineering,Senior
+138,SQL Server,advanced,Data Engineering,Senior
+138,NoSQL,advanced,Data Engineering,Senior
+138,DynamoDB,advanced,Data Engineering,Senior
+138,Redis,advanced,Data Engineering,Senior
+138,reliability,advanced,Data Engineering,Senior
+138,MongoDB,regular,Data Engineering,Senior
+139,Data Warehousing,master,Data Engineering,Senior
+139,Azure,master,Data Engineering,Senior
+139,Databricks,master,Data Engineering,Senior
+139,SQL,master,Data Engineering,Senior
+140,GCP,advanced,Data Engineering,Senior
+140,Python,advanced,Data Engineering,Senior
+141,Python,advanced,Data Engineering,Senior
+141,Data Warehouse,advanced,Data Engineering,Senior
+141,ETL,advanced,Data Engineering,Senior
+141,Snowflake,nice to have,Data Engineering,Senior
+142,T-SQL,advanced,Database Administration,Senior
+142,SQL Server,advanced,Database Administration,Senior
+142,OLTP,advanced,Database Administration,Senior
+143,Python,advanced,Data Engineering,Senior
+143,SQL,advanced,Data Engineering,Senior
+143,PySpark,advanced,Data Engineering,Senior
+143,DBT,regular,Data Engineering,Senior
+144,Django,advanced,Data Engineering,Senior
+144,Snowflake,advanced,Data Engineering,Senior
+144,SQL,advanced,Data Engineering,Senior
+144,Python,advanced,Data Engineering,Senior
+144,AWS,nice to have,Data Engineering,Senior
+144,Amazon RDS SQL Database,nice to have,Data Engineering,Senior
+144,TypeScript,nice to have,Data Engineering,Senior
+144,Flyway,nice to have,Data Engineering,Senior
+144,React,nice to have,Data Engineering,Senior
+144,dash,nice to have,Data Engineering,Senior
+145,Azure,advanced,Data Engineering,Senior
+145,Synapse Analytics,advanced,Data Engineering,Senior
+145,Databricks,advanced,Data Engineering,Senior
+145,SQL,advanced,Data Engineering,Senior
+145,Python,advanced,Data Engineering,Senior
+145,Microsoft Fabric,nice to have,Data Engineering,Senior
+146,Qlik,regular,Unclassified,Senior
+146,Power BI,regular,Unclassified,Senior
+147,Python,advanced,Data Engineering,Mid
+147,SQL Server,advanced,Data Engineering,Mid
+147,T-SQL,regular,Data Engineering,Mid
+147,ETL,regular,Data Engineering,Mid
+147,Git,regular,Data Engineering,Mid
+147,Snowflake,regular,Data Engineering,Mid
+147,Azure,regular,Data Engineering,Mid
+147,Kafka,nice to have,Data Engineering,Mid
+147,Kubernetes,nice to have,Data Engineering,Mid
+148,Git,regular,Unclassified,Mid
+148,Airflow,regular,Unclassified,Mid
+148,CI/CD,regular,Unclassified,Mid
+148,ETL,regular,Unclassified,Mid
+148,Spark,regular,Unclassified,Mid
+148,Hadoop,regular,Unclassified,Mid
+148,SQL,regular,Unclassified,Mid
+148,Python,regular,Unclassified,Mid
+149,SQL,advanced,Data Analysis & BI,Mid
+149,BigQuery,regular,Data Analysis & BI,Mid
+149,Snowflake,regular,Data Analysis & BI,Mid
+149,Python,regular,Data Analysis & BI,Mid
+149,Looker,junior,Data Analysis & BI,Mid
+149,Tableau,junior,Data Analysis & BI,Mid
+149,Power BI,junior,Data Analysis & BI,Mid
+149,Spark,junior,Data Analysis & BI,Mid
+150,Airflow,regular,Data Science,Mid
+150,PySpark,regular,Data Science,Mid
+150,mllib,regular,Data Science,Mid
+150,MLflow,regular,Data Science,Mid
+150,Python,regular,Data Science,Mid
+150,Apache Spark,regular,Data Science,Mid
+151,Computer Vision,advanced,Data Science,Senior
+151,PyTorch,advanced,Data Science,Senior
+151,Medical image analysis,advanced,Data Science,Senior
+151,GenAI,regular,Data Science,Senior
+151,CNNs,regular,Data Science,Senior
+151,X-ray,regular,Data Science,Senior
+151,transformers,regular,Data Science,Senior
+151,MRI,regular,Data Science,Senior
+152,Python,advanced,Data Science,Senior
+152,Artificial Intelligence,nice to have,Data Science,Senior
+153,Data Vault,advanced,Data Architecture,Senior
+153,Snowflake,advanced,Data Architecture,Senior
+153,DBT,regular,Data Architecture,Senior
+153,AWS,regular,Data Architecture,Senior
+154,Kafka,advanced,Data Engineering,Senior
+154,Flink,advanced,Data Engineering,Senior
+154,Java,regular,Data Engineering,Senior
+154,Scala,regular,Data Engineering,Senior
+154,Python,regular,Data Engineering,Senior
+154,CI/CD,nice to have,Data Engineering,Senior
+155,SQL,advanced,Unclassified,Senior
+155,Python,advanced,Unclassified,Senior
+155,ETL,advanced,Unclassified,Senior
+155,BigQuery,advanced,Unclassified,Senior
+155,GCP,advanced,Unclassified,Senior
+155,GCP,advanced,Unclassified,Senior
+155,Data Warehousing,advanced,Unclassified,Senior
+155,Apache,nice to have,Unclassified,Senior
+155,Gradle,nice to have,Unclassified,Senior
+155,IntelliJ,nice to have,Unclassified,Senior
+156,Microsoft Excel,advanced,Unclassified,Junior
+157,Apache Spark,advanced,Data Engineering,Senior
+157,Azure Data Factory,advanced,Data Engineering,Senior
+157,Azure Data Storage,advanced,Data Engineering,Senior
+157,Azure DevOps,advanced,Data Engineering,Senior
+158,SQL,advanced,Data Analysis & BI,Senior
+158,Python,regular,Data Analysis & BI,Senior
+158,Data Quality,regular,Data Analysis & BI,Senior
+158,PySpark,regular,Data Analysis & BI,Senior
+158,ETL,regular,Data Analysis & BI,Senior
+159,Python,regular,Data Engineering,Mid
+159,Azure,regular,Data Engineering,Mid
+159,Databricks,regular,Data Engineering,Mid
+159,Apache Spark,regular,Data Engineering,Mid
+159,Snowflake,junior,Data Engineering,Mid
+160,Bash,regular,Data Engineering,Mid
+160,ETL,regular,Data Engineering,Mid
+160,ELT,regular,Data Engineering,Mid
+160,Azure Data Factory,regular,Data Engineering,Mid
+160,Databricks,regular,Data Engineering,Mid
+160,SQL,regular,Data Engineering,Mid
+160,Python,regular,Data Engineering,Mid
+161,Data Scientist,regular,Data Science,Mid
+161,Cybersecurity,regular,Data Science,Mid
+161,SQL,regular,Data Science,Mid
+161,Python,regular,Data Science,Mid
+162,Looker,regular,Data Analysis & BI,Mid
+162,FinTech,regular,Data Analysis & BI,Mid
+162,Snowflake,regular,Data Analysis & BI,Mid
+162,SQL,regular,Data Analysis & BI,Mid
+162,Python,regular,Data Analysis & BI,Mid
+162,Treasury,junior,Data Analysis & BI,Mid
+162,n8n,nice to have,Data Analysis & BI,Mid
+162,UiPath,nice to have,Data Analysis & BI,Mid
+162,Payments,nice to have,Data Analysis & BI,Mid
+162,SAP S/4HANA,nice to have,Data Analysis & BI,Mid
+163,Power BI,regular,Data Analysis & BI,Mid
+163,SQL,regular,Data Analysis & BI,Mid
+163,ETL tools,regular,Data Analysis & BI,Mid
+163,DAX,nice to have,Data Analysis & BI,Mid
+163,Power Query,nice to have,Data Analysis & BI,Mid
+164,ETL tools,master,Data Engineering,Senior
+164,CRM,advanced,Data Engineering,Senior
+164,DBT,advanced,Data Engineering,Senior
+164,Snowflake,advanced,Data Engineering,Senior
+164,AWS,regular,Data Engineering,Senior
+164,Azure,regular,Data Engineering,Senior
+164,SQL,regular,Data Engineering,Senior
+164,Salesforce,junior,Data Engineering,Senior
+164,NetSuite,nice to have,Data Engineering,Senior
+165,SQL,master,Unclassified,Senior
+165,Data Warehousing,master,Unclassified,Senior
+165,BigQuery,advanced,Unclassified,Senior
+165,PostgreSQL,advanced,Unclassified,Senior
+165,Airflow,regular,Unclassified,Senior
+165,DBT,regular,Unclassified,Senior
+165,Machine Learning,regular,Unclassified,Senior
+165,Snowflake,regular,Unclassified,Senior
+166,Databases,master,Data Engineering,Mid
+167,Power BI,advanced,Data Analysis & BI,Senior
+167,SQL,advanced,Data Analysis & BI,Senior
+167,Snowflake,nice to have,Data Analysis & BI,Senior
+167,Python,nice to have,Data Analysis & BI,Senior
+168,GitHub,master,Data Engineering,Senior
+168,Databricks,master,Data Engineering,Senior
+168,Azure Data Lake,master,Data Engineering,Senior
+168,Snowflake,regular,Data Engineering,Senior
+169,SQL,advanced,Data Analysis & BI,Senior
+169,Data analysis,advanced,Data Analysis & BI,Senior
+169,Python,nice to have,Data Analysis & BI,Senior
+169,SAS,nice to have,Data Analysis & BI,Senior
+170,PySpark,advanced,Data Engineering,Mid
+170,Azure,advanced,Data Engineering,Mid
+170,Databricks,advanced,Data Engineering,Mid
+170,SQL,advanced,Data Engineering,Mid
+170,Python,advanced,Data Engineering,Mid
+171,C++,advanced,Unclassified,Senior
+171,Git,regular,Unclassified,Senior
+171,Python,regular,Unclassified,Senior
+171,Docker,junior,Unclassified,Senior
+171,SQL,junior,Unclassified,Senior
+171,AWS,nice to have,Unclassified,Senior
+172,Airflow,advanced,Data Engineering,Senior
+172,GCP,advanced,Data Engineering,Senior
+172,Python,advanced,Data Engineering,Senior
+172,DBT,regular,Data Engineering,Senior
+172,SQL,regular,Data Engineering,Senior
+173,ETL,advanced,Data Engineering,Senior
+173,Azure,advanced,Data Engineering,Senior
+173,Databricks,advanced,Data Engineering,Senior
+174,Snowflake,regular,Unclassified,Mid
+174,SQL,regular,Unclassified,Mid
+174,Collibra,nice to have,Unclassified,Mid
+174,Atlan,nice to have,Unclassified,Mid
+174,Matillion,nice to have,Unclassified,Mid
+175,SQL,regular,Data Science,Mid
+175,Python,regular,Data Science,Mid
+176,SQL,advanced,Data Analysis & BI,Senior
+176,BigQuery,regular,Data Analysis & BI,Senior
+176,Glue,regular,Data Analysis & BI,Senior
+176,Python,regular,Data Analysis & BI,Senior
+176,Athena,junior,Data Analysis & BI,Senior
+176,Airflow,junior,Data Analysis & BI,Senior
+177,SQL,advanced,Data Analysis & BI,Mid
+177,Power BI,regular,Data Analysis & BI,Mid
+177,Tableau,regular,Data Analysis & BI,Mid
+177,Python,junior,Data Analysis & BI,Mid
+178,DBT,regular,Unclassified,Mid
+178,DBT,regular,Unclassified,Mid
+178,SQL,regular,Unclassified,Mid
+178,Airflow,regular,Unclassified,Mid
+178,CI/CD,junior,Unclassified,Mid
+178,Snowflake,nice to have,Unclassified,Mid
+178,BigQuery,nice to have,Unclassified,Mid
+178,Databricks,nice to have,Unclassified,Mid
+178,Redshift,nice to have,Unclassified,Mid
+179,Python,advanced,Data Engineering,Senior
+179,Snowflake,advanced,Data Engineering,Senior
+179,AWS,advanced,Data Engineering,Senior
+180,SQL,advanced,Data Analysis & BI,Senior
+180,Power BI,advanced,Data Analysis & BI,Senior
+180,DAX,advanced,Data Analysis & BI,Senior
+181,LLMs,regular,Data Science,Mid
+181,Artificial Intelligence,regular,Data Science,Mid
+181,Machine Learning,regular,Data Science,Mid
+181,Python,regular,Data Science,Mid
+181,SQL,regular,Data Science,Mid
+181,Git,regular,Data Science,Mid
+182,AWS,advanced,Data Engineering,Senior
+182,Bash,advanced,Data Engineering,Senior
+182,Python,advanced,Data Engineering,Senior
+182,IaC,advanced,Data Engineering,Senior
+182,CI/CD,advanced,Data Engineering,Senior
+183,Python,advanced,Data Engineering,Senior
+183,Databricks,advanced,Data Engineering,Senior
+183,Azure,regular,Data Engineering,Senior
+183,Spark,regular,Data Engineering,Senior
+183,SQL,regular,Data Engineering,Senior
+183,CI/CD,junior,Data Engineering,Senior
+183,Docker,junior,Data Engineering,Senior
+183,Stream Analytic,nice to have,Data Engineering,Senior
+184,Hadoop,advanced,Data Engineering,Senior
+184,Hive,advanced,Data Engineering,Senior
+184,Scala,advanced,Data Engineering,Senior
+184,Apache Spark,advanced,Data Engineering,Senior
+184,Apache,regular,Data Engineering,Senior
+184,Dataflow,regular,Data Engineering,Senior
+184,BigQuery,regular,Data Engineering,Senior
+184,HDFS,regular,Data Engineering,Senior
+184,SQL,regular,Data Engineering,Senior
+184,Dataproc,regular,Data Engineering,Senior
+185,Data Center,junior,Unclassified,Junior
+185,Linux,junior,Unclassified,Junior
+186,SQL,junior,Data Analysis & BI,Junior
+187,Data analysis,advanced,Data Analysis & BI,Mid
+187,Python,regular,Data Analysis & BI,Mid
+187,R,regular,Data Analysis & BI,Mid
+187,SQL,regular,Data Analysis & BI,Mid
+187,Jupyter,regular,Data Analysis & BI,Mid
+187,Power BI,regular,Data Analysis & BI,Mid
+187,scikit-learn,junior,Data Analysis & BI,Mid
+187,PyTorch,junior,Data Analysis & BI,Mid
+188,Large Language Models,advanced,Unclassified,Senior
+188,Azure,advanced,Unclassified,Senior
+188,Python,advanced,Unclassified,Senior
+188,Generative AI,advanced,Unclassified,Senior
+189,SQL,advanced,Data Analysis & BI,Mid
+189,Data Visualization,advanced,Data Analysis & BI,Mid
+189,Tableau,advanced,Data Analysis & BI,Mid
+189,Python,nice to have,Data Analysis & BI,Mid
+190,ETL,advanced,Unclassified,Senior
+190,Spark,advanced,Unclassified,Senior
+190,JSON,advanced,Unclassified,Senior
+190,Azure,advanced,Unclassified,Senior
+190,Databricks,advanced,Unclassified,Senior
+190,SQL,advanced,Unclassified,Senior
+190,Python,advanced,Unclassified,Senior
+190,Scala,advanced,Unclassified,Senior
+190,NoSQL,advanced,Unclassified,Senior
+191,Kotlin,regular,Data Engineering,Mid
+191,Databases,regular,Data Engineering,Mid
+191,Java,regular,Data Engineering,Mid
+191,Scala,regular,Data Engineering,Mid
+192,MySQL,regular,Data Engineering,Mid
+192,MongoDB,regular,Data Engineering,Mid
+192,Java,regular,Data Engineering,Mid
+192,SQL,regular,Data Engineering,Mid
+192,Oracle,regular,Data Engineering,Mid
+192,Python,regular,Data Engineering,Mid
+192,NoSQL,regular,Data Engineering,Mid
+193,AWS,advanced,Data Engineering,Senior
+193,Terraform,advanced,Data Engineering,Senior
+193,SQL,advanced,Data Engineering,Senior
+193,DBT,regular,Data Engineering,Senior
+193,Python,regular,Data Engineering,Senior
+193,Airflow,junior,Data Engineering,Senior
+193,CI/CD,junior,Data Engineering,Senior
+194,C#,advanced,Unclassified,Senior
+194,Go,advanced,Unclassified,Senior
+194,Python,advanced,Unclassified,Senior
+194,Apache Spark,regular,Unclassified,Senior
+195,Azure,advanced,Data Science,Senior
+195,Databricks,advanced,Data Science,Senior
+195,SQL Server,advanced,Data Science,Senior
+195,DWH,advanced,Data Science,Senior
+196,AWS,advanced,Data Engineering,Senior
+196,Docker,advanced,Data Engineering,Senior
+196,SQL,advanced,Data Engineering,Senior
+196,Python,advanced,Data Engineering,Senior
+196,Apache Spark,advanced,Data Engineering,Senior
+196,Airflow,regular,Data Engineering,Senior
+196,Kubernetes,regular,Data Engineering,Senior
+196,Iceberg,nice to have,Data Engineering,Senior
+196,Java,nice to have,Data Engineering,Senior
+197,Azure DevOps,advanced,Data Architecture,Senior
+197,Microsoft Fabric,advanced,Data Architecture,Senior
+197,CI/CD,advanced,Data Architecture,Senior
+197,Data Marts,advanced,Data Architecture,Senior
+197,Data models,advanced,Data Architecture,Senior
+198,AWS,advanced,Unclassified,Manager / C-level
+198,Python,advanced,Unclassified,Manager / C-level
+198,RabbitMQ,regular,Unclassified,Manager / C-level
+198,InfluxDB,regular,Unclassified,Manager / C-level
+198,Go,nice to have,Unclassified,Manager / C-level
+198,Rust,nice to have,Unclassified,Manager / C-level
+199,Relational Databases,advanced,Unclassified,Senior
+199,SQL,advanced,Unclassified,Senior
+200,R,regular,Unclassified,Mid
+200,Git,regular,Unclassified,Mid
+200,Python,regular,Unclassified,Mid
+200,SQL,nice to have,Unclassified,Mid
+200,CI/CD,nice to have,Unclassified,Mid
+201,SQL,regular,Data Science,Mid
+201,R,regular,Data Science,Mid
+201,Python,regular,Data Science,Mid
+201,Machine Learning,regular,Data Science,Mid
+202,Hadoop,master,Data Engineering,Senior
+202,Hive,master,Data Engineering,Senior
+202,HDFS,master,Data Engineering,Senior
+202,Apache Spark,master,Data Engineering,Senior
+202,Scala,regular,Data Engineering,Senior
+202,GCP,regular,Data Engineering,Senior
+202,SQL,regular,Data Engineering,Senior
+202,CI/CD,regular,Data Engineering,Senior
+202,Bigquery,nice to have,Data Engineering,Senior
+202,Cloud Dataflow,nice to have,Data Engineering,Senior
+203,Azure,advanced,Data Architecture,Senior
+203,Databricks,advanced,Data Architecture,Senior
+203,Azure,advanced,Data Architecture,Senior
+204,SQL,advanced,Data Engineering,Mid
+204,Python,advanced,Data Engineering,Mid
+204,PySpark,advanced,Data Engineering,Mid
+204,Python GenAI,advanced,Data Engineering,Mid
+204,ML OPS,advanced,Data Engineering,Mid
+204,Azure,regular,Data Engineering,Mid
+204,Databricks,regular,Data Engineering,Mid
+204,ETL,regular,Data Engineering,Mid
+204,JavaScript,regular,Data Engineering,Mid
+204,.Net,regular,Data Engineering,Mid
+205,Airflow,advanced,Data Engineering,Senior
+205,Databricks,advanced,Data Engineering,Senior
+205,GCP,advanced,Data Engineering,Senior
+206,Azure,advanced,Data Engineering,Senior
+206,ETL,regular,Data Engineering,Senior
+206,Power BI,regular,Data Engineering,Senior
+206,Databricks,regular,Data Engineering,Senior
+206,Microsoft Fabric,regular,Data Engineering,Senior
+206,Power Platform,regular,Data Engineering,Senior
+207,Bash,nice to have,Data Engineering,Mid
+207,Drawing Diagrams,nice to have,Data Engineering,Mid
+208,Artificial Intelligence,regular,Data Science,Senior
+209,ETL tools,regular,Data Engineering,Mid
+209,PySpark,regular,Data Engineering,Mid
+209,Hadoop,regular,Data Engineering,Mid
+209,SQL,regular,Data Engineering,Mid
+209,Python,regular,Data Engineering,Mid
+209,NoSQL,regular,Data Engineering,Mid
+209,Flink,junior,Data Engineering,Mid
+210,Machine Learning,regular,Data Science,Mid
+210,Data analysis,regular,Data Science,Mid
+210,Python,regular,Data Science,Mid
+210,SQL,regular,Data Science,Mid
+210,Data Visualization,regular,Data Science,Mid
+211,R,regular,Data Analysis & BI,Mid
+211,REST API,regular,Data Analysis & BI,Mid
+211,BigQuery,regular,Data Analysis & BI,Mid
+211,Java,regular,Data Analysis & BI,Mid
+211,SQL,regular,Data Analysis & BI,Mid
+211,JavaScript,regular,Data Analysis & BI,Mid
+211,Python,regular,Data Analysis & BI,Mid
+211,Scala,regular,Data Analysis & BI,Mid
+212,AWS,regular,Data Engineering,Mid
+212,GCP,regular,Data Engineering,Mid
+212,Palantir,regular,Data Engineering,Mid
+212,Palantir Foundry,regular,Data Engineering,Mid
+212,Azure,regular,Data Engineering,Mid
+212,SQL,regular,Data Engineering,Mid
+212,Python,regular,Data Engineering,Mid
+212,Git,nice to have,Data Engineering,Mid
+212,CI/CD,nice to have,Data Engineering,Mid
+213,Machine Learning,advanced,Data Science,Senior
+213,SQL,advanced,Data Science,Senior
+213,Python,advanced,Data Science,Senior
+214,AWS,master,Unclassified,Senior
+214,erlang,master,Unclassified,Senior
+214,OPT,master,Unclassified,Senior
+214,Apache Kafka,advanced,Unclassified,Senior
+214,PostgreSQL,advanced,Unclassified,Senior
+214,Elixir,regular,Unclassified,Senior
+214,Python,regular,Unclassified,Senior
+215,Oracle,advanced,Data Engineering,Senior
+215,Python,advanced,Data Engineering,Senior
+215,C#,advanced,Data Engineering,Senior
+215,Kubernetes,advanced,Data Engineering,Senior
+215,CI/CD,advanced,Data Engineering,Senior
+216,Java,advanced,Data Engineering,Senior
+216,Python,advanced,Data Engineering,Senior
+216,Scala,advanced,Data Engineering,Senior
+216,PySpark,advanced,Data Engineering,Senior
+216,Hive,advanced,Data Engineering,Senior
+217,Power BI,advanced,Data Analysis & BI,Mid
+217,SQL,advanced,Data Analysis & BI,Mid
+217,DAX,advanced,Data Analysis & BI,Mid
+217,Snowflake,nice to have,Data Analysis & BI,Mid
+217,Dynamics 365,nice to have,Data Analysis & BI,Mid
+218,IT system maintenance,advanced,Unclassified,Senior
+218,Jira,advanced,Unclassified,Senior
+218,Azure DevOps,advanced,Unclassified,Senior
+218,SQL,regular,Unclassified,Senior
+218,PySpark,regular,Unclassified,Senior
+218,API,regular,Unclassified,Senior
+219,Informatica,master,Data Engineering,Senior
+220,Looker,advanced,Unclassified,Senior
+220,GCP,advanced,Unclassified,Senior
+220,Looker,advanced,Unclassified,Senior
+220,Airflow,regular,Unclassified,Senior
+220,DBT,regular,Unclassified,Senior
+220,dataform,regular,Unclassified,Senior
+220,Azure,regular,Unclassified,Senior
+220,DAX,regular,Unclassified,Senior
+220,SQL,regular,Unclassified,Senior
+220,SSAS,regular,Unclassified,Senior
+221,Software Development,advanced,Data Engineering,Senior
+221,Python,advanced,Data Engineering,Senior
+221,PySpark,regular,Data Engineering,Senior
+221,Azure,regular,Data Engineering,Senior
+221,AWS,regular,Data Engineering,Senior
+222,Software Development,master,Unclassified,Senior
+222,PostgreSQL,advanced,Unclassified,Senior
+222,CI/CD,advanced,Unclassified,Senior
+222,ETL,advanced,Unclassified,Senior
+222,DDD,advanced,Unclassified,Senior
+222,API,advanced,Unclassified,Senior
+222,Oracle,advanced,Unclassified,Senior
+222,Python,advanced,Unclassified,Senior
+223,QlikSense,regular,Unclassified,Mid
+223,Qlik Server,regular,Unclassified,Mid
+224,Databricks,advanced,Data Engineering,Senior
+224,Python,advanced,Data Engineering,Senior
+224,Apache Spark,advanced,Data Engineering,Senior
+224,SQL,advanced,Data Engineering,Senior
+224,Azure,regular,Data Engineering,Senior
+224,AWS,regular,Data Engineering,Senior
+225,Azure Data Factory,advanced,Data Engineering,Senior
+225,Azure,advanced,Data Engineering,Senior
+226,PySpark,advanced,Data Engineering,Senior
+226,Azure,advanced,Data Engineering,Senior
+226,Databricks,advanced,Data Engineering,Senior
+226,SQL,advanced,Data Engineering,Senior
+226,Python,advanced,Data Engineering,Senior
+227,Machine Learning,advanced,Data Science,Senior
+227,Python,advanced,Data Science,Senior
+227,Generative AI,advanced,Data Science,Senior
+228,SQL Server,regular,Database Administration,Senior
+228,Databases,regular,Database Administration,Senior
+228,MySQL,regular,Database Administration,Senior
+228,Oracle,regular,Database Administration,Senior
+228,AWS,nice to have,Database Administration,Senior
+228,GCP,nice to have,Database Administration,Senior
+228,Azure,nice to have,Database Administration,Senior
+229,GCP,advanced,Unclassified,Senior
+229,ETL,advanced,Unclassified,Senior
+229,Data Warehousing,advanced,Unclassified,Senior
+229,GCP,advanced,Unclassified,Senior
+229,BigQuery,advanced,Unclassified,Senior
+229,SQL,advanced,Unclassified,Senior
+229,Python,advanced,Unclassified,Senior
+229,Apache,nice to have,Unclassified,Senior
+229,IntelliJ,nice to have,Unclassified,Senior
+229,Gradle,nice to have,Unclassified,Senior
+230,PostgreSQL,regular,Database Administration,Mid
+230,Power BI,regular,Database Administration,Mid
+230,SQL Server,regular,Database Administration,Mid
+230,Oracle,regular,Database Administration,Mid
+230,Tableau,nice to have,Database Administration,Mid
+230,SSRS,nice to have,Database Administration,Mid
+231,Azure,advanced,Data Science,Senior
+231,DWH,advanced,Data Science,Senior
+231,Data Modeling,advanced,Data Science,Senior
+231,Data Engineering,advanced,Data Science,Senior
+232,Business Intelligence,advanced,Data Analysis & BI,Senior
+232,Microsoft,advanced,Data Analysis & BI,Senior
+232,Azure,advanced,Data Analysis & BI,Senior
+232,Power BI,advanced,Data Analysis & BI,Senior
+233,Spark,advanced,Data Science,Senior
+233,Hadoop,advanced,Data Science,Senior
+233,SQL,advanced,Data Science,Senior
+233,Python,advanced,Data Science,Senior
+234,Azure,advanced,Data Engineering,Senior
+234,Snowflake,regular,Data Engineering,Senior
+234,Databricks,regular,Data Engineering,Senior
+234,Python,regular,Data Engineering,Senior
+235,BI,master,Database Administration,Senior
+235,Business Intelligence,master,Database Administration,Senior
+235,SQL,regular,Database Administration,Senior
+235,Power BI,regular,Database Administration,Senior
+235,Databricks,nice to have,Database Administration,Senior
+235,ITIL,nice to have,Database Administration,Senior
+236,data governance,advanced,Data Architecture,Senior
+236,Artificial Intelligence,advanced,Data Architecture,Senior
+236,Machine Learning,advanced,Data Architecture,Senior
+237,AWS,advanced,Data Engineering,Senior
+237,PySpark,advanced,Data Engineering,Senior
+237,Python,advanced,Data Engineering,Senior
+237,Apache Spark,regular,Data Engineering,Senior
+237,GitLab,regular,Data Engineering,Senior
+237,CI/CD,regular,Data Engineering,Senior
+237,Terraform,regular,Data Engineering,Senior
+238,Spark,advanced,Data Engineering,Mid
+238,Hive,regular,Data Engineering,Mid
+238,HDFS,regular,Data Engineering,Mid
+238,Python,regular,Data Engineering,Mid
+238,Scala,regular,Data Engineering,Mid
+238,Kafka,nice to have,Data Engineering,Mid
+239,Software Development,advanced,Data Engineering,Senior
+239,Databricks,advanced,Data Engineering,Senior
+239,SQL,advanced,Data Engineering,Senior
+239,Python,advanced,Data Engineering,Senior
+239,Spark,advanced,Data Engineering,Senior
+239,Azure,advanced,Data Engineering,Senior
+239,Data Warehousing,advanced,Data Engineering,Senior
+239,PySpark,advanced,Data Engineering,Senior
+240,PySpark,advanced,Data Engineering,Senior
+240,Databricks,advanced,Data Engineering,Senior
+240,SQL,advanced,Data Engineering,Senior
+240,Power BI,regular,Data Engineering,Senior
+240,Azure,regular,Data Engineering,Senior
+240,Python,regular,Data Engineering,Senior
+241,Data Warehouse,regular,Unclassified,Mid
+241,SQL,regular,Unclassified,Mid
+241,ETL,regular,Unclassified,Mid
+241,Azure,nice to have,Unclassified,Mid
+241,Databricks,nice to have,Unclassified,Mid
+242,AWS,advanced,Data Analysis & BI,Senior
+242,Airflow,regular,Data Analysis & BI,Senior
+242,Power BI,regular,Data Analysis & BI,Senior
+242,Python,regular,Data Analysis & BI,Senior
+243,SAP HANA,advanced,Data Engineering,Mid
+244,Backend,advanced,Data Engineering,Senior
+244,AWS,regular,Data Engineering,Senior
+244,Git,regular,Data Engineering,Senior
+244,SQL,regular,Data Engineering,Senior
+245,SQL,advanced,Data Science,Senior
+245,Python,advanced,Data Science,Senior
+246,Microsoft Excel,advanced,Data Analysis & BI,Junior
+246,Microsoft Office,advanced,Data Analysis & BI,Junior
+247,Generative AI,master,Data Science,Mid
+247,Python,master,Data Science,Mid
+247,NLP,advanced,Data Science,Mid
+247,NumPy,advanced,Data Science,Mid
+247,Pandas,advanced,Data Science,Mid
+247,Git,advanced,Data Science,Mid
+247,PyTorch,regular,Data Science,Mid
+248,Python,master,Data Science,Senior
+248,Artificial Intelligence,regular,Data Science,Senior
+249,Python,regular,Data Engineering,Senior
+249,SQL,regular,Data Engineering,Senior
+249,Snowflake,regular,Data Engineering,Senior
+249,PostgreSQL,regular,Data Engineering,Senior
+249,Elasticsearch,regular,Data Engineering,Senior
+249,Apache Spark,regular,Data Engineering,Senior
+249,Azure Databricks,regular,Data Engineering,Senior
+249,Airflow,regular,Data Engineering,Senior
+250,GCP,regular,Data Engineering,Mid
+250,CI/CD,regular,Data Engineering,Mid
+250,Cloud,regular,Data Engineering,Mid
+250,BigQuery,regular,Data Engineering,Mid
+250,Java,regular,Data Engineering,Mid
+250,Dataproc,regular,Data Engineering,Mid
+250,Kubernetes,regular,Data Engineering,Mid
+251,C++,advanced,Data Science,Manager / C-level
+251,Java,advanced,Data Science,Manager / C-level
+252,Apache Spark,regular,Data Engineering,Mid
+252,PySpark,regular,Data Engineering,Mid
+252,Azure,regular,Data Engineering,Mid
+252,Databricks,regular,Data Engineering,Mid
+252,Delta Lake,regular,Data Engineering,Mid
+252,Python,regular,Data Engineering,Mid
+252,SQL,regular,Data Engineering,Mid
+253,SQL,advanced,Data Science,Senior
+253,Python,advanced,Data Science,Senior
+254,Cloudera,advanced,Unclassified,Senior
+254,Linux,advanced,Unclassified,Senior
+254,Hadoop,regular,Unclassified,Senior
+254,Jenkins,regular,Unclassified,Senior
+254,Ansible,regular,Unclassified,Senior
+254,s3,nice to have,Unclassified,Senior
+255,Data analysis,advanced,Data Analysis & BI,Senior
+255,R,advanced,Data Analysis & BI,Senior
+255,Python,advanced,Data Analysis & BI,Senior
+255,SQL,advanced,Data Analysis & BI,Senior
+255,Business Intelligence,advanced,Data Analysis & BI,Senior
+256,Python,master,Data Science,Senior
+256,PySpark,advanced,Data Science,Senior
+256,NumPy,advanced,Data Science,Senior
+256,Azure,advanced,Data Science,Senior
+256,Pandas,advanced,Data Science,Senior
+257,Python,regular,Data Science,Mid
+257,R,regular,Data Science,Mid
+257,SQL,regular,Data Science,Mid
+257,Machine Learning,junior,Data Science,Mid
+257,BigQuery,junior,Data Science,Mid
+258,Kafka,regular,Data Engineering,Senior
+258,Python,regular,Data Engineering,Senior
+258,Databricks,regular,Data Engineering,Senior
+258,Azure Functions,regular,Data Engineering,Senior
+259,Airflow,master,Data Engineering,Senior
+259,DBT,master,Data Engineering,Senior
+259,GCP,master,Data Engineering,Senior
+259,BigQuery,master,Data Engineering,Senior
+259,Python,advanced,Data Engineering,Senior
+260,SQL,master,Data Analysis & BI,Senior
+260,DBT,regular,Data Analysis & BI,Senior
+260,ETL,regular,Data Analysis & BI,Senior
+260,Azure,junior,Data Analysis & BI,Senior
+261,AWS,regular,Data Engineering,Mid
+261,Azure,regular,Data Engineering,Mid
+261,GCP,regular,Data Engineering,Mid
+261,Docker,regular,Data Engineering,Mid
+261,SQL,regular,Data Engineering,Mid
+261,NoSQL,regular,Data Engineering,Mid
+261,CI/CD,regular,Data Engineering,Mid
+261,Kubernetes,regular,Data Engineering,Mid
+261,Snowflake,regular,Data Engineering,Mid
+262,monitor vessel activity,regular,Unclassified,Junior
+262,verify data quality,regular,Unclassified,Junior
+262,review technical documentation,regular,Unclassified,Junior
+263,AWS,advanced,Data Engineering,Senior
+263,ETL,advanced,Data Engineering,Senior
+263,SQL,advanced,Data Engineering,Senior
+263,Python,advanced,Data Engineering,Senior
+263,Artificial Intelligence,regular,Data Engineering,Senior
+263,GCP,regular,Data Engineering,Senior
+264,AWS,advanced,Data Engineering,Mid
+264,Spark,advanced,Data Engineering,Mid
+264,SQL,advanced,Data Engineering,Mid
+264,Python,advanced,Data Engineering,Mid
+264,Data Integration,advanced,Data Engineering,Mid
+264,Hadoop,regular,Data Engineering,Mid
+264,Iceberg,nice to have,Data Engineering,Mid
+264,Hive,nice to have,Data Engineering,Mid
+265,Python,advanced,Data Science,Senior
+265,Databricks,advanced,Data Science,Senior
+265,Azure,advanced,Data Science,Senior
+265,rag,advanced,Data Science,Senior
+266,Full-stack BI Development,regular,Data Analysis & BI,Mid
+266,Power BI,regular,Data Analysis & BI,Mid
+266,Matillion,regular,Data Analysis & BI,Mid
+266,Managed Services,regular,Data Analysis & BI,Mid
+266,Snowflake,regular,Data Analysis & BI,Mid
+266,Oracle,nice to have,Data Analysis & BI,Mid
+266,SSIS,nice to have,Data Analysis & BI,Mid
+267,ETL,advanced,Data Engineering,Mid
+267,Python,regular,Data Engineering,Mid
+267,SQL,regular,Data Engineering,Mid
+267,Airflow,regular,Data Engineering,Mid
+267,OLAP,regular,Data Engineering,Mid
+268,AWS,advanced,Data Architecture,Senior
+268,Databricks,advanced,Data Architecture,Senior
+268,Python,advanced,Data Architecture,Senior
+268,Apache Spark,advanced,Data Architecture,Senior
+268,Machine Learning,regular,Data Architecture,Senior
+268,Artificial Intelligence,regular,Data Architecture,Senior
+268,Azure,nice to have,Data Architecture,Senior
+269,SQL Server,advanced,Database Administration,Mid
+269,AWS,nice to have,Database Administration,Mid
+269,Windows AD,nice to have,Database Administration,Mid
+269,Azure,nice to have,Database Administration,Mid
+269,DBplus,nice to have,Database Administration,Mid
+269,redgate,nice to have,Database Administration,Mid
+270,Machine Learning,advanced,Data Science,Senior
+270,SQL,advanced,Data Science,Senior
+270,Python,advanced,Data Science,Senior
+270,Probability and Statistics,advanced,Data Science,Senior
+270,C++,nice to have,Data Science,Senior
+270,JavaScript,nice to have,Data Science,Senior
+270,Scala,nice to have,Data Science,Senior
+271,Snowflake,advanced,Data Analysis & BI,Senior
+271,Oracle,advanced,Data Analysis & BI,Senior
+271,SQL,advanced,Data Analysis & BI,Senior
+271,UX/UI,advanced,Data Analysis & BI,Senior
+271,IBCS,advanced,Data Analysis & BI,Senior
+271,DAX,advanced,Data Analysis & BI,Senior
+271,Power BI,advanced,Data Analysis & BI,Senior
+272,Databricks,master,Data Engineering,Mid
+272,PySpark,regular,Data Engineering,Mid
+273,SQL,master,Data Analysis & BI,Mid
+273,Power BI,master,Data Analysis & BI,Mid
+273,Google Data Studio,advanced,Data Analysis & BI,Mid
+273,Python,nice to have,Data Analysis & BI,Mid
+274,SQL Server,regular,Database Administration,Mid
+274,Powershell,regular,Database Administration,Mid
+274,SQL,regular,Database Administration,Mid
+275,ETL,advanced,Data Engineering,Senior
+275,Bigquery,advanced,Data Engineering,Senior
+275,GCP,advanced,Data Engineering,Senior
+275,SQL,advanced,Data Engineering,Senior
+275,Airflow,regular,Data Engineering,Senior
+276,MySQL,master,Data Engineering,Senior
+276,Ansible,advanced,Data Engineering,Senior
+276,PMM,regular,Data Engineering,Senior
+276,Linux server systems,regular,Data Engineering,Senior
+276,Prometheus,regular,Data Engineering,Senior
+277,Oracle,regular,Database Administration,Mid
+277,SQL,regular,Database Administration,Mid
+277,Microsoft Excel,regular,Database Administration,Mid
+277,VBA,nice to have,Database Administration,Mid
+277,Bankowość,nice to have,Database Administration,Mid
+277,rachunkowość,nice to have,Database Administration,Mid
+277,Power BI,nice to have,Database Administration,Mid
+277,leasing,nice to have,Database Administration,Mid
+278,DWH,regular,Data Engineering,Senior
+278,Oracle,regular,Data Engineering,Senior
+278,SAS,regular,Data Engineering,Senior
+278,Azure,junior,Data Engineering,Senior
+279,AWS,regular,Data Architecture,Mid
+279,ETL,regular,Data Architecture,Mid
+279,ELT,regular,Data Architecture,Mid
+279,Data Warehousing,regular,Data Architecture,Mid
+279,Terraform,regular,Data Architecture,Mid
+279,CloudFormation,regular,Data Architecture,Mid
+279,SQL,regular,Data Architecture,Mid
+279,Python,regular,Data Architecture,Mid
+279,Snowflake,nice to have,Data Architecture,Mid
+280,SQL Server,regular,Unclassified,Mid
+280,REST API,regular,Unclassified,Mid
+280,T-SQL,junior,Unclassified,Mid
+280,Neo4j,junior,Unclassified,Mid
+280,VPN,junior,Unclassified,Mid
+280,FTP,junior,Unclassified,Mid
+280,SFTP,junior,Unclassified,Mid
+280,Java,nice to have,Unclassified,Mid
+280,Power BI,nice to have,Unclassified,Mid
+281,Oracle,advanced,Data Engineering,Senior
+281,T-SQL,advanced,Data Engineering,Senior
+282,ETL,advanced,Data Architecture,Mid
+282,BI/DWH,advanced,Data Architecture,Mid
+282,SQL,advanced,Data Architecture,Mid
+282,T-SQL,regular,Data Architecture,Mid
+282,Teradata,regular,Data Architecture,Mid
+282,MySQL,regular,Data Architecture,Mid
+282,SQL Server,regular,Data Architecture,Mid
+282,Oracle,regular,Data Architecture,Mid
+282,AWS,nice to have,Data Architecture,Mid
+282,Azure,nice to have,Data Architecture,Mid
+282,GCP,nice to have,Data Architecture,Mid
+282,Snowflake,nice to have,Data Architecture,Mid
+283,Oracle APEX,regular,Unclassified,Mid
+283,JavaScript,regular,Unclassified,Mid
+283,jQuery,regular,Unclassified,Mid
+283,Apache Airflow,regular,Unclassified,Mid
+283,Oracle,regular,Unclassified,Mid
+284,Azure,advanced,Data Engineering,Mid
+284,Databricks,advanced,Data Engineering,Mid
+284,SQL,advanced,Data Engineering,Mid
+284,Python,advanced,Data Engineering,Mid
+284,Airflow,regular,Data Engineering,Mid
+284,DBT,nice to have,Data Engineering,Mid
+284,Power BI,nice to have,Data Engineering,Mid
+284,Dagster,nice to have,Data Engineering,Mid
+284,Apache Spark,nice to have,Data Engineering,Mid
+285,Bash,regular,Database Administration,Mid
+285,Databases,regular,Database Administration,Mid
+285,Oracle,regular,Database Administration,Mid
+285,Oracle,regular,Database Administration,Mid
+285,SQL,regular,Database Administration,Mid
+285,Oracle,regular,Database Administration,Mid
+285,Linux OS,regular,Database Administration,Mid
+285,Virtualization,nice to have,Database Administration,Mid
+285,Python,nice to have,Database Administration,Mid
+286,data vault 2.0,advanced,Data Architecture,Mid
+286,Snowflake,advanced,Data Architecture,Mid
+286,DBT,advanced,Data Architecture,Mid
+286,AWS,advanced,Data Architecture,Mid
+287,PySpark,advanced,Data Engineering,Senior
+287,Azure,advanced,Data Engineering,Senior
+287,Databricks,advanced,Data Engineering,Senior
+287,Python,advanced,Data Engineering,Senior
+287,Snowflake,nice to have,Data Engineering,Senior
+288,Artificial Intelligence,advanced,Data Science,Senior
+288,Python,advanced,Data Science,Senior
+288,AWS,advanced,Data Science,Senior
+288,Apache Kafka,advanced,Data Science,Senior
+288,Terraform,advanced,Data Science,Senior
+289,Informatica Powercenter,master,Data Engineering,Senior
+289,PostgreSQL,advanced,Data Engineering,Senior
+289,GCP,advanced,Data Engineering,Senior
+289,Oracle,advanced,Data Engineering,Senior
+290,T-SQL,advanced,Data Analysis & BI,Mid
+290,Power BI,advanced,Data Analysis & BI,Mid
+290,SQL Server,advanced,Data Analysis & BI,Mid
+291,Python,advanced,Data Science,Mid
+291,Azure,regular,Data Science,Mid
+291,SQL,junior,Data Science,Mid
+292,AWS,advanced,Data Science,Senior
+292,CI/CD,advanced,Data Science,Senior
+292,PySpark,regular,Data Science,Senior
+292,Hadoop,regular,Data Science,Senior
+292,Python,regular,Data Science,Senior
+293,SQL,regular,Data Analysis & BI,Mid
+293,T-SQL,regular,Data Analysis & BI,Mid
+293,PostgreSQL,regular,Data Analysis & BI,Mid
+293,ERD,regular,Data Analysis & BI,Mid
+293,Git,regular,Data Analysis & BI,Mid
+293,Azure,regular,Data Analysis & BI,Mid
+293,Power BI,regular,Data Analysis & BI,Mid
+293,Oracle,nice to have,Data Analysis & BI,Mid
+293,Python,nice to have,Data Analysis & BI,Mid
+294,Machine Learning,advanced,Data Science,Mid
+294,Python,advanced,Data Science,Mid
+294,Azure,regular,Data Science,Mid
+295,SAP,nice to have,Unclassified,Senior
+295,SAP CDC,nice to have,Unclassified,Senior
+296,Python,regular,Data Engineering,Manager / C-level
+296,Dagster,regular,Data Engineering,Manager / C-level
+296,Airflow,regular,Data Engineering,Manager / C-level
+296,SQL,regular,Data Engineering,Manager / C-level
+296,Lake,regular,Data Engineering,Manager / C-level
+296,LakeHouse,regular,Data Engineering,Manager / C-level
+296,PySpark,nice to have,Data Engineering,Manager / C-level
+296,Databricks,nice to have,Data Engineering,Manager / C-level
+297,Cybersecurity,regular,Unclassified,Mid
+297,Data protection,regular,Unclassified,Mid
+298,Snowflake,advanced,Data Engineering,Senior
+298,DBT,advanced,Data Engineering,Senior
+298,Data Engineering,advanced,Data Engineering,Senior
+299,Data Warehousing,advanced,Data Analysis & BI,Senior
+300,Machine Learning,advanced,Data Science,Senior
+300,Artificial Intelligence,advanced,Data Science,Senior
+300,Langchain,advanced,Data Science,Senior
+300,Python,advanced,Data Science,Senior
+300,NumPy,regular,Data Science,Senior
+300,Pandas,regular,Data Science,Senior
+300,AI architectures,regular,Data Science,Senior
+300,SQL,regular,Data Science,Senior
+301,Python,regular,Data Engineering,Mid
+301,Azure,regular,Data Engineering,Mid
+301,Databricks,regular,Data Engineering,Mid
+301,SQL,junior,Data Engineering,Mid
+301,Java,nice to have,Data Engineering,Mid
+301,C#,nice to have,Data Engineering,Mid
+301,Terraform,nice to have,Data Engineering,Mid
+301,Ansible,nice to have,Data Engineering,Mid
+301,Kafka,nice to have,Data Engineering,Mid
+301,Spark,nice to have,Data Engineering,Mid
+302,Databases,regular,Unclassified,Senior
+302,Artificial Intelligence,regular,Unclassified,Senior
+302,Make,regular,Unclassified,Senior
+302,Clickup,regular,Unclassified,Senior
+302,Buble,regular,Unclassified,Senior
+302,Automatyzacja procesów biznesowych,regular,Unclassified,Senior
+303,Airflow,advanced,Data Engineering,Senior
+303,GCP,advanced,Data Engineering,Senior
+303,SQL,regular,Data Engineering,Senior
+303,NoSQL,regular,Data Engineering,Senior
+304,Graph databases,advanced,Data Analysis & BI,Senior
+304,MongoDB,advanced,Data Analysis & BI,Senior
+304,JSON,advanced,Data Analysis & BI,Senior
+304,Amazon Neptune,regular,Data Analysis & BI,Senior
+304,Cypher,nice to have,Data Analysis & BI,Senior
+304,Gremlin,nice to have,Data Analysis & BI,Senior
+304,Apache Spark,nice to have,Data Analysis & BI,Senior
+304,ETL,nice to have,Data Analysis & BI,Senior
+305,SQL Server,advanced,Data Engineering,Senior
+305,T-SQL,advanced,Data Engineering,Senior
+305,Azure,advanced,Data Engineering,Senior
+305,Azure,advanced,Data Engineering,Senior
+305,SQL,advanced,Data Engineering,Senior
+305,Microsoft Fabric,advanced,Data Engineering,Senior
+305,PySpark,regular,Data Engineering,Senior
+305,Databricks,regular,Data Engineering,Senior
+305,Python,regular,Data Engineering,Senior
+305,ADF,regular,Data Engineering,Senior
+306,Power BI,regular,Database Administration,Mid
+306,Microsoft Analysis Services,regular,Database Administration,Mid
+306,Oracle,regular,Database Administration,Mid
+306,SQL Server,regular,Database Administration,Mid
+306,SQL,regular,Database Administration,Mid
+306,Oracle,regular,Database Administration,Mid
+306,T-SQL,regular,Database Administration,Mid
+306,SQL Server,regular,Database Administration,Mid
+306,ETL,regular,Database Administration,Mid
+306,ELT,regular,Database Administration,Mid
+307,Databases,advanced,Data Engineering,Senior
+307,Oracle,advanced,Data Engineering,Senior
+307,SQL,advanced,Data Engineering,Senior
+307,MongoDB,advanced,Data Engineering,Senior
+308,Snowflake,advanced,Data Analysis & BI,Senior
+308,SQL,advanced,Data Analysis & BI,Senior
+308,ETL,advanced,Data Analysis & BI,Senior
+308,AWS,regular,Data Analysis & BI,Senior
+309,PySpark,advanced,Data Engineering,Mid
+309,Databricks,advanced,Data Engineering,Mid
+309,Azure,advanced,Data Engineering,Mid
+310,PySpark,master,Data Engineering,Mid
+310,Blockchain,master,Data Engineering,Mid
+310,Azure Databricks,master,Data Engineering,Mid
+310,Delta Lake,master,Data Engineering,Mid
+310,Apache Spark,master,Data Engineering,Mid
+311,SQL,advanced,Data Engineering,Senior
+311,Spark,advanced,Data Engineering,Senior
+311,Python,regular,Data Engineering,Senior
+311,AWS,regular,Data Engineering,Senior
+312,Power BI,regular,Data Analysis & BI,Senior
+312,GCP,regular,Data Analysis & BI,Senior
+312,ETL,regular,Data Analysis & BI,Senior
+312,ELT,regular,Data Analysis & BI,Senior
+312,SQL,regular,Data Analysis & BI,Senior
+313,Azure Databricks,advanced,Data Architecture,Senior
+313,Azure,advanced,Data Architecture,Senior
+314,Darts,master,Data Science,Senior
+314,PyTorch,master,Data Science,Senior
+314,PySpark,master,Data Science,Senior
+314,TensorFlow,master,Data Science,Senior
+314,Prophet,advanced,Data Science,Senior
+314,Linear Regression,advanced,Data Science,Senior
+314,MLOps,advanced,Data Science,Senior
+314,XGBoost,regular,Data Science,Senior
+314,LSTM,regular,Data Science,Senior
+314,Arima,regular,Data Science,Senior
+315,Python,master,Data Engineering,Senior
+315,Snowflake,master,Data Engineering,Senior
+316,Python,advanced,Data Architecture,Senior
+316,Apache Spark,advanced,Data Architecture,Senior
+316,Airflow,regular,Data Architecture,Senior
+316,Iceberg,regular,Data Architecture,Senior
+316,Docker,regular,Data Architecture,Senior
+316,Kubernetes,regular,Data Architecture,Senior
+316,SQL,regular,Data Architecture,Senior
+316,AWS,nice to have,Data Architecture,Senior
+316,Java,nice to have,Data Architecture,Senior
+317,Microsoft Fabric,regular,Data Engineering,Mid
+317,Data Factory,regular,Data Engineering,Mid
+317,REST API,regular,Data Engineering,Mid
+317,ETL,regular,Data Engineering,Mid
+317,ELT,regular,Data Engineering,Mid
+317,SaaS,regular,Data Engineering,Mid
+317,Python,regular,Data Engineering,Mid
+317,Azure,regular,Data Engineering,Mid
+317,IaC,regular,Data Engineering,Mid
+317,CI/CD,regular,Data Engineering,Mid
+318,Oracle,advanced,Data Engineering,Senior
+318,Oracle,advanced,Data Engineering,Senior
+318,Azure,regular,Data Engineering,Senior
+319,Power BI,master,Data Analysis & BI,Senior
+319,DAX,advanced,Data Analysis & BI,Senior
+319,SQL,advanced,Data Analysis & BI,Senior
+319,Microsoft Dynamics CRM,nice to have,Data Analysis & BI,Senior
+319,Business Central,nice to have,Data Analysis & BI,Senior
+319,Google Analytics,nice to have,Data Analysis & BI,Senior
+320,Python,advanced,Data Science,Mid
+320,AWS,regular,Data Science,Mid
+320,Azure,regular,Data Science,Mid
+320,Docker,regular,Data Science,Mid
+320,GCP,regular,Data Science,Mid
+320,SQL,regular,Data Science,Mid
+320,CI/CD,regular,Data Science,Mid
+321,Oracle CPQ,regular,Unclassified,Mid
+321,Revalize CPQ,regular,Unclassified,Mid
+321,Tacton CPQ,regular,Unclassified,Mid
+321,Infor CPQ,regular,Unclassified,Mid
+321,CPQ,regular,Unclassified,Mid
+322,Artificial Intelligence,advanced,Data Science,Senior
+322,Python,advanced,Data Science,Senior
+322,Azure Logic Apps,advanced,Data Science,Senior
+322,Power Automate,advanced,Data Science,Senior
+322,Power Platform,advanced,Data Science,Senior
+322,Microsoft Dynamics 365,advanced,Data Science,Senior
+322,Microsoft Copilot,advanced,Data Science,Senior
+322,Azure,nice to have,Data Science,Senior
+323,Oracle,regular,Unclassified,Mid
+323,Informatica Power Center,regular,Unclassified,Mid
+324,SQL,advanced,Data Engineering,Senior
+324,Data Warehousing,advanced,Data Engineering,Senior
+324,Python,nice to have,Data Engineering,Senior
+324,Bash,nice to have,Data Engineering,Senior
+324,Java,nice to have,Data Engineering,Senior
+324,CI/CD,nice to have,Data Engineering,Senior
+325,Azure DevOps,master,Data Engineering,Senior
+325,SQL,master,Data Engineering,Senior
+325,Azure,advanced,Data Engineering,Senior
+325,Snowflake,advanced,Data Engineering,Senior
+325,Python,advanced,Data Engineering,Senior
+326,Power BI,regular,Data Analysis & BI,Mid
+326,SQL,regular,Data Analysis & BI,Mid
+326,Python,regular,Data Analysis & BI,Mid
+326,ETL,regular,Data Analysis & BI,Mid
+326,DAX,regular,Data Analysis & BI,Mid
+327,Azure Databricks,advanced,Data Architecture,Senior
+327,Terraform,advanced,Data Architecture,Senior
+327,Azure,advanced,Data Architecture,Senior
+328,Python,master,Data Science,Senior
+328,NumPy,advanced,Data Science,Senior
+328,Pandas,advanced,Data Science,Senior
+328,AWS,regular,Data Science,Senior
+329,T-SQL,regular,Unclassified,Mid
+329,ActiveX Data Objects,regular,Unclassified,Mid
+329,Delphi,regular,Unclassified,Mid
+329,SQL Server,regular,Unclassified,Mid
+330,Azure,master,Data Engineering,Senior
+330,Databricks,master,Data Engineering,Senior
+330,SQL,master,Data Engineering,Senior
+330,Python,master,Data Engineering,Senior
+330,Scala,regular,Data Engineering,Senior
+331,Python,regular,Data Science,Senior
+331,R,regular,Data Science,Senior
+331,SQL,regular,Data Science,Senior
+331,Databricks,regular,Data Science,Senior
+331,Snowflake,regular,Data Science,Senior
+331,Machine Learning,regular,Data Science,Senior
+332,Python,advanced,Data Science,Senior
+332,Apache Spark,advanced,Data Science,Senior
+332,Databricks,advanced,Data Science,Senior
+332,Azure,regular,Data Science,Senior
+332,CI/CD,regular,Data Science,Senior
+332,Data Factory,regular,Data Science,Senior
+332,ETL,regular,Data Science,Senior
+332,Artificial Intelligence,nice to have,Data Science,Senior
+333,JSON,regular,Unclassified,Mid
+333,XML,regular,Unclassified,Mid
+333,Postman,regular,Unclassified,Mid
+333,SQL,regular,Unclassified,Mid
+333,GitLab,regular,Unclassified,Mid
+333,CI/CD,regular,Unclassified,Mid
+333,Jira,regular,Unclassified,Mid
+333,Confluence,regular,Unclassified,Mid
+333,Kibana,regular,Unclassified,Mid
+334,Snowflake,master,Data Analysis & BI,Senior
+334,Python,master,Data Analysis & BI,Senior
+334,ETL,advanced,Data Analysis & BI,Senior
+334,DORA (DevOps Research and Assessment),nice to have,Data Analysis & BI,Senior
+335,Machine Learning,master,Unclassified,Manager / C-level
+335,Artificial Intelligence,master,Unclassified,Manager / C-level
+335,Data Analytics & BI Tools,master,Unclassified,Manager / C-level
+335,Marketing Mix Modelling & Forecasting,master,Unclassified,Manager / C-level
+336,PM,regular,Unclassified,Mid
+336,Helios,regular,Unclassified,Mid
+337,Database administration,advanced,Database Administration,Mid
+337,SQL Server,advanced,Database Administration,Mid
+337,Powershell,advanced,Database Administration,Mid
+338,SQL,advanced,Data Science,Senior
+338,Python,advanced,Data Science,Senior
+339,Linux / Unix,advanced,Data Engineering,Senior
+339,Spark,advanced,Data Engineering,Senior
+339,Hadoop,advanced,Data Engineering,Senior
+340,SQL,regular,Data Architecture,Mid
+340,Python,regular,Data Architecture,Mid
+340,Databricks,nice to have,Data Architecture,Mid
+340,Airflow,nice to have,Data Architecture,Mid
+341,SQL,advanced,Data Engineering,Senior
+341,Azure Data Factory,advanced,Data Engineering,Senior
+341,Databricks,advanced,Data Engineering,Senior
+341,ETL,advanced,Data Engineering,Senior
+341,Python,regular,Data Engineering,Senior
+341,Azure DevOps,regular,Data Engineering,Senior
+342,Azure,master,Unclassified,Manager / C-level
+342,Databricks,master,Unclassified,Manager / C-level
+342,Python,master,Unclassified,Manager / C-level
+343,Microsoft Office,regular,Unclassified,Junior
+343,Microsoft Excel,regular,Unclassified,Junior
+343,Microsoft Project,junior,Unclassified,Junior
+343,Power Query,nice to have,Unclassified,Junior
+343,Power BI,nice to have,Unclassified,Junior
+344,SQL Server,regular,Database Administration,Mid
+344,T-SQL,regular,Database Administration,Mid
+344,SQL,regular,Database Administration,Mid
+344,.Net,regular,Database Administration,Mid
+344,Git,regular,Database Administration,Mid
+344,SQL Source Control,regular,Database Administration,Mid
+344,SQL Prompt,regular,Database Administration,Mid
+345,DWH,advanced,Data Engineering,Senior
+345,Microsoft Azure,advanced,Data Engineering,Senior
+345,ETL,advanced,Data Engineering,Senior
+345,Synapse,advanced,Data Engineering,Senior
+345,Databricks,advanced,Data Engineering,Senior
+345,CI/CD,regular,Data Engineering,Senior
+345,Artificial Intelligence,regular,Data Engineering,Senior
+345,Fabric,junior,Data Engineering,Senior
+346,Python,advanced,Data Engineering,Senior
+346,Kubernetes,regular,Data Engineering,Senior
+346,SQL,regular,Data Engineering,Senior
+346,Data Lake/Lakehouse,regular,Data Engineering,Senior
+346,Airflow,regular,Data Engineering,Senior
+346,PySpark,regular,Data Engineering,Senior
+346,Pandas,regular,Data Engineering,Senior
+346,ETL,regular,Data Engineering,Senior
+346,MLOps,nice to have,Data Engineering,Senior
+347,ETL,advanced,Data Science,Mid
+347,Azure,regular,Data Science,Mid
+347,Azure Databricks,regular,Data Science,Mid
+348,DBT,regular,Data Architecture,Mid
+348,Data Vault,regular,Data Architecture,Mid
+348,Snowflake,regular,Data Architecture,Mid
+348,SQL,regular,Data Architecture,Mid
+348,Python,regular,Data Architecture,Mid
+348,AWS,junior,Data Architecture,Mid
+349,Adobe Analytics,regular,Data Analysis & BI,Mid
+349,Google Analytics,regular,Data Analysis & BI,Mid
+349,GCP,junior,Data Analysis & BI,Mid
+349,SQL,junior,Data Analysis & BI,Mid
+349,Python,junior,Data Analysis & BI,Mid
+350,ETL tools,advanced,Data Engineering,Mid
+350,Fabric,regular,Data Engineering,Mid
+350,Azure Data Factory,regular,Data Engineering,Mid
+350,Docker,regular,Data Engineering,Mid
+350,Kubernetes,regular,Data Engineering,Mid
+351,Data Warehousing,advanced,Data Engineering,Senior
+351,SQL,advanced,Data Engineering,Senior
+351,CI/CD,nice to have,Data Engineering,Senior
+351,Bash,nice to have,Data Engineering,Senior
+351,Java,nice to have,Data Engineering,Senior
+351,Python,nice to have,Data Engineering,Senior
+352,Excel,regular,Unclassified,Mid
+352,DICOM,regular,Unclassified,Mid
+352,Mirth,regular,Unclassified,Mid
+352,SQL,regular,Unclassified,Mid
+353,Databricks,advanced,Data Engineering,Senior
+353,Azure,advanced,Data Engineering,Senior
+353,SQL,advanced,Data Engineering,Senior
+353,Python,advanced,Data Engineering,Senior
+353,Azure DevOps,advanced,Data Engineering,Senior
+353,Apache Spark,regular,Data Engineering,Senior
+354,DB2,advanced,Database Administration,Senior
+354,SQL,advanced,Database Administration,Senior
+354,Databases,advanced,Database Administration,Senior
+355,GCP,advanced,Data Engineering,Mid
+355,SQL,advanced,Data Engineering,Mid
+355,BigQuery,advanced,Data Engineering,Mid
+355,Cloudera,regular,Data Engineering,Mid
+355,Hadoop,regular,Data Engineering,Mid
+355,Apache Airflow,regular,Data Engineering,Mid
+355,Git,regular,Data Engineering,Mid
+355,CI/CD,nice to have,Data Engineering,Mid
+356,Power BI,regular,Data Engineering,Senior
+356,SQL,regular,Data Engineering,Senior
+356,Python,regular,Data Engineering,Senior
+357,Databricks,advanced,Data Engineering,Senior
+357,SQL,advanced,Data Engineering,Senior
+357,Python,advanced,Data Engineering,Senior
+357,Airflow,regular,Data Engineering,Senior
+357,Apache Kafka,regular,Data Engineering,Senior
+357,DBT,regular,Data Engineering,Senior
+357,Databases,regular,Data Engineering,Senior
+357,Flink,regular,Data Engineering,Senior
+357,Apache Hadoop,regular,Data Engineering,Senior
+359,SQL,advanced,Data Science,Mid
+359,Python,advanced,Data Science,Mid
+359,PyTorch,regular,Data Science,Mid
+359,TensorFlow,regular,Data Science,Mid
+360,Qlik,regular,Unclassified,Mid
+360,QlikSense,regular,Unclassified,Mid
+360,Qlik Server,regular,Unclassified,Mid
+361,Databases,advanced,Database Administration,Senior
+362,PostgreSQL,regular,Unclassified,Mid
+362,MySQL,regular,Unclassified,Mid
+362,Atlassian,regular,Unclassified,Mid
+363,ETL,advanced,Data Engineering,Senior
+363,SQL,advanced,Data Engineering,Senior
+363,Snowflake,advanced,Data Engineering,Senior
+363,CI/CD,advanced,Data Engineering,Senior
+363,Docker,advanced,Data Engineering,Senior
+363,Kubernetes,advanced,Data Engineering,Senior
+363,NoSQL,advanced,Data Engineering,Senior
+364,PySpark,advanced,Data Architecture,Senior
+364,Azure,advanced,Data Architecture,Senior
+364,Azure Databricks,advanced,Data Architecture,Senior
+364,SQL,advanced,Data Architecture,Senior
+364,Azure DevOps,advanced,Data Architecture,Senior
+364,Python,advanced,Data Architecture,Senior
+365,Python,regular,Data Science,Senior
+365,Machine Learning,regular,Data Science,Senior
+365,TensorFlow,regular,Data Science,Senior
+365,PyTorch,regular,Data Science,Senior
+365,Artificial Intelligence,regular,Data Science,Senior
+365,LLMs,regular,Data Science,Senior
+365,R,nice to have,Data Science,Senior
+365,SQL,nice to have,Data Science,Senior
+365,Java,nice to have,Data Science,Senior
+366,Snowflake,advanced,Data Engineering,Senior
+366,Python,regular,Data Engineering,Senior
+366,Airflow,regular,Data Engineering,Senior
+366,DBT,regular,Data Engineering,Senior
+366,Tableau,regular,Data Engineering,Senior
+367,Data Vault,advanced,Data Architecture,Senior
+367,Kimball,advanced,Data Architecture,Senior
+367,Snowflake,advanced,Data Architecture,Senior
+367,Data Lake,advanced,Data Architecture,Senior
+367,DWH,advanced,Data Architecture,Senior
+367,Azure,nice to have,Data Architecture,Senior
+367,AWS,nice to have,Data Architecture,Senior
+367,Power BI,nice to have,Data Architecture,Senior
+368,SQL Server,regular,Database Administration,Mid
+368,Databases,regular,Database Administration,Mid
+368,MySQL,regular,Database Administration,Mid
+368,Oracle,regular,Database Administration,Mid
+368,ETL,nice to have,Database Administration,Mid
+369,Power BI,advanced,Data Analysis & BI,Mid
+369,DAX,advanced,Data Analysis & BI,Mid
+369,Power Query,advanced,Data Analysis & BI,Mid
+369,SQL,advanced,Data Analysis & BI,Mid
+370,Salesforce,advanced,Data Engineering,Senior
+370,SaaS,advanced,Data Engineering,Senior
+370,Qualtrics platform,advanced,Data Engineering,Senior
+370,Salesforce Service Cloud,junior,Data Engineering,Senior
+370,"XML, HTML, CSS, SOAP/REST",junior,Data Engineering,Senior
+371,Python,master,Data Engineering,Mid
+371,Azure,advanced,Data Engineering,Mid
+371,Azure,advanced,Data Engineering,Mid
+371,Azure,advanced,Data Engineering,Mid
+371,Databricks,advanced,Data Engineering,Mid
+371,Azure,advanced,Data Engineering,Mid
+371,Azure DevOps,advanced,Data Engineering,Mid
+371,Microsoft Azure,regular,Data Engineering,Mid
+372,DBT,advanced,Data Engineering,Senior
+372,Snowflake,advanced,Data Engineering,Senior
+372,SQL,advanced,Data Engineering,Senior
+372,Python,advanced,Data Engineering,Senior
+372,Java,advanced,Data Engineering,Senior
+372,C#,advanced,Data Engineering,Senior
+372,CI/CD,advanced,Data Engineering,Senior
+372,Git,advanced,Data Engineering,Senior
+372,Power BI,nice to have,Data Engineering,Senior
+373,Scala,regular,Data Engineering,Mid
+373,Apache Spark,regular,Data Engineering,Mid
+373,SQL Server,regular,Data Engineering,Mid
+373,Python,regular,Data Engineering,Mid
+373,Apache Hadoop,regular,Data Engineering,Mid
+373,Databricks,nice to have,Data Engineering,Mid
+374,QlikSense,advanced,Data Analysis & BI,Mid
+374,Qlik Server,regular,Data Analysis & BI,Mid
+375,Python,regular,Data Science,Senior
+375,R,regular,Data Science,Senior
+375,SQL,regular,Data Science,Senior
+376,Data Warehousing,advanced,Data Engineering,Senior
+376,SQL,advanced,Data Engineering,Senior
+376,CI/CD,nice to have,Data Engineering,Senior
+376,Bash,nice to have,Data Engineering,Senior
+376,Java,nice to have,Data Engineering,Senior
+376,Python,nice to have,Data Engineering,Senior
+377,Data storage,advanced,Data Engineering,Mid
+377,Spark,advanced,Data Engineering,Mid
+377,Azure,advanced,Data Engineering,Mid
+377,Databricks,advanced,Data Engineering,Mid
+377,Data Factory,advanced,Data Engineering,Mid
+377,Azure DevOps,regular,Data Engineering,Mid
+378,Statistics,regular,Data Science,Mid
+378,SQL,regular,Data Science,Mid
+378,adtech,junior,Data Science,Mid
+378,Python,junior,Data Science,Mid
+379,Python,junior,Unclassified,Junior
+379,RDBMS,junior,Unclassified,Junior
+379,DWH,junior,Unclassified,Junior
+379,Linux,junior,Unclassified,Junior
+379,Docker,junior,Unclassified,Junior
+379,Kubernetes,junior,Unclassified,Junior
+379,Java,nice to have,Unclassified,Junior
+379,Scala,nice to have,Unclassified,Junior
+380,Data Scientist,master,Data Science,Senior
+380,Python,advanced,Data Science,Senior
+380,Azure,advanced,Data Science,Senior
+380,PySpark,regular,Data Science,Senior
+381,Power BI,regular,Data Analysis & BI,Mid
+381,SQL,regular,Data Analysis & BI,Mid
+381,ETL,regular,Data Analysis & BI,Mid
+381,DAX,regular,Data Analysis & BI,Mid
+382,SQL,advanced,Data Analysis & BI,Mid
+382,Python,advanced,Data Analysis & BI,Mid
+383,Scala,advanced,Data Engineering,Senior
+383,Apache Spark,advanced,Data Engineering,Senior
+383,SQL Server,advanced,Data Engineering,Senior
+383,GitHub,regular,Data Engineering,Senior
+384,Oracle,advanced,Database Administration,Senior
+384,SQL,advanced,Database Administration,Senior
+384,CI/CD,regular,Database Administration,Senior
+384,Oracle,regular,Database Administration,Senior
+384,AIX,regular,Database Administration,Senior
+385,SQL,advanced,Data Engineering,Senior
+385,Azure,regular,Data Engineering,Senior
+385,ETL,regular,Data Engineering,Senior
+385,Azure Data Factory,regular,Data Engineering,Senior
+385,T-SQL,nice to have,Data Engineering,Senior
+385,CosmosDB,nice to have,Data Engineering,Senior
+385,Power BI,nice to have,Data Engineering,Senior
+385,CI/CD,nice to have,Data Engineering,Senior
+385,GitHub,nice to have,Data Engineering,Senior
+386,Databases,regular,Unclassified,Mid
+386,SQL,regular,Unclassified,Mid
+386,API,junior,Unclassified,Mid
+386,Google Analytics,junior,Unclassified,Mid
+387,Databases,regular,Unclassified,Mid
+387,PostgreSQL,regular,Unclassified,Mid
+387,Oracle,regular,Unclassified,Mid
+387,DBeaver,regular,Unclassified,Mid
+387,SQLplus,regular,Unclassified,Mid
+387,toad,regular,Unclassified,Mid
+387,Jira,regular,Unclassified,Mid
+387,Confluence,regular,Unclassified,Mid
+387,Vmware vCenter,regular,Unclassified,Mid
+387,Oracle Enterprise Manager,regular,Unclassified,Mid
+388,Data Enineering,advanced,Data Science,Mid
+388,DWH,regular,Data Science,Mid
+388,Azure,regular,Data Science,Mid
+389,Kotlin,advanced,Unclassified,Senior
+389,Spring,advanced,Unclassified,Senior
+389,Apache Beam,regular,Unclassified,Senior
+389,BigQuery,regular,Unclassified,Senior
+389,MongoDB,regular,Unclassified,Senior
+389,Apache Spark,regular,Unclassified,Senior
+389,Artificial Intelligence,nice to have,Unclassified,Senior
+389,Prompt Engineering,nice to have,Unclassified,Senior
+390,AWS,advanced,Data Architecture,Senior
+390,Redshift,advanced,Data Architecture,Senior
+390,Glue,advanced,Data Architecture,Senior
+390,s3,advanced,Data Architecture,Senior
+390,Lambda,advanced,Data Architecture,Senior
+390,Athena,advanced,Data Architecture,Senior
+390,EMR,advanced,Data Architecture,Senior
+390,SQL,regular,Data Architecture,Senior
+390,Python,regular,Data Architecture,Senior
+390,ETL,regular,Data Architecture,Senior
+391,Machine Learning,advanced,Data Science,Senior
+391,Python,advanced,Data Science,Senior
+391,PySpark,regular,Data Science,Senior
+391,Azure,regular,Data Science,Senior
+391,Databricks,regular,Data Science,Senior
+392,Neo4j,advanced,Data Engineering,Mid
+392,BigQuery,advanced,Data Engineering,Mid
+392,SQL,advanced,Data Engineering,Mid
+392,Git,regular,Data Engineering,Mid
+392,GCP,regular,Data Engineering,Mid
+393,GenAI,advanced,Data Science,Senior
+393,Machine Learning,advanced,Data Science,Senior
+393,SQL,advanced,Data Science,Senior
+393,Python,advanced,Data Science,Senior
+393,Vertex AI,regular,Data Science,Senior
+393,Cloud,regular,Data Science,Senior
+393,GCP,regular,Data Science,Senior
+393,Terraform,regular,Data Science,Senior
+393,BigQuery,regular,Data Science,Senior
+393,Cloud Run,regular,Data Science,Senior
+394,SQL,advanced,Data Architecture,Senior
+394,Python,advanced,Data Architecture,Senior
+394,ETL,advanced,Data Architecture,Senior
+394,PostgreSQL,advanced,Data Architecture,Senior
+394,MySQL,advanced,Data Architecture,Senior
+394,MongoDB,advanced,Data Architecture,Senior
+394,Oracle,advanced,Data Architecture,Senior
+394,Enterprise Architect,advanced,Data Architecture,Senior
+394,MS Project,advanced,Data Architecture,Senior
+394,Jira,advanced,Data Architecture,Senior
+395,Python,advanced,Data Engineering,Senior
+395,Snowflake,advanced,Data Engineering,Senior
+395,DBT,advanced,Data Engineering,Senior
+395,Azure,advanced,Data Engineering,Senior
+396,AWS,advanced,Data Engineering,Senior
+396,Airflow,advanced,Data Engineering,Senior
+396,ETL,advanced,Data Engineering,Senior
+396,Terraform,advanced,Data Engineering,Senior
+396,Kafka,advanced,Data Engineering,Senior
+396,Java,advanced,Data Engineering,Senior
+396,SQL,advanced,Data Engineering,Senior
+396,Scala,advanced,Data Engineering,Senior
+396,Apache Spark,advanced,Data Engineering,Senior
+397,Azure Databricks,regular,Data Engineering,Senior
+397,Spark,regular,Data Engineering,Senior
+397,PySpark,regular,Data Engineering,Senior
+397,Delta Lake,regular,Data Engineering,Senior
+397,Azure Data Factory,regular,Data Engineering,Senior
+397,Python,regular,Data Engineering,Senior
+397,SQL,regular,Data Engineering,Senior
+398,MDM concepts,nice to have,Data Science,Mid
+398,AWS,nice to have,Data Science,Mid
+398,GCP,nice to have,Data Science,Mid
+398,Azure,nice to have,Data Science,Mid
+399,Python,advanced,Data Engineering,Senior
+399,Apache Spark,advanced,Data Engineering,Senior
+399,CI/CD,regular,Data Engineering,Senior
+399,Data Warehousing,regular,Data Engineering,Senior
+399,Databricks,regular,Data Engineering,Senior
+399,Data Integration,regular,Data Engineering,Senior
+399,Apache Kafka,nice to have,Data Engineering,Senior
+400,Azure,advanced,Data Architecture,Senior
+400,Data Factory,advanced,Data Architecture,Senior
+400,ETRM,advanced,Data Architecture,Senior
+401,GCP,advanced,Data Engineering,Senior
+401,Groovy,advanced,Data Engineering,Senior
+401,Java,advanced,Data Engineering,Senior
+401,Python,advanced,Data Engineering,Senior
+401,Apache Spark,advanced,Data Engineering,Senior
+402,SQL,regular,Database Administration,Mid
+402,ETL tools,regular,Database Administration,Mid
+402,Git,regular,Database Administration,Mid
+402,Oracle,regular,Database Administration,Mid
+402,CI/CD,junior,Database Administration,Mid
+402,JSON,junior,Database Administration,Mid
+402,Linux,junior,Database Administration,Mid
+402,Python,junior,Database Administration,Mid
+403,SQL,advanced,Data Engineering,Senior
+403,Python,advanced,Data Engineering,Senior
+403,BigQuery,advanced,Data Engineering,Senior
+403,Spark,advanced,Data Engineering,Senior
+403,GCP,advanced,Data Engineering,Senior
+403,Ansible,advanced,Data Engineering,Senior
+404,Python,advanced,Data Analysis & BI,Senior
+404,Databricks,advanced,Data Analysis & BI,Senior
+404,SQL,advanced,Data Analysis & BI,Senior
+404,BI Backend,advanced,Data Analysis & BI,Senior
+404,Azure,advanced,Data Analysis & BI,Senior
+404,Data Factory,regular,Data Analysis & BI,Senior
+405,AWS,advanced,Data Engineering,Senior
+405,PySpark,advanced,Data Engineering,Senior
+405,SQL,advanced,Data Engineering,Senior
+405,Python,advanced,Data Engineering,Senior
+405,Redshift,regular,Data Engineering,Senior
+405,Kafka,regular,Data Engineering,Senior
+405,Apache Airflow,regular,Data Engineering,Senior
+406,Python,regular,Data Engineering,Mid
+406,SQL,regular,Data Engineering,Mid
+406,GCP,regular,Data Engineering,Mid
+406,Airflow,regular,Data Engineering,Mid
+406,Databases,regular,Data Engineering,Mid
+406,Docker,regular,Data Engineering,Mid
+406,BigQuery,regular,Data Engineering,Mid
+406,Azure,nice to have,Data Engineering,Mid
+406,CI/CD,nice to have,Data Engineering,Mid
+407,SQL,advanced,Data Engineering,Mid
+407,ETL tools,advanced,Data Engineering,Mid
+407,Cloud,regular,Data Engineering,Mid
+407,Python,regular,Data Engineering,Mid
+407,Shell,regular,Data Engineering,Mid
+407,Bash,regular,Data Engineering,Mid
+408,Microsoft Copilot,master,Data Science,Senior
+408,D365,advanced,Data Science,Senior
+408,Power Platform,advanced,Data Science,Senior
+408,Azure,advanced,Data Science,Senior
+408,Artificial Intelligence,regular,Data Science,Senior
+408,Python,regular,Data Science,Senior
+408,Azure AI Engineer Associate,nice to have,Data Science,Senior
+409,SQL,advanced,Data Engineering,Mid
+409,Palantir Foudry,regular,Data Engineering,Mid
+409,Snowflake,regular,Data Engineering,Mid
+409,Python,regular,Data Engineering,Mid
+409,PySpark,regular,Data Engineering,Mid
+410,Informatica Powercenter,regular,Data Engineering,Mid
+410,Azure Databricks,regular,Data Engineering,Mid
+410,Databricks,regular,Data Engineering,Mid
+410,Power Center,regular,Data Engineering,Mid
+410,SQL,regular,Data Engineering,Mid
+410,Azure DevOps,regular,Data Engineering,Mid
+411,AWS,master,Data Engineering,Senior
+411,JavaScript,master,Data Engineering,Senior
+411,GitHub,master,Data Engineering,Senior
+412,SQL,regular,Data Analysis & BI,Mid
+412,Git,regular,Data Analysis & BI,Mid
+412,Spark,regular,Data Analysis & BI,Mid
+412,Databricks,regular,Data Analysis & BI,Mid
+412,Power BI,regular,Data Analysis & BI,Mid
+413,Apache Spark,advanced,Data Engineering,Mid
+413,Hadoop,advanced,Data Engineering,Mid
+413,Kafka,advanced,Data Engineering,Mid
+413,Data storage,regular,Data Engineering,Mid
+413,Docker,regular,Data Engineering,Mid
+413,Kubernetes,regular,Data Engineering,Mid
+414,SQL,regular,Data Analysis & BI,Mid
+414,AWS,nice to have,Data Analysis & BI,Mid
+414,Angular,nice to have,Data Analysis & BI,Mid
+414,Azure,nice to have,Data Analysis & BI,Mid
+414,React,nice to have,Data Analysis & BI,Mid
+414,Java,nice to have,Data Analysis & BI,Mid
+414,Spring,nice to have,Data Analysis & BI,Mid
+415,GXP,advanced,Unclassified,Senior
+415,EQMS,advanced,Unclassified,Senior
+415,LIMS,advanced,Unclassified,Senior
+416,Relacyjne Bazy Danych,advanced,Database Administration,Senior
+416,PostgreSQL,regular,Database Administration,Senior
+416,MySQL,regular,Database Administration,Senior
+416,SQL Server,regular,Database Administration,Senior
+416,Oracle,regular,Database Administration,Senior
+416,Enterprise Architect,regular,Database Administration,Senior
+417,Azure SQL,regular,Data Engineering,Mid
+418,Qlik,regular,Data Science,Senior
+418,Terradata,regular,Data Science,Senior
+418,Informatica,regular,Data Science,Senior
+418,Redshift,regular,Data Science,Senior
+418,Snowflake,regular,Data Science,Senior
+418,Databricks,regular,Data Science,Senior
+418,Google BigQuery,regular,Data Science,Senior
+418,Microsoft Fabric,regular,Data Science,Senior
+419,AWS,advanced,Data Engineering,Mid
+419,Snowflake,advanced,Data Engineering,Mid
+419,Python,advanced,Data Engineering,Mid
+420,Jira,regular,Data Engineering,Mid
+420,OpenShift,regular,Data Engineering,Mid
+420,SQL,regular,Data Engineering,Mid
+421,ELT,advanced,Data Engineering,Manager / C-level
+421,CI/CD,advanced,Data Engineering,Manager / C-level
+421,DDD,advanced,Data Engineering,Manager / C-level
+421,data governance,advanced,Data Engineering,Manager / C-level
+421,API,advanced,Data Engineering,Manager / C-level
+421,HLD,advanced,Data Engineering,Manager / C-level
+421,LLD,advanced,Data Engineering,Manager / C-level
+422,Python,advanced,Data Science,Senior
+422,Machine Learning,regular,Data Science,Senior
+423,MuleSoft,junior,Data Engineering,Junior
+423,JSON,junior,Data Engineering,Junior
+424,Power BI,advanced,Data Analysis & BI,Mid
+424,DAX,advanced,Data Analysis & BI,Mid
+424,SQL,regular,Data Analysis & BI,Mid
+424,data governance,regular,Data Analysis & BI,Mid
+425,SQL,advanced,Data Analysis & BI,Senior
+425,Python,advanced,Data Analysis & BI,Senior
+425,Tableau,advanced,Data Analysis & BI,Senior
+426,Data Engineering,advanced,Data Engineering,Mid
+426,Apache Airflow or Hadoop,regular,Data Engineering,Mid
+426,Tableau,regular,Data Engineering,Mid
+426,Looker,regular,Data Engineering,Mid
+426,GCP,regular,Data Engineering,Mid
+427,ServiceNow,regular,Data Analysis & BI,Mid
+427,SQL,regular,Data Analysis & BI,Mid
+428,SQL,regular,Data Engineering,Senior
+428,Python,regular,Data Engineering,Senior
+428,PySpark,regular,Data Engineering,Senior
+428,Airflow,regular,Data Engineering,Senior
+428,ETL,regular,Data Engineering,Senior
+428,GCP,regular,Data Engineering,Senior
+428,AWS,regular,Data Engineering,Senior
+428,Azure,regular,Data Engineering,Senior
+429,Python,advanced,Data Engineering,Senior
+429,Spark,advanced,Data Engineering,Senior
+429,Delta Lake,regular,Data Engineering,Senior
+429,Kubernetes,regular,Data Engineering,Senior
+429,AWS,regular,Data Engineering,Senior
+430,SQL,advanced,Data Analysis & BI,Senior
+430,Power BI,advanced,Data Analysis & BI,Senior
+431,Docker,advanced,Unclassified,Mid
+431,Kubernetes,advanced,Unclassified,Mid
+431,Scala,advanced,Unclassified,Mid
+431,Apache Kafka,regular,Unclassified,Mid
+431,Hive,regular,Unclassified,Mid
+432,Artificial Intelligence,advanced,Data Science,Mid
+432,Databases,regular,Data Science,Mid
+433,PostgreSQL,advanced,Database Administration,Senior
+433,SQL,advanced,Database Administration,Senior
+433,Oracle,regular,Database Administration,Senior
+433,PostgreSQL,regular,Database Administration,Senior
+433,MySQL,regular,Database Administration,Senior
+433,Oracle,regular,Database Administration,Senior
+434,SQL,regular,Data Analysis & BI,Mid
+434,Power BI,regular,Data Analysis & BI,Mid
+434,Tableau,regular,Data Analysis & BI,Mid
+434,Python,nice to have,Data Analysis & BI,Mid
+434,R,nice to have,Data Analysis & BI,Mid
+434,Mixpanel,nice to have,Data Analysis & BI,Mid
+434,DBT,nice to have,Data Analysis & BI,Mid
+435,Microstrategy,master,Unclassified,Senior
+436,Tableau,advanced,Data Science,Mid
+436,SQL,advanced,Data Science,Mid
+436,Python,regular,Data Science,Mid
+437,AWS,advanced,Data Engineering,Senior
+437,Unix,advanced,Data Engineering,Senior
+437,ETL,advanced,Data Engineering,Senior
+437,Docker,advanced,Data Engineering,Senior
+437,Snowflake,advanced,Data Engineering,Senior
+437,SQL,advanced,Data Engineering,Senior
+437,Data Vault,advanced,Data Engineering,Senior
+437,Python,advanced,Data Engineering,Senior
+438,Oracle,advanced,Data Analysis & BI,Senior
+438,SharePoint,advanced,Data Analysis & BI,Senior
+438,Jira,advanced,Data Analysis & BI,Senior
+438,Microsoft Planner,advanced,Data Analysis & BI,Senior
+438,PowerApps,nice to have,Data Analysis & BI,Senior
+438,Power Automate,nice to have,Data Analysis & BI,Senior
+438,Clickup,nice to have,Data Analysis & BI,Senior
+438,Monday.com,nice to have,Data Analysis & BI,Senior
+439,Azure,master,Data Architecture,Senior
+439,SQL,regular,Data Architecture,Senior
+439,Python,regular,Data Architecture,Senior
+439,Business Intelligence,regular,Data Architecture,Senior
+440,Data Warehousing,advanced,Data Analysis & BI,Senior
+441,Spark,advanced,Data Engineering,Senior
+441,Azure Data Factory,advanced,Data Engineering,Senior
+441,Databricks,advanced,Data Engineering,Senior
+441,SQL,advanced,Data Engineering,Senior
+442,AWS,advanced,Data Engineering,Senior
+442,Spark,advanced,Data Engineering,Senior
+442,SQL,advanced,Data Engineering,Senior
+442,Python,advanced,Data Engineering,Senior
+442,Data Integration,advanced,Data Engineering,Senior
+442,Hadoop,regular,Data Engineering,Senior
+442,Iceberg,nice to have,Data Engineering,Senior
+442,Hive,nice to have,Data Engineering,Senior
+442,Java,nice to have,Data Engineering,Senior
+442,Scala,nice to have,Data Engineering,Senior
+443,ETL,advanced,Data Architecture,Senior
+443,BI,advanced,Data Architecture,Senior
+443,SQL,advanced,Data Architecture,Senior
+443,T-SQL,regular,Data Architecture,Senior
+443,Teradata,regular,Data Architecture,Senior
+443,AWS,regular,Data Architecture,Senior
+443,Azure,regular,Data Architecture,Senior
+443,GCP,regular,Data Architecture,Senior
+443,Snowflake,regular,Data Architecture,Senior
+443,MySQL,regular,Data Architecture,Senior
+443,SQL Server,regular,Data Architecture,Senior
+443,Oracle,regular,Data Architecture,Senior
+444,SQL,advanced,Data Engineering,Mid
+444,Python,advanced,Data Engineering,Mid
+444,PySpark,regular,Data Engineering,Mid
+444,SparkSQL,regular,Data Engineering,Mid
+444,Presto,regular,Data Engineering,Mid
+444,Airflow,regular,Data Engineering,Mid
+445,AWS,advanced,Data Architecture,Senior
+445,GenAI,regular,Data Architecture,Senior
+445,Artificial Intelligence,regular,Data Architecture,Senior
+446,data migration,regular,Unclassified,Mid
+446,S/4HANA,junior,Unclassified,Mid
+446,SAP ECC,junior,Unclassified,Mid
+446,SAP Data Services,nice to have,Unclassified,Mid
+446,SQL Server,nice to have,Unclassified,Mid
+446,SAP LSMW,nice to have,Unclassified,Mid
+447,Oracle,master,Database Administration,Senior
+447,SQL,master,Database Administration,Senior
+447,REST API,regular,Database Administration,Senior
+447,XQUERY,regular,Database Administration,Senior
+447,SOAP,regular,Database Administration,Senior
+447,XSLT,regular,Database Administration,Senior
+448,AWS,regular,Data Engineering,Mid
+448,ETL,regular,Data Engineering,Mid
+448,T-SQL,regular,Data Engineering,Mid
+448,Data Warehouse,regular,Data Engineering,Mid
+448,Snowflake,regular,Data Engineering,Mid
+448,Snowflake,regular,Data Engineering,Mid
+448,SSIS,regular,Data Engineering,Mid
+449,Python,advanced,Data Science,Mid
+449,Machine Learning,advanced,Data Science,Mid
+449,German,nice to have,Data Science,Mid
+450,Snowflake,advanced,Data Architecture,Senior
+450,data vault 2.0,advanced,Data Architecture,Senior
+450,DBT,advanced,Data Architecture,Senior
+450,AWS,regular,Data Architecture,Senior
+451,OSS/BSS,advanced,Data Architecture,Senior
+451,SQL,advanced,Data Architecture,Senior
+451,Salesforce,nice to have,Data Architecture,Senior
+452,AWS,advanced,Data Engineering,Senior
+452,CI/CD,advanced,Data Engineering,Senior
+452,T-SQL,advanced,Data Engineering,Senior
+452,Azure,advanced,Data Engineering,Senior
+452,GCP,advanced,Data Engineering,Senior
+452,SQL Server,advanced,Data Engineering,Senior
+452,SQL,advanced,Data Engineering,Senior
+453,AWS,advanced,Data Engineering,Senior
+453,Airflow,advanced,Data Engineering,Senior
+453,Redshift,advanced,Data Engineering,Senior
+453,s3,advanced,Data Engineering,Senior
+453,Lambda,advanced,Data Engineering,Senior
+453,Snowflake,advanced,Data Engineering,Senior
+453,SQL,advanced,Data Engineering,Senior
+453,Python,advanced,Data Engineering,Senior
+454,Oracle,advanced,Database Administration,Senior
+454,SQL,advanced,Database Administration,Senior
+454,AIX,regular,Database Administration,Senior
+454,Oracle,regular,Database Administration,Senior
+454,CI/CD,regular,Database Administration,Senior
+455,ETL,advanced,Unclassified,Mid
+455,Oracle,advanced,Unclassified,Mid
+455,WebLogic,regular,Unclassified,Mid
+455,JDeveloper,regular,Unclassified,Mid
+456,C#,advanced,Unclassified,Senior
+456,Python,advanced,Unclassified,Senior
+456,Java,advanced,Unclassified,Senior
+457,Salesforce,advanced,Unclassified,Mid
+457,Field Service,advanced,Unclassified,Mid
+457,Salesforce Service Cloud,advanced,Unclassified,Mid
+457,Salesforce Marketing Cloud,nice to have,Unclassified,Mid
+457,SAP,nice to have,Unclassified,Mid
+457,ERP,nice to have,Unclassified,Mid
+458,AWS,regular,Data Analysis & BI,Mid
+458,PySpark,regular,Data Analysis & BI,Mid
+458,Power BI,regular,Data Analysis & BI,Mid
+458,Azure,regular,Data Analysis & BI,Mid
+458,GCP,regular,Data Analysis & BI,Mid
+458,SQL,regular,Data Analysis & BI,Mid
+458,Python,regular,Data Analysis & BI,Mid
+458,Data Analysis,regular,Data Analysis & BI,Mid
+458,Business Intelligence,regular,Data Analysis & BI,Mid
+459,Azure,regular,Data Analysis & BI,Mid
+459,OR,regular,Data Analysis & BI,Mid
+460,Power BI,regular,Data Engineering,Mid
+460,Azure Databricks,regular,Data Engineering,Mid
+460,SQL Server,regular,Data Engineering,Mid
+460,Azure Synapse Analytics,regular,Data Engineering,Mid
+460,Azure Data Factory,regular,Data Engineering,Mid
+460,Azure Analysis Services,regular,Data Engineering,Mid
+461,NLP,regular,Data Science,Senior
+461,Python,regular,Data Science,Senior
+461,Kubernetes,regular,Data Science,Senior
+461,Machine Learning,regular,Data Science,Senior
+461,Artificial Intelligence,regular,Data Science,Senior
+461,Databricks,junior,Data Science,Senior
+461,k8,nice to have,Data Science,Senior
+462,Python,advanced,Data Science,Senior
+462,Machine Learning,regular,Data Science,Senior
+462,SQL,regular,Data Science,Senior
+462,MLOps,regular,Data Science,Senior
+462,Docker,regular,Data Science,Senior
+462,NoSQL,regular,Data Science,Senior
+462,Redis,regular,Data Science,Senior
+462,Linux,regular,Data Science,Senior
+463,Unix,master,Data Engineering,Senior
+463,Data Build Tool,advanced,Data Engineering,Senior
+463,Git,advanced,Data Engineering,Senior
+463,XML,advanced,Data Engineering,Senior
+463,GitFlow,advanced,Data Engineering,Senior
+463,JSON,advanced,Data Engineering,Senior
+463,YAML,advanced,Data Engineering,Senior
+463,Snowflake,advanced,Data Engineering,Senior
+463,SQL,advanced,Data Engineering,Senior
+464,Databricks,advanced,Data Analysis & BI,Senior
+464,Azure Synapse Analytics,advanced,Data Analysis & BI,Senior
+464,Azure Data Lake,advanced,Data Analysis & BI,Senior
+464,Cloud,advanced,Data Analysis & BI,Senior
+464,SQL,advanced,Data Analysis & BI,Senior
+464,Data Vault,advanced,Data Analysis & BI,Senior
+464,Data analysis,advanced,Data Analysis & BI,Senior
+465,DBT,regular,Data Analysis & BI,Senior
+465,Talend,regular,Data Analysis & BI,Senior
+465,Airflow,regular,Data Analysis & BI,Senior
+465,SQL,regular,Data Analysis & BI,Senior
+465,Snowflake,regular,Data Analysis & BI,Senior
+466,Microsoft Excel,advanced,Data Analysis & BI,Senior
+466,SQL,advanced,Data Analysis & BI,Senior
+466,Looker,nice to have,Data Analysis & BI,Senior
+466,Tableau,nice to have,Data Analysis & BI,Senior
+466,Python,nice to have,Data Analysis & BI,Senior
+467,Databases,junior,Unclassified,Junior
+467,SQL,junior,Unclassified,Junior
+467,C#,nice to have,Unclassified,Junior
+467,Git,nice to have,Unclassified,Junior
+467,C++,nice to have,Unclassified,Junior
+467,Delphi,nice to have,Unclassified,Junior
+468,AWS,advanced,Data Science,Senior
+468,LLMs,advanced,Data Science,Senior
+468,Docker,advanced,Data Science,Senior
+468,SQL,advanced,Data Science,Senior
+468,Python,advanced,Data Science,Senior
+468,GCP,regular,Data Science,Senior
+469,AWS,master,Data Engineering,Senior
+469,Snowflake,master,Data Engineering,Senior
+469,SQL,master,Data Engineering,Senior
+469,PySpark,advanced,Data Engineering,Senior
+469,Python,advanced,Data Engineering,Senior
+470,Databricks,master,Data Engineering,Manager / C-level
+470,Python,master,Data Engineering,Manager / C-level
+470,SQL,advanced,Data Engineering,Manager / C-level
+470,Azure,advanced,Data Engineering,Manager / C-level
+470,AWS,advanced,Data Engineering,Manager / C-level
+470,CI/CD,regular,Data Engineering,Manager / C-level
+471,Power BI,advanced,Database Administration,Senior
+471,Databricks,advanced,Database Administration,Senior
+471,SQL,advanced,Database Administration,Senior
+471,Business Intelligence,advanced,Database Administration,Senior
+471,Azure,regular,Database Administration,Senior
+472,CI/CD,advanced,Data Engineering,Senior
+472,Spark,advanced,Data Engineering,Senior
+472,Azure,advanced,Data Engineering,Senior
+472,Python,advanced,Data Engineering,Senior
+472,SQL,regular,Data Engineering,Senior
+473,Data engineer,regular,Data Engineering,Senior
+473,Python,regular,Data Engineering,Senior
+473,AWS,regular,Data Engineering,Senior
+473,CI/CD,regular,Data Engineering,Senior
+473,Cloud Dev Kit,regular,Data Engineering,Senior
+474,PyTorch,advanced,Data Science,Senior
+474,Machine Learning,regular,Data Science,Senior
+474,Machine Learning,regular,Data Science,Senior
+474,Artificial Intelligence,regular,Data Science,Senior
+475,Apache Spark,advanced,Unclassified,Senior
+475,KEDA,advanced,Unclassified,Senior
+475,Python,advanced,Unclassified,Senior
+475,Go,advanced,Unclassified,Senior
+475,C#,advanced,Unclassified,Senior
+475,Azure,regular,Unclassified,Senior
+476,AWS,regular,Data Science,Mid
+476,Python,regular,Data Science,Mid
+476,TypeScript,regular,Data Science,Mid
+476,Machine Learning,nice to have,Data Science,Mid
+476,Artificial Intelligence,nice to have,Data Science,Mid
+477,CI/CD,advanced,Data Engineering,Senior
+477,Python,advanced,Data Engineering,Senior
+477,Apache Spark,advanced,Data Engineering,Senior
+477,AWS,regular,Data Engineering,Senior
+477,Airflow,regular,Data Engineering,Senior
+477,Azure,regular,Data Engineering,Senior
+477,GCP,regular,Data Engineering,Senior
+477,Kubernetes,regular,Data Engineering,Senior
+477,Apache Kafka,nice to have,Data Engineering,Senior
+478,Python,regular,Data Analysis & BI,Mid
+478,SQL,regular,Data Analysis & BI,Mid
+478,Tableau,regular,Data Analysis & BI,Mid
+478,Power BI,regular,Data Analysis & BI,Mid
+478,Databases,regular,Data Analysis & BI,Mid
+479,Python,advanced,Data Engineering,Senior
+479,DBT,regular,Data Engineering,Senior
+479,Databricks,regular,Data Engineering,Senior
+479,AWS,regular,Data Engineering,Senior
+479,SQL,regular,Data Engineering,Senior
+479,Spark,nice to have,Data Engineering,Senior
+480,ETL,junior,Data Engineering,Mid
+480,PySpark,junior,Data Engineering,Mid
+480,Azure,junior,Data Engineering,Mid
+480,Databricks,junior,Data Engineering,Mid
+480,SQL,junior,Data Engineering,Mid
+480,Python,junior,Data Engineering,Mid
+481,GCP,regular,Unclassified,Mid
+481,Cloud FinOps,regular,Unclassified,Mid
+481,Ansible,regular,Unclassified,Mid
+481,Terraform,regular,Unclassified,Mid
+482,SQL Server,advanced,Data Engineering,Senior
+482,T-SQL,advanced,Data Engineering,Senior
+482,SSRS,advanced,Data Engineering,Senior
+482,SQL,advanced,Data Engineering,Senior
+482,SSAS tabular,advanced,Data Engineering,Senior
+482,SSIS,regular,Data Engineering,Senior
+482,Power BI,junior,Data Engineering,Senior
+482,Azure,junior,Data Engineering,Senior
+483,PostgreSQL,regular,Database Administration,Mid
+483,MySQL,regular,Database Administration,Mid
+483,SQL Server,regular,Database Administration,Mid
+483,Oracle,regular,Database Administration,Mid
+484,Power BI,regular,Data Analysis & BI,Mid
+484,SQL,regular,Data Analysis & BI,Mid
+485,Microsoft Excel,regular,Unclassified,Mid
+485,VBA,regular,Unclassified,Mid
+485,Atlassian,regular,Unclassified,Mid
+485,ITIL,regular,Unclassified,Mid
+485,alteryx,nice to have,Unclassified,Mid
+485,Power BI,nice to have,Unclassified,Mid
+485,Power Automate,nice to have,Unclassified,Mid
+485,Power Query,nice to have,Unclassified,Mid
+485,SQL,nice to have,Unclassified,Mid
+485,React,nice to have,Unclassified,Mid
+486,PostgreSQL,advanced,Data Architecture,Senior
+486,Cosmos DB,advanced,Data Architecture,Senior
+486,MongoDB,advanced,Data Architecture,Senior
+486,Oracle,advanced,Data Architecture,Senior
+486,SQL Server,advanced,Data Architecture,Senior
+486,Data architecture,advanced,Data Architecture,Senior
+487,Jira,advanced,Data Engineering,Senior
+487,PowerPoint,advanced,Data Engineering,Senior
+487,Excel,advanced,Data Engineering,Senior
+487,SAP,advanced,Data Engineering,Senior
+487,S/4HANA,advanced,Data Engineering,Senior
+487,SAP ECC,advanced,Data Engineering,Senior
+487,master data,advanced,Data Engineering,Senior
+488,ETL tools,regular,Data Engineering,Mid
+488,Databases,regular,Data Engineering,Mid
+489,ETL,regular,Database Administration,Mid
+489,T-SQL,regular,Database Administration,Mid
+489,Azure Data Factory,regular,Database Administration,Mid
+489,SQL,regular,Database Administration,Mid
+489,Python,nice to have,Database Administration,Mid
+490,PySpark,advanced,Data Engineering,Senior
+490,Data Warehousing,advanced,Data Engineering,Senior
+490,Software Development,advanced,Data Engineering,Senior
+490,Spark,advanced,Data Engineering,Senior
+490,Azure,advanced,Data Engineering,Senior
+490,Databricks,advanced,Data Engineering,Senior
+490,SQL,advanced,Data Engineering,Senior
+490,Python,advanced,Data Engineering,Senior
+491,Python,regular,Data Engineering,Mid
+492,SQL Server,advanced,Data Engineering,Senior
+492,Azure,regular,Data Engineering,Senior
+492,ETL,regular,Data Engineering,Senior
+493,Teradata,advanced,Data Architecture,Senior
+493,Informatica,advanced,Data Architecture,Senior
+493,Data analysis,regular,Data Architecture,Senior
+493,SQL,regular,Data Architecture,Senior
+494,GA4,advanced,Data Analysis & BI,Senior
+494,Grafana,advanced,Data Analysis & BI,Senior
+494,Microsoft Excel,advanced,Data Analysis & BI,Senior
+494,Looker,advanced,Data Analysis & BI,Senior
+494,Firebase,advanced,Data Analysis & BI,Senior
+494,BigQuery,advanced,Data Analysis & BI,Senior
+495,SQL,advanced,Database Administration,Senior
+495,T-SQL,regular,Database Administration,Senior
+495,Oracle,regular,Database Administration,Senior
+495,ETL,regular,Database Administration,Senior
+495,ETL tools,regular,Database Administration,Senior
+495,Data Integration,regular,Database Administration,Senior
+496,SQL,advanced,Data Science,Senior
+496,Python,regular,Data Science,Senior
+497,Databricks,advanced,Data Engineering,Senior
+497,SQL,advanced,Data Engineering,Senior
+497,Node.js,regular,Data Engineering,Senior
+497,Python,regular,Data Engineering,Senior
+497,React,nice to have,Data Engineering,Senior
+498,SQL,regular,Data Engineering,Mid
+498,T-SQL,regular,Data Engineering,Mid
+498,SSRS,regular,Data Engineering,Mid
+498,SSAS,regular,Data Engineering,Mid
+499,SQL,regular,Data Engineering,Mid
+499,Python,regular,Data Engineering,Mid
+500,SQL,regular,Data Engineering,Mid
+500,GCP,regular,Data Engineering,Mid
+500,ETL,regular,Data Engineering,Mid
+500,ELT,regular,Data Engineering,Mid
+500,Python,regular,Data Engineering,Mid
+500,PySpark,regular,Data Engineering,Mid
+500,Airflow,regular,Data Engineering,Mid
+500,CI/CD,regular,Data Engineering,Mid
+500,Data Warehouse,regular,Data Engineering,Mid
+501,SQL Server,regular,Data Analysis & BI,Senior
+501,R,regular,Data Analysis & BI,Senior
+501,Power BI,regular,Data Analysis & BI,Senior
+501,Microsoft Excel,regular,Data Analysis & BI,Senior
+501,ERP,regular,Data Analysis & BI,Senior
+501,SQL,regular,Data Analysis & BI,Senior
+502,PySpark,regular,Data Engineering,Mid
+502,Palantir,regular,Data Engineering,Mid
+503,SQL,advanced,Data Analysis & BI,Mid
+503,Tableau,advanced,Data Analysis & BI,Mid
+503,Tableau,advanced,Data Analysis & BI,Mid
+504,GitHub,master,Data Analysis & BI,Senior
+504,Databricks,master,Data Analysis & BI,Senior
+504,Azure Data Lake,master,Data Analysis & BI,Senior
+504,Snowflake,regular,Data Analysis & BI,Senior
+505,Artificial Intelligence,advanced,Unclassified,Mid
+505,Cybersecurity,advanced,Unclassified,Mid
+505,GitHub,regular,Unclassified,Mid
+505,Jira,regular,Unclassified,Mid
+505,Google Workspace,regular,Unclassified,Mid
+505,Rodo,nice to have,Unclassified,Mid
+506,Qlik Sense,regular,Database Administration,Mid
+506,SQL,regular,Database Administration,Mid
+506,BigQuery,nice to have,Database Administration,Mid
+507,SQL,advanced,Data Analysis & BI,Senior
+507,Power BI,nice to have,Data Analysis & BI,Senior
+507,Cognos,nice to have,Data Analysis & BI,Senior
+507,Teradata,nice to have,Data Analysis & BI,Senior
+508,Python,advanced,Data Science,Mid
+508,Elasticsearch,advanced,Data Science,Mid
+508,fastapi,advanced,Data Science,Mid
+508,GenAI,advanced,Data Science,Mid
+508,rag,advanced,Data Science,Mid
+508,Ansible,regular,Data Science,Mid
+508,Jenkins,regular,Data Science,Mid
+508,GitLab,regular,Data Science,Mid
+509,Full-stack BI Development,advanced,Data Analysis & BI,Mid
+509,Snowflake,advanced,Data Analysis & BI,Mid
+509,Power BI,regular,Data Analysis & BI,Mid
+509,Matillion,nice to have,Data Analysis & BI,Mid
+509,Managed Services,nice to have,Data Analysis & BI,Mid
+509,Oracle,nice to have,Data Analysis & BI,Mid
+509,SSIS,nice to have,Data Analysis & BI,Mid
+510,Azure,master,Data Architecture,Senior
+510,Databricks,master,Data Architecture,Senior
+510,SQL,master,Data Architecture,Senior
+510,Python,master,Data Architecture,Senior
+510,Power BI,nice to have,Data Architecture,Senior
+511,BigQuery,advanced,Data Analysis & BI,Mid
+511,SQL,advanced,Data Analysis & BI,Mid
+511,LLMs,regular,Data Analysis & BI,Mid
+511,Power BI,regular,Data Analysis & BI,Mid
+511,dataform,regular,Data Analysis & BI,Mid
+511,DBT,nice to have,Data Analysis & BI,Mid
+511,Python,nice to have,Data Analysis & BI,Mid
+512,GCP,advanced,Data Engineering,Senior
+512,Python,advanced,Data Engineering,Senior
+512,Data Engineering,advanced,Data Engineering,Senior
+512,Airflow,regular,Data Engineering,Senior
+512,Terraform,regular,Data Engineering,Senior
+513,Oracle,master,Database Administration,Senior
+513,Unix,advanced,Database Administration,Senior
+513,Linux,advanced,Database Administration,Senior
+513,SQL,advanced,Database Administration,Senior
+513,Ansible,regular,Database Administration,Senior
+513,Terraform,regular,Database Administration,Senior
+514,MySQL,advanced,Data Engineering,Mid
+514,PostgreSQL,advanced,Data Engineering,Mid
+514,Oracle,advanced,Data Engineering,Mid
+514,Docker,nice to have,Data Engineering,Mid
+514,Kubernetes,nice to have,Data Engineering,Mid
+515,Microsoft 365,advanced,Unclassified,Mid
+516,Databases,advanced,Database Administration,Senior
+517,LakeHouse,advanced,Data Architecture,Senior
+517,Databricks,advanced,Data Architecture,Senior
+517,SQL,advanced,Data Architecture,Senior
+517,Python,advanced,Data Architecture,Senior
+517,AWS,regular,Data Architecture,Senior
+517,Azure,regular,Data Architecture,Senior
+518,SQL,regular,Data Analysis & BI,Senior
+518,Python,regular,Data Analysis & BI,Senior
+518,QlikSense or Tableau,regular,Data Analysis & BI,Senior
+519,SQL,advanced,Data Engineering,Mid
+519,Python,regular,Data Engineering,Mid
+519,Scala,regular,Data Engineering,Mid
+519,AWS,regular,Data Engineering,Mid
+519,Azure,regular,Data Engineering,Mid
+519,GCP,regular,Data Engineering,Mid
+519,Apache Spark,regular,Data Engineering,Mid
+519,Airflow,regular,Data Engineering,Mid
+519,Kafka,regular,Data Engineering,Mid
+519,CI/CD,regular,Data Engineering,Mid
+520,ETL,regular,Data Analysis & BI,Senior
+520,ETL tools,regular,Data Analysis & BI,Senior
+520,PySpark,regular,Data Analysis & BI,Senior
+520,Jira,regular,Data Analysis & BI,Senior
+520,SQL,regular,Data Analysis & BI,Senior
+520,Python,regular,Data Analysis & BI,Senior
+520,Enterprise Architect,regular,Data Analysis & BI,Senior
+521,Machine Learning,advanced,Data Science,Manager / C-level
+521,GenAI,advanced,Data Science,Manager / C-level
+521,Azure,advanced,Data Science,Manager / C-level
+522,Spark,advanced,Data Engineering,Senior
+522,Databricks,advanced,Data Engineering,Senior
+522,SQL,regular,Data Engineering,Senior
+523,SQL,advanced,Data Analysis & BI,Mid
+523,Qlik,regular,Data Analysis & BI,Mid
+523,Tableau,regular,Data Analysis & BI,Mid
+523,BI,regular,Data Analysis & BI,Mid
+523,Power BI,regular,Data Analysis & BI,Mid
+523,GCP,nice to have,Data Analysis & BI,Mid
+523,BigQuery,nice to have,Data Analysis & BI,Mid
+524,Airflow,advanced,Database Administration,Senior
+524,ETL,advanced,Database Administration,Senior
+524,Oracle,advanced,Database Administration,Senior
+524,SQL,advanced,Database Administration,Senior
+524,Python,advanced,Database Administration,Senior
+524,PostgreSQL,regular,Database Administration,Senior
+524,Jira,junior,Database Administration,Senior
+524,Enterprise Architect,junior,Database Administration,Senior
+525,Data Warehousing,master,Data Analysis & BI,Senior
+525,Microsoft Excel,master,Data Analysis & BI,Senior
+525,Business Intelligence,master,Data Analysis & BI,Senior
+525,AWS,advanced,Data Analysis & BI,Senior
+525,ETL,advanced,Data Analysis & BI,Senior
+525,SQL,advanced,Data Analysis & BI,Senior
+525,Python,advanced,Data Analysis & BI,Senior
+526,Python,advanced,Data Science,Mid
+526,SQL,regular,Data Science,Mid
+526,GCP,regular,Data Science,Mid
+526,Azure,regular,Data Science,Mid
+527,AWS,master,Data Engineering,Senior
+527,CI/CD,advanced,Data Engineering,Senior
+527,Python,advanced,Data Engineering,Senior
+527,Apache Kafka,regular,Data Engineering,Senior
+527,Apache Spark,regular,Data Engineering,Senior
+528,Oracle,advanced,Data Engineering,Senior
+528,Unix,advanced,Data Engineering,Senior
+528,Oracle,advanced,Data Engineering,Senior
+528,SQL,advanced,Data Engineering,Senior
+528,Perl,advanced,Data Engineering,Senior
+528,Jenkins,advanced,Data Engineering,Senior
+528,Ansible,advanced,Data Engineering,Senior
+528,GitHub,advanced,Data Engineering,Senior
+528,Jira,advanced,Data Engineering,Senior
+529,Oracle Forms,advanced,Unclassified,Mid
+529,unix shell,regular,Unclassified,Mid
+529,Oracle,regular,Unclassified,Mid
+529,SQL,regular,Unclassified,Mid
+530,Spark,advanced,Data Engineering,Manager / C-level
+530,Snowflake,advanced,Data Engineering,Manager / C-level
+530,Databricks,advanced,Data Engineering,Manager / C-level
+530,AWS,regular,Data Engineering,Manager / C-level
+531,Power BI,regular,Data Analysis & BI,Mid
+531,Azure Databricks,regular,Data Analysis & BI,Mid
+531,Azure Synapse Analytics,regular,Data Analysis & BI,Mid
+531,Azure Data Factory,regular,Data Analysis & BI,Mid
+531,SQL,regular,Data Analysis & BI,Mid
+531,Azure DevOps,regular,Data Analysis & BI,Mid
+531,Azure Analysis Services,regular,Data Analysis & BI,Mid
+532,AWS,regular,Unclassified,Mid
+532,Git,regular,Unclassified,Mid
+532,Collibra Data Governance,regular,Unclassified,Mid
+532,CI/CD,regular,Unclassified,Mid
+532,REST API,regular,Unclassified,Mid
+532,ETL,regular,Unclassified,Mid
+532,ELT,regular,Unclassified,Mid
+532,Terraform,regular,Unclassified,Mid
+532,Groovy,regular,Unclassified,Mid
+532,Python,regular,Unclassified,Mid
+533,Python,regular,Data Science,Senior
+533,Algorithms,regular,Data Science,Senior
+533,SQL,regular,Data Science,Senior
+533,Databricks,nice to have,Data Science,Senior
+533,BigQuery,nice to have,Data Science,Senior
+533,Power BI,nice to have,Data Science,Senior
+533,Tableau,nice to have,Data Science,Senior
+533,GitHub,nice to have,Data Science,Senior
+534,Terraform,advanced,Data Engineering,Mid
+534,BigQuery,advanced,Data Engineering,Mid
+534,Google Cloud Platform,regular,Data Engineering,Mid
+534,Python,regular,Data Engineering,Mid
+534,Airflow,nice to have,Data Engineering,Mid
+534,Spark,nice to have,Data Engineering,Mid
+534,Oracle,nice to have,Data Engineering,Mid
+535,Oracle,master,Database Administration,Senior
+535,SQL Server,advanced,Database Administration,Senior
+535,PostgreSQL,regular,Database Administration,Senior
+536,Java,advanced,Data Engineering,Senior
+536,Scala,advanced,Data Engineering,Senior
+536,Airflow,regular,Data Engineering,Senior
+536,CI/CD,regular,Data Engineering,Senior
+536,Spark,regular,Data Engineering,Senior
+536,GitHub,regular,Data Engineering,Senior
+537,Oracle,advanced,Database Administration,Mid
+537,Oracle,regular,Database Administration,Mid
+537,Oracle,regular,Database Administration,Mid
+537,SOA,regular,Database Administration,Mid
+537,SOAP,regular,Database Administration,Mid
+537,XQUERY,regular,Database Administration,Mid
+537,XSLT,regular,Database Administration,Mid
+537,Data Integration,regular,Database Administration,Mid
+537,SQL,junior,Database Administration,Mid
+538,Python,advanced,Data Engineering,Mid
+538,Snowflake,regular,Data Engineering,Mid
+538,Databricks,regular,Data Engineering,Mid
+538,Scala,regular,Data Engineering,Mid
+538,Apache Spark,regular,Data Engineering,Mid
+538,Airflow,junior,Data Engineering,Mid
+538,Docker,junior,Data Engineering,Mid
+538,Kafka,junior,Data Engineering,Mid
+539,Microsoft Intune,regular,Unclassified,Senior
+539,SCCM,regular,Unclassified,Senior
+539,Azure AD,junior,Unclassified,Senior
+539,Windows Autopilot,junior,Unclassified,Senior
+539,Microsoft Exchange,nice to have,Unclassified,Senior
+540,Bash,regular,Data Engineering,Mid
+540,Python,regular,Data Engineering,Mid
+540,AWS,regular,Data Engineering,Mid
+540,IaC,regular,Data Engineering,Mid
+540,Lambda,regular,Data Engineering,Mid
+540,Glue,regular,Data Engineering,Mid
+540,IAM,regular,Data Engineering,Mid
+541,Oracle,advanced,Database Administration,Mid
+541,SQL,advanced,Database Administration,Mid
+541,Apex,regular,Database Administration,Mid
+541,Relational Databases,regular,Database Administration,Mid
+541,Oracle,regular,Database Administration,Mid
+541,CI/CD,junior,Database Administration,Mid
+542,Business Intelligence,regular,Data Engineering,Mid
+542,SQL,regular,Data Engineering,Mid
+542,Teradata,regular,Data Engineering,Mid
+542,Snowflake,regular,Data Engineering,Mid
+542,Databricks,regular,Data Engineering,Mid
+542,Machine Learning,regular,Data Engineering,Mid
+542,Artificial Intelligence,regular,Data Engineering,Mid
+542,Python,regular,Data Engineering,Mid
+543,Jira,advanced,Database Administration,Senior
+543,Confluence,advanced,Database Administration,Senior
+543,Ansible,advanced,Database Administration,Senior
+543,Linux/Unix,advanced,Database Administration,Senior
+543,Oracle WebLogic,advanced,Database Administration,Senior
+543,SQL,advanced,Database Administration,Senior
+543,Oracle Data Guard,advanced,Database Administration,Senior
+543,Oracle RAC,advanced,Database Administration,Senior
+543,oracle database,advanced,Database Administration,Senior
+544,Oracle,advanced,Data Engineering,Senior
+544,T-SQL,advanced,Data Engineering,Senior
+544,Cosmos DB,nice to have,Data Engineering,Senior
+544,Power BI,nice to have,Data Engineering,Senior
+544,CI/CD,nice to have,Data Engineering,Senior
+544,GitHub,nice to have,Data Engineering,Senior
+545,SAP,advanced,Data Engineering,Senior
+545,Nvidia Omniverse,regular,Data Engineering,Senior
+545,Databricks,regular,Data Engineering,Senior
+546,SQL,advanced,Data Science,Manager / C-level
+546,JavaScript,advanced,Data Science,Manager / C-level
+546,Python,advanced,Data Science,Manager / C-level
+546,Machine Learning,regular,Data Science,Manager / C-level
+546,CI/CD,regular,Data Science,Manager / C-level
+546,Artificial Intelligence,regular,Data Science,Manager / C-level
+547,Data analysis,advanced,Data Engineering,Senior
+547,Data Engineering,advanced,Data Engineering,Senior
+547,SQL,advanced,Data Engineering,Senior
+547,GCP,advanced,Data Engineering,Senior
+547,OpenShift,advanced,Data Engineering,Senior
+547,Oracle,advanced,Data Engineering,Senior
+547,Oracle,advanced,Data Engineering,Senior
+547,Airflow,advanced,Data Engineering,Senior
+547,Git,advanced,Data Engineering,Senior
+547,Java,advanced,Data Engineering,Senior
+548,Powershell,advanced,Data Engineering,Mid
+548,Azure,advanced,Data Engineering,Mid
+548,Python,advanced,Data Engineering,Mid
+548,Bicep,advanced,Data Engineering,Mid
+548,IaC,regular,Data Engineering,Mid
+548,Cloud Migration,regular,Data Engineering,Mid
+548,Cloud security,regular,Data Engineering,Mid
+548,Azure DevOps,regular,Data Engineering,Mid
+549,SQL,master,Data Analysis & BI,Senior
+549,GCP,advanced,Data Analysis & BI,Senior
+549,BigQuery,advanced,Data Analysis & BI,Senior
+549,Power BI,advanced,Data Analysis & BI,Senior
+549,Python,advanced,Data Analysis & BI,Senior
+550,PostgreSQL,advanced,Unclassified,Mid
+550,Ansible,advanced,Unclassified,Mid
+550,Docker,advanced,Unclassified,Mid
+550,Hadoop,advanced,Unclassified,Mid
+550,Kubernetes,advanced,Unclassified,Mid
+550,Apache Hadoop,advanced,Unclassified,Mid
+550,Apache Spark,advanced,Unclassified,Mid
+551,SQL,master,Data Analysis & BI,Senior
+551,Data Visualization,master,Data Analysis & BI,Senior
+551,Data Storytelling,master,Data Analysis & BI,Senior
+551,SaaS,advanced,Data Analysis & BI,Senior
+551,Azure,regular,Data Analysis & BI,Senior
+552,Jira,advanced,Data Engineering,Senior
+552,Oracle,advanced,Data Engineering,Senior
+552,SQL,advanced,Data Engineering,Senior
+552,DWH,advanced,Data Engineering,Senior
+552,Airflow,regular,Data Engineering,Senior
+552,PostgreSQL,regular,Data Engineering,Senior
+552,ETL,regular,Data Engineering,Senior
+552,Enterprise Architect,regular,Data Engineering,Senior
+553,SQL,advanced,Data Analysis & BI,Mid
+553,Databricks,advanced,Data Analysis & BI,Mid
+553,Power BI,regular,Data Analysis & BI,Mid
+553,PowerApps,regular,Data Analysis & BI,Mid
+553,Microsoft Dataverse,regular,Data Analysis & BI,Mid
+555,Machine Learning,advanced,Data Science,Senior
+555,Deep Learning,advanced,Data Science,Senior
+556,Microsoft Azure,master,Data Engineering,Senior
+556,SQL Server,master,Data Engineering,Senior
+556,Data Warehousing,master,Data Engineering,Senior
+556,Power BI,advanced,Data Engineering,Senior
+556,Cloud Engineer,advanced,Data Engineering,Senior
+557,Spark,advanced,Unclassified,Senior
+557,SQL,advanced,Unclassified,Senior
+557,Python,advanced,Unclassified,Senior
+557,Scala,advanced,Unclassified,Senior
+557,Data Warehousing,regular,Unclassified,Senior
+557,BigQuery,regular,Unclassified,Senior
+558,redhat,regular,Database Administration,Mid
+558,Linux,regular,Database Administration,Mid
+558,Oracle,regular,Database Administration,Mid
+558,Oracle,regular,Database Administration,Mid
+558,Redis,nice to have,Database Administration,Mid
+558,PostgreSQL,nice to have,Database Administration,Mid
+558,Shell,nice to have,Database Administration,Mid
+558,Perl,nice to have,Database Administration,Mid
+558,Python,nice to have,Database Administration,Mid
+558,Cassandra,nice to have,Database Administration,Mid
+559,Snowflake,advanced,Data Engineering,Mid
+559,Data Warehousing,advanced,Data Engineering,Mid
+559,ETL,advanced,Data Engineering,Mid
+559,Apify,regular,Data Engineering,Mid
+559,Salesforce,regular,Data Engineering,Mid
+559,ZoomInfo,regular,Data Engineering,Mid
+559,RevOps,regular,Data Engineering,Mid
+560,Databricks,advanced,Data Engineering,Senior
+560,Data Engineering,advanced,Data Engineering,Senior
+560,Python,advanced,Data Engineering,Senior
+560,SQL,advanced,Data Engineering,Senior
+560,CI/CD,advanced,Data Engineering,Senior
+560,AWS,advanced,Data Engineering,Senior
+560,Azure,advanced,Data Engineering,Senior
+561,CUDA,master,Unclassified,Senior
+561,C,master,Unclassified,Senior
+561,LLMs,advanced,Unclassified,Senior
+561,PyTorch,advanced,Unclassified,Senior
+561,TensorFlow,advanced,Unclassified,Senior
+561,cryptocurrency,advanced,Unclassified,Senior
+561,mining,regular,Unclassified,Senior
+561,inference llm optimising,regular,Unclassified,Senior
+561,CPU,regular,Unclassified,Senior
+561,GPU,regular,Unclassified,Senior
+562,Power Automate,nice to have,Unclassified,Junior
+562,Power Platform,nice to have,Unclassified,Junior
+562,Power Automate,nice to have,Unclassified,Junior
+563,R,advanced,Data Analysis & BI,Manager / C-level
+563,Python,advanced,Data Analysis & BI,Manager / C-level
+563,SQL,advanced,Data Analysis & BI,Manager / C-level
+563,SAS,advanced,Data Analysis & BI,Manager / C-level
+564,Azure Databricks,advanced,Data Engineering,Mid
+564,Spark,advanced,Data Engineering,Mid
+564,Delta Lake,regular,Data Engineering,Mid
+564,Delta Live Tables,regular,Data Engineering,Mid
+564,ETL,regular,Data Engineering,Mid
+564,SQL,regular,Data Engineering,Mid
+564,Python,regular,Data Engineering,Mid
+565,SQL Server,advanced,Database Administration,Senior
+565,Guidewire,regular,Database Administration,Senior
+566,Docker,regular,Data Engineering,Mid
+566,Kubernetes,regular,Data Engineering,Mid
+566,Oracle,regular,Data Engineering,Mid
+566,Teradata,regular,Data Engineering,Mid
+566,ETL,regular,Data Engineering,Mid
+566,Azure,regular,Data Engineering,Mid
+567,PySpark,advanced,Data Engineering,Senior
+567,Azure,advanced,Data Engineering,Senior
+567,Databricks,advanced,Data Engineering,Senior
+567,Python,advanced,Data Engineering,Senior
+567,Azure DevOps,regular,Data Engineering,Senior
+567,DBT,nice to have,Data Engineering,Senior
+567,DLT,nice to have,Data Engineering,Senior
+567,Docker,nice to have,Data Engineering,Senior
+567,Data Vault,nice to have,Data Engineering,Senior
+568,Pandas,advanced,Data Science,Mid
+568,Numpy,advanced,Data Science,Mid
+568,Scikit-Learn,advanced,Data Science,Mid
+568,Python,advanced,Data Science,Mid
+568,Machine Learning,regular,Data Science,Mid
+568,Feature Engineering,regular,Data Science,Mid
+569,TypeScript,advanced,Unclassified,Senior
+569,API,advanced,Unclassified,Senior
+569,Cypress,advanced,Unclassified,Senior
+569,React,advanced,Unclassified,Senior
+569,tailwind,regular,Unclassified,Senior
+570,Oracle,advanced,Unclassified,Senior
+570,Linux,advanced,Unclassified,Senior
+571,AWS/GCP,master,Data Engineering,Senior
+571,Airflow,master,Data Engineering,Senior
+571,Snowflake,master,Data Engineering,Senior
+572,zarządzanie hurtowniami danych,regular,Database Administration,Mid
+572,SQL,regular,Database Administration,Mid
+572,T-SQL,regular,Database Administration,Mid
+572,PostgreSQL,regular,Database Administration,Mid
+572,ERD,regular,Database Administration,Mid
+572,Git,regular,Database Administration,Mid
+572,Azure,regular,Database Administration,Mid
+572,Power BI,regular,Database Administration,Mid
+572,Oracle,nice to have,Database Administration,Mid
+572,Python,nice to have,Database Administration,Mid
+573,SQL,master,Data Architecture,Senior
+573,Data Vault,master,Data Architecture,Senior
+573,Python,master,Data Architecture,Senior
+573,DBT,advanced,Data Architecture,Senior
+573,AWS,nice to have,Data Architecture,Senior
+573,Snowflake,nice to have,Data Architecture,Senior
+574,SQL,master,Data Analysis & BI,Mid
+574,Microsoft Excel,advanced,Data Analysis & BI,Mid
+574,Python,nice to have,Data Analysis & BI,Mid
+574,Jupyter,nice to have,Data Analysis & BI,Mid
+575,Databases,junior,Database Administration,Junior
+575,SQL,junior,Database Administration,Junior
+575,Oracle APEX,junior,Database Administration,Junior
+576,Pandas,advanced,Data Engineering,Mid
+576,Python,advanced,Data Engineering,Mid
+576,SQL,advanced,Data Engineering,Mid
+576,ETL,advanced,Data Engineering,Mid
+576,CI/CD,advanced,Data Engineering,Mid
+576,Snowflake,advanced,Data Engineering,Mid
+577,SQL,advanced,Data Engineering,Mid
+577,DWH,advanced,Data Engineering,Mid
+577,ETL,regular,Data Engineering,Mid
+577,ELT,regular,Data Engineering,Mid
+577,Python,regular,Data Engineering,Mid
+577,GCP,nice to have,Data Engineering,Mid
+577,PySpark,nice to have,Data Engineering,Mid
+577,Airflow,nice to have,Data Engineering,Mid
+577,CI/CD,nice to have,Data Engineering,Mid
+577,REST API,nice to have,Data Engineering,Mid
+578,Grafana,advanced,Data Science,Senior
+578,Artificial Intelligence,advanced,Data Science,Senior
+578,Sinequa,regular,Data Science,Senior
+579,Airtable,regular,Unclassified,Mid
+580,Airflow,advanced,Data Engineering,Senior
+580,DBT,advanced,Data Engineering,Senior
+580,Azure Data Factory,advanced,Data Engineering,Senior
+580,Snowflake,advanced,Data Engineering,Senior
+580,Power BI,advanced,Data Engineering,Senior
+580,SQL,advanced,Data Engineering,Senior
+581,Power BI,regular,Data Analysis & BI,Mid
+581,BI,regular,Data Analysis & BI,Mid
+581,Snowflake,regular,Data Analysis & BI,Mid
+581,BigQuery,regular,Data Analysis & BI,Mid
+581,DAX,regular,Data Analysis & BI,Mid
+582,Jenkins,advanced,Data Engineering,Senior
+582,CI/CD,advanced,Data Engineering,Senior
+582,Ansible,advanced,Data Engineering,Senior
+582,Spark,advanced,Data Engineering,Senior
+582,Hadoop,advanced,Data Engineering,Senior
+582,Kafka,advanced,Data Engineering,Senior
+582,Linux,regular,Data Engineering,Senior
+583,Databricks,advanced,Data Engineering,Mid
+583,Python,advanced,Data Engineering,Mid
+583,SQL,nice to have,Data Engineering,Mid
+584,SQL,master,Data Engineering,Senior
+584,PySpark,advanced,Data Engineering,Senior
+584,Python,advanced,Data Engineering,Senior
+585,PostgreSQL,advanced,Database Administration,Senior
+585,GreenPlum,advanced,Database Administration,Senior
+586,Python,advanced,Data Analysis & BI,Mid
+586,SQL,regular,Data Analysis & BI,Mid
+587,Microsoft Identity Manager (MIM),regular,Unclassified,Mid
+587,SQL,regular,Unclassified,Mid
+587,Active Directory,regular,Unclassified,Mid
+587,.Net (C#),nice to have,Unclassified,Mid
+588,SQL,advanced,Data Analysis & BI,Mid
+588,Python,advanced,Data Analysis & BI,Mid
+589,ETL,advanced,Data Engineering,Senior
+589,Java,advanced,Data Engineering,Senior
+589,SQL,advanced,Data Engineering,Senior
+589,Python,advanced,Data Engineering,Senior
+590,SAS,advanced,Data Analysis & BI,Senior
+590,Python,advanced,Data Analysis & BI,Senior
+590,PySpark,advanced,Data Analysis & BI,Senior
+590,SQL,advanced,Data Analysis & BI,Senior
+590,Hadoop Big Data,advanced,Data Analysis & BI,Senior
+590,Jira,regular,Data Analysis & BI,Senior
+590,Confluence,regular,Data Analysis & BI,Senior
+590,Monday.com,regular,Data Analysis & BI,Senior
+591,SQL,advanced,Data Analysis & BI,Mid
+591,Python,advanced,Data Analysis & BI,Mid
+591,Scala,advanced,Data Analysis & BI,Mid
+591,Power BI,advanced,Data Analysis & BI,Mid
+592,Python,regular,Data Engineering,Mid
+592,Docker,regular,Data Engineering,Mid
+592,Prometheus,regular,Data Engineering,Mid
+592,Grafana,regular,Data Engineering,Mid
+592,Airflow,regular,Data Engineering,Mid
+592,Machine Learning,nice to have,Data Engineering,Mid
+593,ETL,regular,Data Engineering,Senior
+593,CI/CD,regular,Data Engineering,Senior
+593,Databricks,regular,Data Engineering,Senior
+593,Power BI,nice to have,Data Engineering,Senior
+594,Machine Learning,regular,Data Science,Senior
+594,LLMs,regular,Data Science,Senior
+594,PyTorch,regular,Data Science,Senior
+594,Spark,regular,Data Science,Senior
+594,Docker,regular,Data Science,Senior
+594,TensorFlow,regular,Data Science,Senior
+594,Kubernetes,regular,Data Science,Senior
+594,Kafka,regular,Data Science,Senior
+594,Deep Learning,regular,Data Science,Senior
+594,Python,regular,Data Science,Senior
+595,SQL,advanced,Data Engineering,Senior
+595,Python,advanced,Data Engineering,Senior
+595,Databases,advanced,Data Engineering,Senior
+595,AWS,regular,Data Engineering,Senior
+596,PySpark,master,Data Engineering,Mid
+596,AWS S3,advanced,Data Engineering,Mid
+596,Snowflake,advanced,Data Engineering,Mid
+596,Databricks,advanced,Data Engineering,Mid
+597,Azure,advanced,Data Engineering,Senior
+597,AWS,advanced,Data Engineering,Senior
+597,GCP,advanced,Data Engineering,Senior
+597,Databricks,advanced,Data Engineering,Senior
+597,Azure,advanced,Data Engineering,Senior
+597,AWS,advanced,Data Engineering,Senior
+597,GCP,advanced,Data Engineering,Senior
+597,Databricks Spark,advanced,Data Engineering,Senior
+597,PySpark,advanced,Data Engineering,Senior
+597,SQL,advanced,Data Engineering,Senior
+598,Tableau,master,Data Analysis & BI,Mid
+598,SQL,master,Data Analysis & BI,Mid
+598,Python,master,Data Analysis & BI,Mid
+598,Power BI,junior,Data Analysis & BI,Mid
+599,Airflow,advanced,Data Engineering,Senior
+599,DBT,advanced,Data Engineering,Senior
+599,Spark,advanced,Data Engineering,Senior
+599,BigQuery,advanced,Data Engineering,Senior
+599,SQL,advanced,Data Engineering,Senior
+599,Git,regular,Data Engineering,Senior
+599,GCP,regular,Data Engineering,Senior
+599,Data Lake,junior,Data Engineering,Senior
+600,SQL,master,Data Engineering,Mid
+600,Python,regular,Data Engineering,Mid
+600,Data Warehousing,regular,Data Engineering,Mid
+600,Azure,regular,Data Engineering,Mid
+600,Synapse,regular,Data Engineering,Mid
+600,PySpark,junior,Data Engineering,Mid
+601,Data Engineering,master,Data Engineering,Mid
+601,Data Mapping,advanced,Data Engineering,Mid
+601,ETL,regular,Data Engineering,Mid
+602,SAS,regular,Data Analysis & BI,Mid
+602,Python,regular,Data Analysis & BI,Mid
+602,PySpark,regular,Data Analysis & BI,Mid
+602,SQL,regular,Data Analysis & BI,Mid
+602,Hadoop,regular,Data Analysis & BI,Mid
+602,Jira,regular,Data Analysis & BI,Mid
+602,Confluence,regular,Data Analysis & BI,Mid
+602,prophecy,nice to have,Data Analysis & BI,Mid
+603,Spark,advanced,Data Engineering,Senior
+603,Azure,advanced,Data Engineering,Senior
+603,Databricks,advanced,Data Engineering,Senior
+603,Kubernetes,regular,Data Engineering,Senior
+603,Kafka,regular,Data Engineering,Senior
+603,SQL,regular,Data Engineering,Senior
+603,Python,regular,Data Engineering,Senior
+604,SQL,advanced,Data Engineering,Senior
+604,Python,advanced,Data Engineering,Senior
+604,AWS,regular,Data Engineering,Senior
+604,GCP,regular,Data Engineering,Senior
+604,Airflow,regular,Data Engineering,Senior
+604,Dagster,regular,Data Engineering,Senior
+604,Databricks,regular,Data Engineering,Senior
+604,Snowflake,regular,Data Engineering,Senior
+604,Redshift,regular,Data Engineering,Senior
+604,Azure,nice to have,Data Engineering,Senior
+605,Active Directory,regular,Data Engineering,Mid
+605,DNS,regular,Data Engineering,Mid
+605,DHCP,regular,Data Engineering,Mid
+605,Azure,regular,Data Engineering,Mid
+605,ITIL,regular,Data Engineering,Mid
+605,SAFe,regular,Data Engineering,Mid
+605,Powershell,regular,Data Engineering,Mid
+606,SQL Server,advanced,Database Administration,Senior
+606,MySQL,advanced,Database Administration,Senior
+606,Database design,advanced,Database Administration,Senior
+606,Oracle,advanced,Database Administration,Senior
+606,Database administrator,advanced,Database Administration,Senior
+606,AWS,nice to have,Database Administration,Senior
+606,ETL,nice to have,Database Administration,Senior
+606,Azure,nice to have,Database Administration,Senior
+607,SQL,advanced,Data Engineering,Senior
+607,AWS,regular,Data Engineering,Senior
+607,Airflow,regular,Data Engineering,Senior
+607,GCP,regular,Data Engineering,Senior
+607,CI/CD,regular,Data Engineering,Senior
+607,Azure,regular,Data Engineering,Senior
+607,Kafka,regular,Data Engineering,Senior
+607,Python,regular,Data Engineering,Senior
+607,Scala,regular,Data Engineering,Senior
+607,Apache Spark,regular,Data Engineering,Senior
+608,Bash,advanced,Database Administration,Senior
+608,Databases,advanced,Database Administration,Senior
+608,Oracle,advanced,Database Administration,Senior
+608,Oracle,advanced,Database Administration,Senior
+608,Oracle,advanced,Database Administration,Senior
+608,SQL,regular,Database Administration,Senior
+608,Linux OS,regular,Database Administration,Senior
+608,Virtualization,junior,Database Administration,Senior
+608,Python,nice to have,Database Administration,Senior
+609,Hadoop,regular,Unclassified,Mid
+610,Python,advanced,Data Science,Manager / C-level
+610,Machine Learning,regular,Data Science,Manager / C-level
+610,Statistics,regular,Data Science,Manager / C-level
+610,GCP,nice to have,Data Science,Manager / C-level
+610,Azure,nice to have,Data Science,Manager / C-level
+610,Scala,nice to have,Data Science,Manager / C-level
+611,Python,regular,Data Engineering,Senior
+611,Unix,regular,Data Engineering,Senior
+611,Linux,regular,Data Engineering,Senior
+611,Azure,regular,Data Engineering,Senior
+611,REST API,regular,Data Engineering,Senior
+611,Git,regular,Data Engineering,Senior
+611,GitHub,regular,Data Engineering,Senior
+611,Ansible,regular,Data Engineering,Senior
+611,Jenkins,regular,Data Engineering,Senior
+611,SDLC,regular,Data Engineering,Senior
+612,GCP,regular,Data Engineering,Mid
+612,SQL,regular,Data Engineering,Mid
+612,ETL,regular,Data Engineering,Mid
+612,ELT,regular,Data Engineering,Mid
+612,PySpark,regular,Data Engineering,Mid
+612,Airflow,regular,Data Engineering,Mid
+612,CI/CD,regular,Data Engineering,Mid
+612,DWH,regular,Data Engineering,Mid
+613,Python,regular,Data Science,Senior
+613,SQL,regular,Data Science,Senior
+613,BigQuery,regular,Data Science,Senior
+613,Airflow,regular,Data Science,Senior
+613,GCP,regular,Data Science,Senior
+613,Apache Spark,regular,Data Science,Senior
+613,Looker,regular,Data Science,Senior
+613,XGBoost,regular,Data Science,Senior
+613,Machine Learning,regular,Data Science,Senior
+614,Apache,advanced,Database Administration,Senior
+614,Java,advanced,Database Administration,Senior
+614,SQL,advanced,Database Administration,Senior
+614,Python,advanced,Database Administration,Senior
+614,NoSQL,advanced,Database Administration,Senior
+614,Git,regular,Database Administration,Senior
+614,ETL,regular,Database Administration,Senior
+614,Databases,regular,Database Administration,Senior
+615,Docker,advanced,Data Architecture,Senior
+615,SQL,advanced,Data Architecture,Senior
+615,Python,advanced,Data Architecture,Senior
+615,Apache Spark,advanced,Data Architecture,Senior
+615,AWS,regular,Data Architecture,Senior
+615,Airflow,regular,Data Architecture,Senior
+615,Kubernetes,regular,Data Architecture,Senior
+615,Iceberg,nice to have,Data Architecture,Senior
+615,Java,nice to have,Data Architecture,Senior
+616,AWS,regular,Database Administration,Mid
+616,Azure,regular,Database Administration,Mid
+616,Linux,regular,Database Administration,Mid
+616,Kubernetes,regular,Database Administration,Mid
+616,BI Data,regular,Database Administration,Mid
+616,Automatyzacja,regular,Database Administration,Mid
+616,Databases,regular,Database Administration,Mid
+616,SAS,nice to have,Database Administration,Mid
+617,ETL,advanced,Data Engineering,Senior
+617,DATA MODELLING,advanced,Data Engineering,Senior
+617,Jira,advanced,Data Engineering,Senior
+617,Microsoft Excel,advanced,Data Engineering,Senior
+617,SQL Server,advanced,Data Engineering,Senior
+618,Python,regular,Data Engineering,Mid
+618,Azure,regular,Data Engineering,Mid
+618,Databricks,regular,Data Engineering,Mid
+618,Apache Spark,regular,Data Engineering,Mid
+618,SQL,regular,Data Engineering,Mid
+619,Python,regular,Data Engineering,Mid
+619,SQL,regular,Data Engineering,Mid
+619,SQL Server,regular,Data Engineering,Mid
+619,PostgreSQL,regular,Data Engineering,Mid
+619,Cloud Vendors,regular,Data Engineering,Mid
+619,Azure,regular,Data Engineering,Mid
+619,CI/CD,regular,Data Engineering,Mid
+619,GitHub Actions,regular,Data Engineering,Mid
+619,Azure DevOps,regular,Data Engineering,Mid
+620,AWS,regular,Data Engineering,Mid
+620,Python,regular,Data Engineering,Mid
+620,Databricks,regular,Data Engineering,Mid
+620,Spark,regular,Data Engineering,Mid
+620,DBT,regular,Data Engineering,Mid
+620,SQL,regular,Data Engineering,Mid
+620,CI/CD,nice to have,Data Engineering,Mid
+620,Airflow,nice to have,Data Engineering,Mid
+620,Dagster,nice to have,Data Engineering,Mid
+621,AWS,advanced,Data Science,Senior
+621,Go,advanced,Data Science,Senior
+621,CI/CD,advanced,Data Science,Senior
+621,Node.js,advanced,Data Science,Senior
+621,Angular,advanced,Data Science,Senior
+621,Docker,advanced,Data Science,Senior
+621,Kubernetes,advanced,Data Science,Senior
+621,Java,advanced,Data Science,Senior
+621,Python,advanced,Data Science,Senior
+621,Spring Boot,advanced,Data Science,Senior
+622,Microsoft Excel,regular,Unclassified,Mid
+622,SaaS,regular,Unclassified,Mid
+622,Power Query,regular,Unclassified,Mid
+622,Power BI,regular,Unclassified,Mid
+623,Databases,regular,Database Administration,Senior
+623,Oracle,regular,Database Administration,Senior
+623,SQL Server,regular,Database Administration,Senior
+623,MySQL,regular,Database Administration,Senior
+624,Data analysis,advanced,Data Analysis & BI,Senior
+624,SQL,advanced,Data Analysis & BI,Senior
+624,Python,advanced,Data Analysis & BI,Senior
+624,PySpark,nice to have,Data Analysis & BI,Senior
+624,Hadoop,nice to have,Data Analysis & BI,Senior
+624,SAS,nice to have,Data Analysis & BI,Senior
+625,Microservices,advanced,Data Science,Senior
+625,Python,advanced,Data Science,Senior
+625,AWS,regular,Data Science,Senior
+625,Terraform,regular,Data Science,Senior
+626,Snowflake,advanced,Data Engineering,Senior
+626,Databricks,advanced,Data Engineering,Senior
+627,SQL,regular,Database Administration,Mid
+627,T-SQL,regular,Database Administration,Mid
+627,PostgreSQL,regular,Database Administration,Mid
+627,ERD,regular,Database Administration,Mid
+627,Git,regular,Database Administration,Mid
+627,Azure,regular,Database Administration,Mid
+627,Power BI,regular,Database Administration,Mid
+627,Oracle,nice to have,Database Administration,Mid
+627,Python,nice to have,Database Administration,Mid
+627,SSAS tabular,nice to have,Database Administration,Mid
+628,Machine Learning,advanced,Data Science,Senior
+628,LLMs,advanced,Data Science,Senior
+628,Sagemaker,advanced,Data Science,Senior
+628,Kubernetes,advanced,Data Science,Senior
+628,AWS,advanced,Data Science,Senior
+628,Python,advanced,Data Science,Senior
+629,Python,advanced,Data Engineering,Senior
+629,SQL,advanced,Data Engineering,Senior
+629,PySpark,regular,Data Engineering,Senior
+630,MongoDB,regular,Data Engineering,Mid
+630,MySQL,regular,Data Engineering,Mid
+630,Oracle,regular,Data Engineering,Mid
+630,Java,regular,Data Engineering,Mid
+630,Python,regular,Data Engineering,Mid
+631,Azure,regular,Data Engineering,Mid
+631,Databricks,regular,Data Engineering,Mid
+631,SQL,regular,Data Engineering,Mid
+631,Apache Spark,regular,Data Engineering,Mid
+631,Data Warehousing,regular,Data Engineering,Mid
+632,Power Pages,advanced,Unclassified,Senior
+632,Power BI,advanced,Unclassified,Senior
+632,Power Apps,advanced,Unclassified,Senior
+632,Power Automate,advanced,Unclassified,Senior
+632,Azure,nice to have,Unclassified,Senior
+633,Apache Spark,regular,Data Engineering,Mid
+633,Azure,regular,Data Engineering,Mid
+633,Databricks,junior,Data Engineering,Mid
+633,SQL,junior,Data Engineering,Mid
+634,R,advanced,Unclassified,Senior
+634,Python,advanced,Unclassified,Senior
+634,Gurobi,advanced,Unclassified,Senior
+634,MathProg,advanced,Unclassified,Senior
+634,SQL,nice to have,Unclassified,Senior
+634,CI/CD,nice to have,Unclassified,Senior
+635,SQL,advanced,Data Engineering,Senior
+635,Azure,advanced,Data Engineering,Senior
+635,ETL,regular,Data Engineering,Senior
+635,CI/CD,regular,Data Engineering,Senior
+636,Apache Kafka,advanced,Data Engineering,Senior
+636,Microservices,advanced,Data Engineering,Senior
+636,batch processing,advanced,Data Engineering,Senior
+636,Structured Streaming,advanced,Data Engineering,Senior
+636,Databricks,advanced,Data Engineering,Senior
+636,SQL,advanced,Data Engineering,Senior
+636,Apache Spark,advanced,Data Engineering,Senior
+636,CI/CD,regular,Data Engineering,Senior
+636,Azure,regular,Data Engineering,Senior
+637,SSAS,advanced,Data Analysis & BI,Senior
+637,OLAP,advanced,Data Analysis & BI,Senior
+637,Tabular,advanced,Data Analysis & BI,Senior
+637,SQL,advanced,Data Analysis & BI,Senior
+637,MDX,advanced,Data Analysis & BI,Senior
+637,DAX,advanced,Data Analysis & BI,Senior
+637,ETL,advanced,Data Analysis & BI,Senior
+637,Power BI,advanced,Data Analysis & BI,Senior
+638,PostgreSQL,master,Data Architecture,Senior
+638,MongoDB / Firestore,master,Data Architecture,Senior
+638,Redis,master,Data Architecture,Senior
+638,Python,master,Data Architecture,Senior
+638,Apache Airflow,master,Data Architecture,Senior
+638,ETL,master,Data Architecture,Senior
+638,GCP,master,Data Architecture,Senior
+638,Docker,master,Data Architecture,Senior
+638,Kubernetes,master,Data Architecture,Senior
+639,Tableau,advanced,Data Analysis & BI,Mid
+639,SQL,advanced,Data Analysis & BI,Mid
+639,ETL,regular,Data Analysis & BI,Mid
+639,alteryx,regular,Data Analysis & BI,Mid
+639,Python,regular,Data Analysis & BI,Mid
+640,CI/CD,advanced,Data Engineering,Senior
+640,ETL,advanced,Data Engineering,Senior
+640,GCP,advanced,Data Engineering,Senior
+640,AWS,nice to have,Data Engineering,Senior
+640,CRM,nice to have,Data Engineering,Senior
+640,Azure,nice to have,Data Engineering,Senior
+641,Data Engineering,advanced,Database Administration,Senior
+641,Azure SQL,regular,Database Administration,Senior
+641,Azure Database,regular,Database Administration,Senior
+641,Power Query,regular,Database Administration,Senior
+641,Python,regular,Database Administration,Senior
+641,ETL,regular,Database Administration,Senior
+641,ETL tools,regular,Database Administration,Senior
+642,Git,advanced,Data Engineering,Senior
+642,Airflow,advanced,Data Engineering,Senior
+642,Oracle,advanced,Data Engineering,Senior
+642,Oracle,advanced,Data Engineering,Senior
+642,OpenShift,advanced,Data Engineering,Senior
+642,GCP,advanced,Data Engineering,Senior
+642,SQL,advanced,Data Engineering,Senior
+642,Python,advanced,Data Engineering,Senior
+642,Docker,advanced,Data Engineering,Senior
+643,GCP,advanced,Data Engineering,Senior
+643,Python,advanced,Data Engineering,Senior
+643,CI/CD,regular,Data Engineering,Senior
+644,Power BI,regular,Data Analysis & BI,Senior
+644,SQL,regular,Data Analysis & BI,Senior
+644,DAX,regular,Data Analysis & BI,Senior
+644,M Query,regular,Data Analysis & BI,Senior
+644,Tableau,nice to have,Data Analysis & BI,Senior
+644,Azure,nice to have,Data Analysis & BI,Senior
+644,R,nice to have,Data Analysis & BI,Senior
+644,ETL,nice to have,Data Analysis & BI,Senior
+644,API,nice to have,Data Analysis & BI,Senior
+645,Oracle,advanced,Data Engineering,Mid
+645,Database,advanced,Data Engineering,Mid
+645,SQL,regular,Data Engineering,Mid
+645,MongoDB,regular,Data Engineering,Mid
+645,PostgreSQL,regular,Data Engineering,Mid
+645,Teradata,regular,Data Engineering,Mid
+645,Hadoop,regular,Data Engineering,Mid
+646,Analiza Biznesowa,master,Data Analysis & BI,Senior
+646,Data Warehousing,regular,Data Analysis & BI,Senior
+646,SQL,regular,Data Analysis & BI,Senior
+647,Tableau,nice to have,Data Engineering,Mid
+648,Python,regular,Data Analysis & BI,Mid
+648,Power BI,regular,Data Analysis & BI,Mid
+648,SQL,regular,Data Analysis & BI,Mid
+648,Azure,nice to have,Data Analysis & BI,Mid
+648,ETL,nice to have,Data Analysis & BI,Mid
+648,Oracle,nice to have,Data Analysis & BI,Mid
+649,Software Development,master,Unclassified,Manager / C-level
+649,Java,regular,Unclassified,Manager / C-level
+649,Python,regular,Unclassified,Manager / C-level
+650,VBA,regular,Unclassified,Mid
+650,Tableau,regular,Unclassified,Mid
+650,CRM,regular,Unclassified,Mid
+650,Microsoft Excel,regular,Unclassified,Mid
+650,Power BI,regular,Unclassified,Mid
+651,Data Warehousing,advanced,Data Engineering,Senior
+652,SQL,advanced,Data Engineering,Mid
+652,Azure,regular,Data Engineering,Mid
+652,ETL,regular,Data Engineering,Mid
+652,Databricks,regular,Data Engineering,Mid
+652,Azure,regular,Data Engineering,Mid
+652,Python,regular,Data Engineering,Mid
+653,Machine Learning,advanced,Data Science,Senior
+653,LLMs,advanced,Data Science,Senior
+653,PyTorch,advanced,Data Science,Senior
+653,TensorFlow,advanced,Data Science,Senior
+653,Python,advanced,Data Science,Senior
+653,Generative AI,advanced,Data Science,Senior
+653,R,nice to have,Data Science,Senior
+653,SQL,nice to have,Data Science,Senior
+653,Java,nice to have,Data Science,Senior
+654,Power BI,advanced,Data Analysis & BI,Mid
+654,VertiPaq,advanced,Data Analysis & BI,Mid
+654,DAX,advanced,Data Analysis & BI,Mid
+654,Power Query,advanced,Data Analysis & BI,Mid
+654,SQL,advanced,Data Analysis & BI,Mid
+654,Data Warehousing,regular,Data Analysis & BI,Mid
+654,Power Platform,junior,Data Analysis & BI,Mid
+654,Microsoft Fabric,junior,Data Analysis & BI,Mid
+655,Oracle,advanced,Data Engineering,Senior
+655,Unix,advanced,Data Engineering,Senior
+655,Oracle,regular,Data Engineering,Senior
+655,SQL,regular,Data Engineering,Senior
+655,Perl,regular,Data Engineering,Senior
+655,Jenkins,regular,Data Engineering,Senior
+655,Ansible,regular,Data Engineering,Senior
+655,GitHub,regular,Data Engineering,Senior
+655,Jira,nice to have,Data Engineering,Senior
+656,Snowflake,advanced,Data Engineering,Mid
+656,SQL,advanced,Data Engineering,Mid
+656,Artificial Intelligence,regular,Data Engineering,Mid
+656,Machine Learning,regular,Data Engineering,Mid
+657,Databricks,junior,Data Analysis & BI,Junior
+657,Snowflake,junior,Data Analysis & BI,Junior
+658,SQL,regular,Data Engineering,Mid
+658,Python,regular,Data Engineering,Mid
+658,Jira,regular,Data Engineering,Mid
+658,GitHub,regular,Data Engineering,Mid
+658,Datadog,regular,Data Engineering,Mid
+658,API,regular,Data Engineering,Mid
+658,Grafana,regular,Data Engineering,Mid
+658,Tableau,regular,Data Engineering,Mid
+658,ETL tools,regular,Data Engineering,Mid
+659,Python,advanced,Data Science,Mid
+659,SQL,advanced,Data Science,Mid
+659,ETL,advanced,Data Science,Mid
+659,Data Warehousing,advanced,Data Science,Mid
+659,Airflow,regular,Data Science,Mid
+659,Pandas,regular,Data Science,Mid
+659,GCP,regular,Data Science,Mid
+659,AWS,regular,Data Science,Mid
+659,Azure,junior,Data Science,Mid
+659,Docker,junior,Data Science,Mid
+660,UX,advanced,Unclassified,Mid
+660,SQL,advanced,Unclassified,Mid
+660,A/B Tests,advanced,Unclassified,Mid
+661,SQL,regular,Database Administration,Mid
+661,Oracle,regular,Database Administration,Mid
+661,PostgreSQL,regular,Database Administration,Mid
+661,Oracle,regular,Database Administration,Mid
+661,ETL,regular,Database Administration,Mid
+661,CI/CD,regular,Database Administration,Mid
+661,Git,regular,Database Administration,Mid
+662,AWS,advanced,Data Engineering,Senior
+662,Azure,advanced,Data Engineering,Senior
+662,GCP,advanced,Data Engineering,Senior
+662,SQL,advanced,Data Engineering,Senior
+662,NoSQL,advanced,Data Engineering,Senior
+662,ETL,advanced,Data Engineering,Senior
+662,CI/CD,advanced,Data Engineering,Senior
+663,PostgreSQL,advanced,Database Administration,Senior
+663,Oracle,advanced,Database Administration,Senior
+663,Oracle,advanced,Database Administration,Senior
+664,SAS,regular,Unclassified,Mid
+664,Oracle,regular,Unclassified,Mid
+664,Oracle,regular,Unclassified,Mid
+664,Azure,regular,Unclassified,Mid
+664,Apache Kafka,regular,Unclassified,Mid
+664,REST API,regular,Unclassified,Mid
+664,DWH,regular,Unclassified,Mid
+665,SQL,regular,Data Engineering,Mid
+665,Python,regular,Data Engineering,Mid
+665,Power BI,regular,Data Engineering,Mid
+665,Azure,regular,Data Engineering,Mid
+666,QlikSense,regular,Unclassified,Mid
+666,CI/CD,regular,Unclassified,Mid
+666,SQL,regular,Unclassified,Mid
+666,Hive,regular,Unclassified,Mid
+667,Python,master,Data Science,Senior
+667,Machine Learning,master,Data Science,Senior
+667,SQL,advanced,Data Science,Senior
+668,DWH,advanced,Data Engineering,Mid
+668,SQL,advanced,Data Engineering,Mid
+668,AWS,regular,Data Engineering,Mid
+668,Python,regular,Data Engineering,Mid
+668,DBT,junior,Data Engineering,Mid
+668,Java,nice to have,Data Engineering,Mid
+669,GCP,regular,Data Engineering,Mid
+669,GCP,regular,Data Engineering,Mid
+669,BigQuery,regular,Data Engineering,Mid
+669,GCP,regular,Data Engineering,Mid
+669,Oracle,regular,Data Engineering,Mid
+670,Azure,advanced,Data Engineering,Senior
+670,Databricks,advanced,Data Engineering,Senior
+670,SQL,advanced,Data Engineering,Senior
+670,Python,advanced,Data Engineering,Senior
+670,Airflow,regular,Data Engineering,Senior
+670,Apache Spark,regular,Data Engineering,Senior
+670,Apache Kafka,nice to have,Data Engineering,Senior
+670,DBT,nice to have,Data Engineering,Senior
+671,SQL Server,master,Data Science,Senior
+672,Microsoft Excel,master,Data Analysis & BI,Senior
+672,SQL,master,Data Analysis & BI,Senior
+673,W3C,advanced,Unclassified,Senior
+673,Semantic Web,regular,Unclassified,Senior
+674,Databricks,master,Data Engineering,Senior
+674,Azure,advanced,Data Engineering,Senior
+674,SQL Server,advanced,Data Engineering,Senior
+674,Azure,advanced,Data Engineering,Senior
+674,Azure,advanced,Data Engineering,Senior
+674,Azure,advanced,Data Engineering,Senior
+674,Azure DevOps,advanced,Data Engineering,Senior
+674,Python,advanced,Data Engineering,Senior
+675,Snowflake,advanced,Data Engineering,Mid
+675,SQL,advanced,Data Engineering,Mid
+675,ETL,regular,Data Engineering,Mid
+676,AWS,advanced,Data Engineering,Senior
+676,DBT,advanced,Data Engineering,Senior
+676,SQL,advanced,Data Engineering,Senior
+676,Python,advanced,Data Engineering,Senior
+676,Terraform,nice to have,Data Engineering,Senior
+676,Scala,nice to have,Data Engineering,Senior
+677,Python,advanced,Data Engineering,Senior
+677,Java,advanced,Data Engineering,Senior
+677,Scala,advanced,Data Engineering,Senior
+677,SQL,advanced,Data Engineering,Senior
+677,NoSQL,advanced,Data Engineering,Senior
+677,Kubernetes,advanced,Data Engineering,Senior
+677,Airflow,advanced,Data Engineering,Senior
+677,AWS,advanced,Data Engineering,Senior
+677,Flink,advanced,Data Engineering,Senior
+678,GCP,advanced,Unclassified,Senior
+678,ETL,advanced,Unclassified,Senior
+678,Data Warehousing,advanced,Unclassified,Senior
+678,GCP,advanced,Unclassified,Senior
+678,BigQuery,advanced,Unclassified,Senior
+678,SQL,advanced,Unclassified,Senior
+678,Python,advanced,Unclassified,Senior
+678,Apache,nice to have,Unclassified,Senior
+678,IntelliJ,nice to have,Unclassified,Senior
+678,Gradle,nice to have,Unclassified,Senior
+679,GCP,advanced,Data Engineering,Senior
+679,BigQuery,regular,Data Engineering,Senior
+679,Python,regular,Data Engineering,Senior
+679,SQL,regular,Data Engineering,Senior
+679,Airflow,regular,Data Engineering,Senior
+679,DBT,regular,Data Engineering,Senior
+679,dataform,regular,Data Engineering,Senior
+679,Power BI,nice to have,Data Engineering,Senior
+679,Tableau,nice to have,Data Engineering,Senior
+679,Azure,nice to have,Data Engineering,Senior
+680,AWS,advanced,Data Engineering,Mid
+680,SQL,advanced,Data Engineering,Mid
+680,Python,advanced,Data Engineering,Mid
+681,AWS,advanced,Data Architecture,Senior
+681,Informatica,advanced,Data Architecture,Senior
+681,SQL Server,advanced,Data Architecture,Senior
+681,Hadoop,advanced,Data Architecture,Senior
+681,MySQL,advanced,Data Architecture,Senior
+681,Snowflake,advanced,Data Architecture,Senior
+681,Power BI,advanced,Data Architecture,Senior
+681,ERWIN,advanced,Data Architecture,Senior
+681,Oracle,advanced,Data Architecture,Senior
+681,NoSQL,advanced,Data Architecture,Senior
+682,Data Warehousing,advanced,Data Engineering,Mid
+682,AWS,advanced,Data Engineering,Mid
+682,SQL,advanced,Data Engineering,Mid
+682,Python,advanced,Data Engineering,Mid
+683,SQL,advanced,Data Analysis & BI,Senior
+683,Python,advanced,Data Analysis & BI,Senior
+683,Power BI,advanced,Data Analysis & BI,Senior
+684,Azure Databricks,master,Data Science,Senior
+684,ELT,master,Data Science,Senior
+684,Data Warehouse,master,Data Science,Senior
+684,SQL,advanced,Data Science,Senior
+684,Python,advanced,Data Science,Senior
+685,Microsoft,advanced,Unclassified,Senior
+685,Microsoft 365,advanced,Unclassified,Senior
+685,SharePoint,advanced,Unclassified,Senior
+685,Power Apps,advanced,Unclassified,Senior
+685,HTML5,advanced,Unclassified,Senior
+685,CSS,advanced,Unclassified,Senior
+685,JavaScript,advanced,Unclassified,Senior
+685,SaaS,advanced,Unclassified,Senior
+686,Azure,regular,Data Architecture,Mid
+686,Snowflake,regular,Data Architecture,Mid
+686,Databricks,regular,Data Architecture,Mid
+686,SQL,regular,Data Architecture,Mid
+686,ETL,regular,Data Architecture,Mid
+687,GCP,regular,Data Engineering,Mid
+687,Python,regular,Data Engineering,Mid
+687,Airflow,regular,Data Engineering,Mid
+687,BigQuery,regular,Data Engineering,Mid

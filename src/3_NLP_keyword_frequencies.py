@@ -17,7 +17,7 @@ additional_stopwords = set(["oraz", "danych", "english", "hands", "znajomość",
 
 combined_stopwords = list(english_stopwords.union(polish_stopwords).union(additional_stopwords))
 
-vectorizer = CountVectorizer(stop_words=combined_stopwords, ngram_range=(1,2), max_features=80)
+vectorizer = CountVectorizer(stop_words=combined_stopwords, ngram_range=(2,3), max_features=80)
 
 freq_dict = {}
 

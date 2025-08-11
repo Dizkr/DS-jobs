@@ -2,6 +2,9 @@ import pandas as pd
 import os
 import re
 from datetime import datetime
+import joblib
+
+MODEL_DIR = "models"
 
 synonym_map = {
     'aws or azure': ['AWS', 'Azure'],
@@ -331,3 +334,70 @@ def clean_and_map_skills(df, skill_col):
 
     # Reset index and return
     return df_clean.reset_index(drop=True)
+
+def matches_keyword(text, keywords):
+    return any(re.search(rf"\b{re.escape(k)}\b", text) for k in keywords)
+
+def manual_classify(title):
+    # Define keywords for each merged category
+    data_science_keywords = [
+        'scientist', 'machine learning', 'ai', 'nlp', 'deep learning', 'science', 'llm',
+        'modeler', 'modeller', 'ml', 'bot detection', 'fraud detection', 'mlops'
+    ]
+
+    data_engineering_keywords = [
+        'data engineer', 'data engineering', 'etl', 'pipeline', 'snowflake', 'databricks', 'cloud', 
+        'database', 'integration', 'azure', 'dataops',
+        'master data', 'hurtowni danych', 'dwh',
+        'infrastructure', 'mulesoft', 'system integration', 'inżynier danych'
+    ]
+
+    data_analysis_keywords = [
+        'analyst', 'reporting', 'dashboard', 'power bi', 'powerbi', 'analytics', 'business intelligence',
+        'analityk', 'process mining', 'celonis', 'conversion specialist', 'specjalista ds. analiz', 'bi'
+    ]
+
+    database_administration_keywords = [
+        'administrator', 'admin', 'db administrator', 'sql server production', 'młodszy administrator',
+        'programista baz danych', 'database administrator', 'ms-sql', 'pl/sql', 'baz danych', 'sql'
+    ]
+
+    data_architect_keywords = [
+        'data architect', 'solution architect', 'enterprise architect', 'architecture',
+        'dimensional modeling', 'information architecture',
+        'azure architecture', 'cloud architecture', 'data vault', 'architect',
+        'architekt', 'database design', 'schema design'
+    ]
+
+    # Normalize title for case-insensitive matching
+    title_lower = title.lower()
+
+    # Check keywords by category
+    if matches_keyword(title_lower, database_administration_keywords):
+        return "Database Administration"
+    elif matches_keyword(title_lower, data_architect_keywords):
+        return "Data Architecture"
+    elif matches_keyword(title_lower, data_science_keywords):
+        return "Data Science"
+    elif matches_keyword(title_lower, data_analysis_keywords):
+        return "Data Analysis & BI"
+    elif matches_keyword(title_lower, data_engineering_keywords):
+        return "Data Engineering"
+    else:
+        return "Unclassified"
+
+def model_classify(job_title: str, model=None) -> str:
+    if model is None:
+        model_path = MODEL_DIR / "job_classifier_pipeline-LR.pkl"
+        if model_path.exists():
+            model = joblib.load(model_path)
+        else:
+            raise FileNotFoundError(f"No model found at {model_path}")
+    return model.predict([job_title])[0]
+
+def classify_job(job_title, use_model=False, model=None):
+    if not use_model:
+        return manual_classify(job_title)
+    else:
+        return model.predict([job_title])[0]
+

@@ -1,0 +1,4679 @@
+Job ID,Technology,Experience Level
+0,Data,advanced
+0,Databases,advanced
+0,SQL,advanced
+0,Linux,regular
+0,Windows,regular
+1,English,C1
+1,PostgreSQL,advanced
+1,High Availability,advanced
+1,Linux,advanced
+1,PL/SQL,regular
+1,SQL,regular
+1,CI/CD,nice to have
+2,IDMC,regular
+2,ETL,regular
+2,Azure,regular
+3,English,C1
+3,AWS,advanced
+3,Airflow,advanced
+3,SQL,advanced
+3,Python,advanced
+4,English,B2
+4,ETL,advanced
+4,SQL,advanced
+4,Airflow,regular
+4,DBT,regular
+4,Snowflake,regular
+4,Python,regular
+4,AWS,nice to have
+4,Databricks,nice to have
+5,English,C1
+5,AWS,advanced
+5,Google Cloud Platform,advanced
+5,Hadoop,advanced
+5,Cloudera,advanced
+5,Azure,advanced
+5,PySpark,regular
+5,Java,regular
+5,Python,regular
+5,Scala,regular
+5,Big Data,regular
+6,English,B2
+6,Databricks,advanced
+6,Data Lake,advanced
+6,Azure Synapse,advanced
+6,Tableau,advanced
+6,Power BI,advanced
+7,English,C1
+7,VBA,master
+7,SQL,master
+7,T-SQL,advanced
+7,SQL Server,advanced
+7,Databases,advanced
+7,Data modeling,advanced
+7,Data Integration,advanced
+8,Power BI,advanced
+8,MS SQL,advanced
+8,English,advanced
+8,ETL tools,regular
+8,Proactivity,regular
+8,Critical thinking,regular
+8,Data modeling,regular
+8,Python,junior
+8,Azure,nice to have
+9,English,B2
+9,Clickup,junior
+9,Buble,junior
+9,Bazy Danych,junior
+9,No Code,junior
+9,Low code,junior
+9,AI,nice to have
+10,English,B2
+10,Analytical Thinking,advanced
+10,Cloud,regular
+10,AI,regular
+10,Data,regular
+11,English,B2
+11,AWS,advanced
+11,Terraform,advanced
+11,SQL,advanced
+11,Python,advanced
+12,English,B2
+12,Data Vault,advanced
+12,Snowflake,advanced
+12,DBT,advanced
+12,AWS,regular
+13,English,C1
+13,Data Vault,advanced
+13,ETL,advanced
+13,DBT,advanced
+13,Data modeling,advanced
+13,Data Engineering,advanced
+14,English,B2
+14,Cloud,regular
+14,Python,regular
+14,Machine Learning,regular
+14,AWS,nice to have
+14,Azure,nice to have
+14,GCP,nice to have
+15,Palantir Foundry,regular
+15,ETL,regular
+15,SQL,regular
+15,Python,regular
+15,AWS,nice to have
+15,Azure,nice to have
+15,GCP,nice to have
+15,CI/CD,nice to have
+16,Polish,B2
+16,English,B2
+16,Python,advanced
+16,Cloud,regular
+16,Big Data,regular
+16,Amazon AWS,nice to have
+16,GCP,nice to have
+16,Azure,nice to have
+17,PyTorch,regular
+17,TensorFlow,regular
+17,scikit-learn,regular
+17,Pandas,regular
+17,NumPy,regular
+17,Python,regular
+18,Polish,C1
+18,PL/SQL,regular
+18,SQL,regular
+18,Informatica Power Center,regular
+18,Spark,nice to have
+18,Python,nice to have
+19,AWS,advanced
+19,SQL,advanced
+19,Python,advanced
+20,Polish,B2
+20,English,B2
+20,Microsoft Excel,regular
+20,SQL,junior
+20,Python,junior
+20,plotly,junior
+20,Pandas,junior
+21,Polish,C2
+21,English,B2
+21,AWS,advanced
+21,DWH,advanced
+21,Data modeling,advanced
+21,SQL,advanced
+21,Python,advanced
+21,DBT,nice to have
+21,Java,nice to have
+22,English,B2
+22,Python,advanced
+22,SQL,advanced
+22,Spark,advanced
+22,TensorFlow,advanced
+22,PyTorch,advanced
+22,GCP/AWS/AZURE,regular
+23,Machine Learning,regular
+23,NLP,regular
+23,modelling,regular
+23,data analytics,regular
+23,Generative AI,regular
+23,Data Science,regular
+24,PostgreSQL,regular
+24,ETL,regular
+24,ETL tools,regular
+24,SQL,regular
+24,Oracle,regular
+24,Python,regular
+24,Enterprise Architect,regular
+24,Big Data,regular
+25,Entity Data,advanced
+25,MS Excel,advanced
+25,Analytical Thinking,advanced
+25,Confluence,regular
+25,SQL,junior
+25,ETL,nice to have
+26,Airflow,regular
+26,AI,regular
+26,Scrum,regular
+26,Azure,regular
+26,Kafka,regular
+26,Python,regular
+27,Python,regular
+27,API,regular
+27,BigQuery,regular
+27,Looker,regular
+27,GCP,regular
+27,Fivetran,regular
+27,Zapier,regular
+27,Make,regular
+28,English,C1
+28,Turkish,C1
+28,Azure,regular
+28,OR,regular
+29,Polish,C1
+29,English,B2
+29,Azure Data Factory,regular
+29,Databricks,regular
+29,Airflow,regular
+29,ETL tools,regular
+29,Microsoft Azure,regular
+30,Polish,C1
+30,English,B2
+30,Power BI,advanced
+30,DAX,advanced
+30,SQL,advanced
+30,RDBMS,regular
+30,Azure SQL,junior
+30,Azure Data Lake,junior
+31,Polish,B2
+31,English,B2
+31,Oracle,advanced
+31,PostgreSQL,advanced
+32,English,B2
+32,ETL,advanced
+32,Databricks,advanced
+32,SQL,advanced
+32,Python,advanced
+32,Data engineer,advanced
+32,Microsoft Azure,regular
+32,CI/CD,regular
+33,English,B2
+33,Azure Databricks,advanced
+33,DATA MODELLING,advanced
+33,ETL Pipelines,advanced
+34,English,B2
+34,ETL,regular
+34,Agile,regular
+34,SQL,regular
+34,Python,regular
+34,Dataiku,nice to have
+35,Python,advanced
+35,AWS,advanced
+35,MongoDB,regular
+35,Spark,regular
+35,Delta Lake,regular
+36,Data Lake,advanced
+36,Azure,advanced
+36,Azure Data Factory,advanced
+36,ETRM,advanced
+36,•	Databricks,regular
+37,Polish,C1
+37,English,B2
+37,MS Excel,advanced
+37,SQL,regular
+37,Looker Studio,regular
+37,Google Analytics 4,nice to have
+37,Power BI,nice to have
+37,BigQuery,nice to have
+37,Google Tag Manager,nice to have
+38,English,C1
+38,Data Science,regular
+38,Algorithms,regular
+38,Python,regular
+38,Spark,regular
+38,Azure,nice to have
+38,GCP,nice to have
+38,Kubernetes,nice to have
+38,SQL,nice to have
+38,Databricks,nice to have
+38,BigQuery,nice to have
+39,English,B2
+39,Power Platform,advanced
+39,Copilot,regular
+39,Power BI,regular
+39,Azure,regular
+39,Power Apps,regular
+39,Power Automate,regular
+39,TypeScript,regular
+39,JavaScript,regular
+39,Azure DevOps,nice to have
+40,English,B2
+40,Git,advanced
+40,ETL,advanced
+40,Azure,advanced
+40,Data Warehouse,advanced
+40,Delta Lake,advanced
+40,SQL,advanced
+40,Python,advanced
+40,Glue,advanced
+40,Apache Spark,advanced
+41,English,C1
+41,"Data Guard, RMAN, Data Pump",advanced
+41,Linux,advanced
+41,Oracle,advanced
+41,Oracle GoldenGate,junior
+41,RAC (ASM) environment (19c),junior
+42,English,C1
+42,Informatica Powercenter,regular
+42,Databricks,regular
+42,Azure,regular
+42,Azure DevOps,regular
+42,SQL,regular
+42,SQL Server,regular
+43,English,B2
+43,RDBMS,junior
+43,Relational Databases,junior
+43,SQL,junior
+43,Python,junior
+44,Cloud,regular
+44,Kotlin,regular
+44,Databases,regular
+44,Java,regular
+44,Scala,regular
+44,Big Data,regular
+45,English,B2
+45,Large Language Models,regular
+45,Azure,regular
+45,Python,regular
+45,Generative AI,regular
+46,Apache Hadoop,master
+46,Apache Spark,nice to have
+47,English,C1
+47,Polish,C2
+47,Automation Tools,advanced
+47,Salesforce,advanced
+47,Business Analysis,advanced
+47,Integrating systems,advanced
+47,process automation,advanced
+47,Google Sheets,advanced
+47,Google Workspace,regular
+47,Apex,nice to have
+48,English,B2
+48,Google Cloud Platform,advanced
+48,BigQuery,advanced
+48,SQL,advanced
+48,Python,regular
+49,English,C1
+49,Power BI,advanced
+49,SQL,advanced
+49,Power Automate,advanced
+49,Snowflake,nice to have
+49,Python,nice to have
+50,Bash,advanced
+50,Databases,advanced
+50,PL/SQL,advanced
+50,Oracle DB,advanced
+50,Oracle,advanced
+50,SQL,regular
+50,Linux OS,regular
+50,Virtualization,junior
+50,Python,nice to have
+51,Polish,C2
+51,Azure,advanced
+51,Python,advanced
+51,Machine Learning,advanced
+52,English,B2
+52,Data,advanced
+52,Communication,advanced
+53,System Validation,master
+53,ServiceNow,master
+53,Front-End,master
+53,Backend,master
+53,Data Warehousing,master
+53,ETL,master
+53,Snowflake,master
+53,Talend,master
+53,Tableau,master
+54,English,B2
+54,ETL,advanced
+54,Spark,advanced
+54,JSON,advanced
+54,Azure,advanced
+54,Databricks,advanced
+54,SQL,advanced
+54,Python,advanced
+54,Scala,advanced
+54,Big Data,advanced
+54,NoSQL,advanced
+55,English,C1
+55,Data,advanced
+56,English,C1
+56,BigQuery,regular
+56,Cloud Storage,regular
+56,Pub/Sub,regular
+56,Dataflow,regular
+56,Dataproc,regular
+56,Apache Beam,regular
+56,Cloud Composer,regular
+57,SQL Server,advanced
+57,DBA,advanced
+57,MySQL,advanced
+57,Database design,advanced
+57,Oracle,advanced
+57,AWS,nice to have
+57,BI,nice to have
+57,Azure,nice to have
+58,ETL Pipelines,regular
+58,Python,regular
+58,Apache Spark,regular
+58,Data Lake,nice to have
+58,Data Bricks,nice to have
+58,Azure,nice to have
+59,PostgreSQL,advanced
+59,ETL tools,advanced
+59,MySQL,advanced
+59,MongoDB,advanced
+59,SQL,advanced
+59,Enterprise Architect,advanced
+59,DWH,advanced
+59,Python,regular
+60,English,B2
+60,SQL,advanced
+60,Google Cloud Platform,advanced
+60,ETL,advanced
+60,BigQuery,advanced
+60,DBT,advanced
+60,Apache Airflow,regular
+60,Cloud Composer,regular
+60,Kafka,regular
+60,Looker Studio,regular
+60,CI/CD,regular
+61,English,C1
+61,AI,advanced
+61,ML/AI systems,advanced
+61,Strategia Data & AI,advanced
+61,Python,advanced
+61,Data platforms,advanced
+61,Data architectures,advanced
+61,Analytics,advanced
+62,English,C1
+62,Cloud,regular
+62,"Data, modeling",regular
+62,Metadata,regular
+62,Data,regular
+63,Python,advanced
+63,AWS,advanced
+63,Data,advanced
+63,Spark,regular
+63,PySpark,regular
+63,Kubernetes,regular
+63,Delta Lake,regular
+64,CI/CD,regular
+64,SAS,regular
+64,Oracle,regular
+64,Azure,junior
+64,Kafka,junior
+65,Java,advanced
+65,Spring Boot,advanced
+65,CI/CD,advanced
+65,GCP,advanced
+65,streaming,advanced
+65,Kafka,advanced
+65,Apache  Beam,regular
+65,Groovy,regular
+66,SQL,advanced
+66,Informatica Powercenter,regular
+66,Oracle,regular
+66,PL/SQL,regular
+67,English,B2
+67,Azure,regular
+67,Databricks,regular
+67,Python,regular
+67,SQL,regular
+67,PySpark,junior
+68,web analytics,regular
+68,Adobe Analytics,regular
+68,Adobe Experience Manager,regular
+68,SEO,regular
+68,data analytics,regular
+69,Python,advanced
+69,Azure,advanced
+69,Databricks,advanced
+70,English,C1
+70,DevOps,advanced
+70,Git,advanced
+70,(Py)spark,advanced
+70,CI/CD,advanced
+70,Data Warehousing,advanced
+70,Power BI,advanced
+70,BI,advanced
+70,Fabric,advanced
+70,Azure DevOps,advanced
+70,Data Engineering,advanced
+71,English,B2
+71,Google Cloud Platform,master
+71,BigQuery,master
+71,SQL,master
+71,Python,advanced
+72,Python,advanced
+72,SQL,advanced
+72,PostgreSQL,advanced
+72,Cloud,regular
+72,GenAI,regular
+72,Software Architecture,regular
+73,English,C1
+73,AWS,master
+73,Azure,master
+73,Terraform,master
+73,Apache Spark,master
+73,CI/CD,master
+74,English,B2
+74,ETL,regular
+74,Data modeling,regular
+74,Jira,regular
+74,MS SQL Server,regular
+74,Microsoft Dynamics 365,nice to have
+74,JavaScript,nice to have
+74,TypeScript,nice to have
+74,GraphQL,nice to have
+74,Apollo,nice to have
+74,SAP,nice to have
+75,ETL/ELT,regular
+75,Azure Data Factory,regular
+75,ADLS,regular
+75,SQL,regular
+75,Python,regular
+75,CI/CD,junior
+75,Docker,nice to have
+75,Kubernetes,nice to have
+76,UML,advanced
+76,ETL,advanced
+76,ETL tools,advanced
+76,Power BI,advanced
+76,SQL,advanced
+77,English,B2
+77,Python,advanced
+77,SQL,regular
+77,Docker,junior
+77,Grafana,nice to have
+77,Machine Learning,nice to have
+78,Polish,B2
+78,English,C1
+78,NumPy,regular
+78,Spark,regular
+78,Pandas,regular
+78,SQL,regular
+78,Python,regular
+79,English,C1
+79,SQL,advanced
+79,Celonis,advanced
+79,process mining,regular
+79,data mining,regular
+79,Python,regular
+79,Matlab,regular
+79,R,regular
+79,Big Data,regular
+80,English,C1
+80,CRM,advanced
+80,Power BI,advanced
+80,AI,advanced
+80,Data analysis,advanced
+80,Salesforce,advanced
+80,Apollo,advanced
+80,SQL,advanced
+80,Clay,advanced
+80,Zapier,regular
+81,Google Kubernetes Engine,regular
+81,GitOPS,regular
+81,ArgoCD,regular
+81,Terraform,regular
+81,GCP,regular
+81,CI/CD,regular
+81,OpenShift,regular
+81,Linux,regular
+81,redhat,regular
+81,Linux (Debian),regular
+82,Polish,C1
+82,English,C1
+82,Python,advanced
+82,Pandas,advanced
+82,SQL,advanced
+82,DBT,regular
+82,GitLab,regular
+82,Snowflake,regular
+82,ETL,regular
+83,English,B2
+83,Python,advanced
+83,SQL & Database Skill,regular
+83,Apache Airflow,regular
+84,ETL,advanced
+84,Java,advanced
+84,Python,advanced
+84,Spark,regular
+84,SQL,regular
+85,PySpark,advanced
+85,Spark,advanced
+85,Databricks,advanced
+85,Python,advanced
+85,Microsoft SQL,nice to have
+86,Polish,C1
+86,English,C1
+86,Data Lake,advanced
+86,AWS,advanced
+86,Data Lakehouse,advanced
+86,CI/CD,advanced
+86,Terraform,advanced
+86,Databricks,advanced
+86,Delta Lake,advanced
+87,Polish,C1
+87,English,B2
+87,Git,advanced
+87,PostgreSQL,advanced
+87,CI/CD,advanced
+87,SQL Server,advanced
+87,Databricks,advanced
+87,Delta Lake,advanced
+87,AWS,regular
+87,Azure,regular
+87,GCP,regular
+87,Python,regular
+88,Power BI,regular
+88,Microsoft SQL,regular
+88,ETL tools,junior
+88,Microsoft Azure Cloud,nice to have
+88,Agile,nice to have
+89,Polish,B2
+89,English,C1
+89,Full-stack BI Development,regular
+89,Power BI,regular
+89,Snowflake,regular
+89,Agile,regular
+89,Business Analysis,junior
+89,Managed Services,junior
+89,Matillion,nice to have
+89,Oracle,nice to have
+89,SSIS,nice to have
+90,English,B2
+90,Pandas / NumPy / Scikit-learn,advanced
+90,Python,advanced
+90,Machine Learning,regular
+90,Feature Engineering,regular
+91,English,B2
+91,Analytical Thinking,advanced
+91,SQL,regular
+91,PostgreSQL,regular
+91,ERD,regular
+91,Data,regular
+91,Power BI,regular
+92,SQL,advanced
+92,ETL tools,regular
+92,BI tools,regular
+92,Data modeling,regular
+92,Snowflake,regular
+92,Redshift,regular
+92,Python,regular
+92,R,regular
+93,Polish,C1
+93,Hadoop,advanced
+93,Apache Airflow,advanced
+93,SQL,advanced
+93,Python,advanced
+93,Apache Spark,advanced
+94,Polish,C1
+94,English,C1
+94,Data Warehousing,advanced
+94,dimensional modeling,advanced
+94,Data modeling,advanced
+94,PostgreSQL,nice to have
+94,data vault 2.0,nice to have
+94,Snowflake,nice to have
+94,Oracle,nice to have
+95,English,B2
+95,Power BI,regular
+95,KYC,regular
+95,SQL,regular
+95,R,junior
+95,Java,junior
+95,Python,junior
+95,Scala,junior
+96,Excel,regular
+96,Databricks,regular
+96,Python,regular
+96,Apache Spark,regular
+96,Git,junior
+96,Azure/AWS,nice to have
+97,English,B2
+97,Apache Spark,advanced
+97,Databricks,regular
+97,Python,regular
+97,PySpark,regular
+97,SQL,regular
+97,Azure,regular
+97,Data modeling,regular
+98,Polish,C2
+98,English,B2
+98,Azure,advanced
+98,Databricks,advanced
+98,SQL,advanced
+98,Spark,regular
+98,Python,regular
+98,AWS,nice to have
+98,Snowflake,nice to have
+99,English,B2
+99,REST API,advanced
+99,SQL,advanced
+99,Snowflake,regular
+99,JavaScript,regular
+99,Python,regular
+100,Flink,regular
+100,Java,regular
+100,Python,regular
+100,Dremio,regular
+100,Apache Spark,regular
+100,DataMesh,nice to have
+101,English,B2
+101,Relational Databases,junior
+101,RDBMS,junior
+101,SQL,junior
+101,Python,junior
+102,English,B2
+102,CI/CD,advanced
+102,SQL and NoSQL databases,advanced
+102,Python,advanced
+102,Data Engineering,advanced
+102,DevOps,regular
+102,Google Cloud,regular
+102,Data Warehouse,regular
+102,Tech Lead,regular
+103,English,C1
+103,NumPy,advanced
+103,Pandas,advanced
+103,Python,advanced
+103,Data Science,advanced
+104,English,C1
+104,DBT,advanced
+104,Data Vault,advanced
+104,Snowflake,advanced
+104,SQL,advanced
+104,Python,advanced
+104,AWS,regular
+104,Matillion,nice to have
+105,Cloud,advanced
+105,SaaS,advanced
+105,IaaS,advanced
+105,PaaS,advanced
+106,English,B2
+106,Databricks,advanced
+106,Data Lake,regular
+106,Azure Synapse,regular
+106,Snowflake,nice to have
+107,English,C1
+107,Python,regular
+107,SQL,regular
+107,Apache Spark,regular
+107,Apache Hadoop,regular
+107,ETL,regular
+107,Cloud,regular
+107,AWS,nice to have
+107,PowerBi,nice to have
+107,Tableau,nice to have
+108,Polish,C2
+108,SQL,advanced
+108,Airflow,regular
+108,ETL,regular
+108,Spark,regular
+108,Hadoop,regular
+108,Apache Airflow,regular
+108,Python,regular
+108,Apache Spark,regular
+108,Docker,nice to have
+108,Kubernetes,nice to have
+109,Azure,advanced
+109,Data Lakehouse,regular
+109,Synapse,regular
+109,Databricks,regular
+109,Delta Lake,regular
+109,SQL,regular
+109,Apache Spark,regular
+109,Microsoft Fabric,junior
+110,English,B2
+110,Cloud,advanced
+110,Python,regular
+110,SQL,regular
+110,ETL,regular
+110,Airflow,regular
+110,BigQuery,regular
+110,Google Cloud,regular
+110,GCP,regular
+111,Polish,C1
+111,English,B2
+111,Airflow,regular
+111,Docker,regular
+111,Databases,regular
+111,Flask,regular
+111,SQL,regular
+111,Python,regular
+112,Hadoop,advanced
+112,Cloudera,advanced
+112,AWS,advanced
+112,Azure,advanced
+112,GCP,advanced
+112,Python,advanced
+112,PySpark,advanced
+112,SQL,advanced
+113,Polish,C2
+113,Oracle DB,master
+113,PL/SQL,master
+113,XML,advanced
+113,JSON,advanced
+113,Scrum,advanced
+113,Jira,advanced
+113,Python,nice to have
+114,Polish,C2
+114,analiza ruchu marketingowego,advanced
+114,Google Analytics 4,regular
+114,Power BI,regular
+114,Google Tag Manager,regular
+114,SQL,regular
+115,English,B2
+115,Google Cloud Platform,advanced
+115,ETL,advanced
+115,Data Warehousing,advanced
+115,GCP,advanced
+115,BigQuery,advanced
+115,SQL,advanced
+115,Python,advanced
+115,Apache,nice to have
+115,IntelliJ,nice to have
+115,Gradle,nice to have
+116,English,C1
+116,Data modeling,master
+116,Data,advanced
+116,Team Leadership,advanced
+117,English,B2
+117,SQL,regular
+117,Python,regular
+117,Palantir Foundry,regular
+117,Palantir,regular
+117,Data modeling,regular
+117,AWS,regular
+117,Google Cloud Platform,regular
+117,Azure,regular
+117,CI/CD,nice to have
+117,Git,nice to have
+118,Machine Learning,advanced
+118,Azure,advanced
+118,Databricks,advanced
+119,English,B2
+119,AWS,regular
+119,DBT,regular
+119,Snowflake,regular
+119,SQL,regular
+119,Python,regular
+120,DWH,advanced
+120,Microsoft Azure Cloud,advanced
+120,SQL,advanced
+120,Python,advanced
+120,Big Data,advanced
+121,English,B2
+121,Snowflake,master
+121,ETL tools,advanced
+121,SQL,advanced
+121,Python,advanced
+121,ETL,advanced
+121,AWS,regular
+121,Azure,regular
+122,English,B2
+122,SQL,regular
+122,Microsoft SSIS,regular
+122,Google Data Flow,regular
+122,Cloud Composer,regular
+122,Airflow,regular
+122,Power BI,nice to have
+122,Data Studio,nice to have
+122,Looker,nice to have
+123,English,B2
+123,Snowflake,regular
+123,Data Vault,regular
+123,AWS,regular
+123,SQL,regular
+123,NoSQL,regular
+124,Tableau,advanced
+124,Tibco,regular
+124,SQL,regular
+124,ETL,regular
+124,DWH,regular
+124,SAP BusinessObjects,regular
+125,Analytical Thinking,advanced
+125,Analytics,advanced
+125,Python,regular
+125,R,regular
+125,SQL,regular
+126,English,B2
+126,SQL,advanced
+126,Python,advanced
+126,AWS,regular
+126,Airflow,regular
+126,BI Tools (Sigma/Tableau),regular
+127,Python,advanced
+127,Microsoft SQL,advanced
+127,Power BI,advanced
+128,Snowflake,advanced
+128,AWS,advanced
+129,Tableau,advanced
+129,Analytics,advanced
+129,Data,regular
+130,Polish,C1
+130,Python,regular
+130,NumPy,junior
+130,Machine Learning,junior
+130,Pandas,junior
+130,Apache Hadoop,nice to have
+130,Apache Spark,nice to have
+131,Python,regular
+131,Azure,regular
+131,Databricks,regular
+131,SQL,regular
+132,Polish,C2
+132,TM1,regular
+132,Tagetik,regular
+132,IBM Cognos Controller,regular
+132,CDM,regular
+133,English,B2
+133,Tableau,regular
+133,Tableau Server,regular
+133,QlikSense,nice to have
+134,Scala,regular
+134,Spark,regular
+134,Hadoop,regular
+134,Hive,regular
+134,Oozie,regular
+134,Kafka,regular
+134,Docker,regular
+134,Kubernetes,regular
+135,AWS,advanced
+135,CI/CD,advanced
+135,Spark,advanced
+135,Python,advanced
+135,Git,regular
+135,Databricks,regular
+135,SQL,regular
+136,Polish,B2
+136,English,B2
+136,Power BI,regular
+136,Tableau,regular
+136,SQL,regular
+136,MsSQL,regular
+136,ETL,regular
+137,English,C1
+137,Big Data,advanced
+137,Databricks,advanced
+137,Python,advanced
+137,SQL,advanced
+137,Azure DevOps,advanced
+137,Azure Services,advanced
+137,Microsoft Azure,advanced
+138,English,B1
+138,Polish,B1
+138,MySQL,advanced
+138,PostgreSQL,advanced
+138,AWS Aurora,advanced
+138,SQL Serve,advanced
+138,NoSQL,advanced
+138,DynamoDB,advanced
+138,Redis,advanced
+138,reliability,advanced
+138,Cloud Database Management,advanced
+138,MongoDB,regular
+139,Data Warehousing,master
+139,Azure,master
+139,Databricks,master
+139,SQL,master
+140,GCP,advanced
+140,Python,advanced
+141,Python,advanced
+141,Data Warehouse,advanced
+141,ETL,advanced
+141,Snowflake,nice to have
+142,English,B2
+142,T-SQL,advanced
+142,Performance,advanced
+142,MS SQL,advanced
+142,OLTP,advanced
+143,English,C1
+143,Python,advanced
+143,SQL,advanced
+143,PySpark,advanced
+143,DBT,regular
+144,Polish,C2
+144,English,B2
+144,Django,advanced
+144,Snowflake,advanced
+144,SQL,advanced
+144,Python,advanced
+144,AWS,nice to have
+144,RDS SQL Database,nice to have
+144,TypeScript,nice to have
+144,Flyway,nice to have
+144,React,nice to have
+144,dash,nice to have
+145,English,B2
+145,Azure,advanced
+145,Synapse Analytics,advanced
+145,Databricks,advanced
+145,SQL,advanced
+145,Python,advanced
+145,Microsoft Fabric,nice to have
+146,Risk Management,master
+146,Patch Management Control,regular
+146,Agile,regular
+146,Kanban,regular
+146,Qlik,regular
+146,Power BI,regular
+147,Python,advanced
+147,SQL Server,advanced
+147,T-SQL,regular
+147,ETL,regular
+147,Git,regular
+147,Snowflake,regular
+147,Azure,regular
+147,Kafka,nice to have
+147,Kubernetes,nice to have
+147,DevOps,nice to have
+148,Polish,C2
+148,English,B1
+148,Git,regular
+148,Airflow,regular
+148,CI/CD,regular
+148,ETL,regular
+148,Spark,regular
+148,Hadoop,regular
+148,SQL,regular
+148,Python,regular
+148,Big Data,regular
+149,SQL,advanced
+149,Big Data,advanced
+149,Cloud,regular
+149,BigQuery,regular
+149,Snowflake,regular
+149,Python,regular
+149,Looker,junior
+149,Tableau,junior
+149,Power BI,junior
+149,Spark,junior
+150,Polish,C1
+150,Airflow,regular
+150,PySpark,regular
+150,mllib,regular
+150,MLflow,regular
+150,Python,regular
+150,Apache Spark,regular
+151,English,C1
+151,Computer Vision,advanced
+151,PyTorch,advanced
+151,Medical image analysis,advanced
+151,GenAI,regular
+151,CNNs,regular
+151,X-ray,regular
+151,transformers,regular
+151,MRI,regular
+152,English,advanced
+152,Python,advanced
+152,Data Science,advanced
+152,Cloud,regular
+152,Big Data,regular
+152,AI,nice to have
+153,English,B2
+153,Data Vault,advanced
+153,Architecture,advanced
+153,Snowflake,advanced
+153,DBT,regular
+153,AWS,regular
+154,Kafka,advanced
+154,Flink,advanced
+154,Data,advanced
+154,Java,regular
+154,Scala,regular
+154,Python,regular
+154,CI/CD,nice to have
+155,English,B2
+155,SQL,advanced
+155,Python,advanced
+155,ETL,advanced
+155,BigQuery,advanced
+155,GCP,advanced
+155,Google Cloud Platform,advanced
+155,Data Warehousing,advanced
+155,Apache,nice to have
+155,Gradle,nice to have
+155,IntelliJ,nice to have
+156,English,B2
+156,MS Excel,advanced
+157,English,B2
+157,Apache Spark,advanced
+157,Azure Data Factory,advanced
+157,Azure Data Storage,advanced
+157,Azure DevOps,advanced
+157,Data,advanced
+158,Polish,C2
+158,English,B1
+158,SQL,advanced
+158,Python,regular
+158,Big Data,regular
+158,Data Quality,regular
+158,PySpark,regular
+158,ETL,regular
+159,English,B2
+159,Python,regular
+159,Azure,regular
+159,Databricks,regular
+159,Apache Spark,regular
+159,Snowflake,junior
+160,Polish,C1
+160,English,C1
+160,Bash,regular
+160,ETL/ELT,regular
+160,Azure Data Factory,regular
+160,Databricks,regular
+160,SQL,regular
+160,Python,regular
+161,English,C1
+161,Data Scientist,regular
+161,Cybersecurity,regular
+161,SQL,regular
+161,Python,regular
+162,English,C1
+162,Polish,C1
+162,Looker,regular
+162,FinTech,regular
+162,Snowflake,regular
+162,SQL,regular
+162,Python,regular
+162,Treasury,junior
+162,n8n,nice to have
+162,UiPath,nice to have
+162,Payments,nice to have
+162,SAP S/4HANA,nice to have
+163,Power BI,regular
+163,SQL,regular
+163,ETL tools,regular
+163,DAX,nice to have
+163,Power Query,nice to have
+164,ETL tools,master
+164,CRM,advanced
+164,DBT,advanced
+164,Snowflake,advanced
+164,AWS,regular
+164,Azure,regular
+164,SQL,regular
+164,Salesforce,junior
+164,NetSuite,nice to have
+165,English,B2
+165,Polish,C2
+165,SQL,master
+165,Big Data,master
+165,Data Warehousing,master
+165,BigQuery,advanced
+165,PostgreSQL,advanced
+165,Airflow,regular
+165,DBT,regular
+165,Machine Learning,regular
+165,Snowflake,regular
+166,Databases,master
+167,English,C1
+167,Power BI,advanced
+167,SQL,advanced
+167,Snowflake,nice to have
+167,Python,nice to have
+168,GitHub,master
+168,Databricks,master
+168,Azure Data Lake Gen2,master
+168,Snowflake,regular
+169,SQL,advanced
+169,Business Analysis,advanced
+169,Data analysis,advanced
+169,Python,nice to have
+169,SAS,nice to have
+170,English,B2
+170,PySpark,advanced
+170,Azure,advanced
+170,Databricks,advanced
+170,SQL,advanced
+170,Python,advanced
+171,C++,advanced
+171,Git,regular
+171,Python,regular
+171,Docker,junior
+171,SQL,junior
+171,AWS,nice to have
+172,Airflow,advanced
+172,GCP,advanced
+172,Python,advanced
+172,DBT,regular
+172,SQL,regular
+173,ETL,advanced
+173,Azure,advanced
+173,Databricks,advanced
+174,Snowflake,regular
+174,SQL,regular
+174,Collibra,nice to have
+174,Atlan,nice to have
+174,Matillion,nice to have
+175,Polish,B2
+175,English,B2
+175,SQL,regular
+175,Python,regular
+175,Data Science,regular
+176,English,B2
+176,Big Data,advanced
+176,SQL,advanced
+176,English,advanced
+176,BigQuery,regular
+176,Glue,regular
+176,Python,regular
+176,Analytics,junior
+176,Athena,junior
+176,Airflow,junior
+177,English,B2
+177,SQL,advanced
+177,Power BI,regular
+177,Tableau,regular
+177,Python,junior
+178,English,B2
+178,dbt core,regular
+178,dbt Cloud,regular
+178,SQL,regular
+178,Airflow,regular
+178,DevOps,junior
+178,CI/CD,junior
+178,Snowflake,nice to have
+178,BigQuery,nice to have
+178,Databricks,nice to have
+178,Redshift,nice to have
+179,Data,advanced
+179,Python,advanced
+179,Snowflake,advanced
+179,AWS,advanced
+180,Data,advanced
+180,SQL,advanced
+180,Analytical Thinking,advanced
+180,Power BI,advanced
+180,DAX,advanced
+181,English,B2
+181,Data Science,regular
+181,Data,regular
+181,LLM,regular
+181,AI,regular
+181,Machine Learning,regular
+181,Python,regular
+181,SQL,regular
+181,Git,regular
+182,English,C1
+182,AWS,advanced
+182,Bash,advanced
+182,Python,advanced
+182,IaC,advanced
+182,CI/CD,advanced
+183,Python,advanced
+183,Databricks,advanced
+183,Azure,regular
+183,Spark,regular
+183,SQL,regular
+183,CI/CD,junior
+183,Docker,junior
+183,Stream Analytic,nice to have
+184,Hadoop,advanced
+184,Hive,advanced
+184,Scala,advanced
+184,Apache Spark,advanced
+184,Apache,regular
+184,Dataflow,regular
+184,BigQuery,regular
+184,HDFS,regular
+184,SQL,regular
+184,Dataproc,regular
+185,data centre,junior
+185,Linux,junior
+186,English,C1
+186,Polish,C1
+186,SQL,junior
+186,Big Data,junior
+186,Data,junior
+187,English,B2
+187,Data analysis,advanced
+187,Python,regular
+187,R,regular
+187,SQL,regular
+187,Jupyter Notebook,regular
+187,Data modeling,regular
+187,PowerBi,regular
+187,scikit-learn,junior
+187,PyTorch,junior
+188,English,C1
+188,Large Language Models,advanced
+188,Azure,advanced
+188,Python,advanced
+188,Generative AI,advanced
+189,SQL,advanced
+189,Data Visualization,advanced
+189,Tableau,advanced
+189,Analytical Thinking,advanced
+189,A/B testing,regular
+189,Python,nice to have
+190,English,B2
+190,ETL,advanced
+190,Spark,advanced
+190,JSON,advanced
+190,Azure,advanced
+190,Databricks,advanced
+190,SQL,advanced
+190,Python,advanced
+190,Scala,advanced
+190,Big Data,advanced
+190,NoSQL,advanced
+191,Cloud,regular
+191,Kotlin,regular
+191,Databases,regular
+191,Java,regular
+191,Scala,regular
+191,Big Data,regular
+192,MySQL,regular
+192,MongoDB,regular
+192,Java,regular
+192,SQL,regular
+192,Oracle,regular
+192,Python,regular
+192,NoSQL,regular
+193,English,B2
+193,AWS,advanced
+193,Terraform,advanced
+193,SQL,advanced
+193,DBT,regular
+193,Python,regular
+193,Airflow,junior
+193,CI/CD,junior
+194,C#,advanced
+194,Go,advanced
+194,Python,advanced
+194,Apache Spark,regular
+195,Microsoft Azure Cloud,advanced
+195,Data modeling,advanced
+195,Databricks,advanced
+195,Microsoft SQL,advanced
+195,DWH,advanced
+196,AWS,advanced
+196,Docker,advanced
+196,SQL,advanced
+196,Python,advanced
+196,Big Data,advanced
+196,Apache Spark,advanced
+196,Airflow,regular
+196,Kubernetes,regular
+196,Iceberg,nice to have
+196,Java,nice to have
+197,Dutch,C1
+197,Azure DevOps,advanced
+197,Microsoft Fabric,advanced
+197,CI/CD,advanced
+197,Data modeling,advanced
+197,Data Marts,advanced
+197,Identity Access Management,advanced
+197,Data models,advanced
+198,Polish,C1
+198,English,C1
+198,AWS,advanced
+198,Python,advanced
+198,RabbitMQ,regular
+198,InfluxDB,regular
+198,Golang,nice to have
+198,Rust,nice to have
+199,Polish,C1
+199,English,C1
+199,Fluent English,master
+199,Implementation specialist,advanced
+199,Relational Databases,advanced
+199,SQL,advanced
+200,R,regular
+200,Git,regular
+200,Python,regular
+200,Data Science,regular
+200,SQL,nice to have
+200,CI/CD,nice to have
+201,English,B1
+201,SQL,regular
+201,R,regular
+201,Python,regular
+201,Data Science,regular
+201,Machine Learning,regular
+202,Polish,C1
+202,English,C1
+202,Hadoop,master
+202,Hive,master
+202,HDFS,master
+202,Apache Spark,master
+202,Scala,regular
+202,Google Cloud Platform,regular
+202,SQL,regular
+202,CI/CD,regular
+202,Big Query,nice to have
+202,Cloud Dataflow,nice to have
+203,English,C1
+203,Azure,advanced
+203,Databricks,advanced
+203,Azure Services,advanced
+204,English,C1
+204,SQL,advanced
+204,Python,advanced
+204,PySpark,advanced
+204,Python GenAI,advanced
+204,ML OPS,advanced
+204,Azure,regular
+204,Databricks,regular
+204,ETL,regular
+204,JavaScript,regular
+204,.Net,regular
+205,Airflow,advanced
+205,Databricks,advanced
+205,GCP,advanced
+206,Azure,advanced
+206,ETL,regular
+206,Power BI,regular
+206,Databricks,regular
+206,Microsoft Fabric,regular
+206,Power Platform,regular
+207,English,B2
+207,Data,advanced
+207,English,advanced
+207,Bash,nice to have
+207,Drawing Diagrams,nice to have
+208,English,B2
+208,Data Science,advanced
+208,AI,regular
+209,Polish,B2
+209,English,C1
+209,ETL tools,regular
+209,PySpark,regular
+209,Hadoop,regular
+209,SQL,regular
+209,Python,regular
+209,Big Data,regular
+209,NoSQL,regular
+209,Flink,junior
+210,English,B2
+210,Machine Learning,regular
+210,Data analysis,regular
+210,Python,regular
+210,SQL,regular
+210,Data Visualization,regular
+211,R,regular
+211,REST API,regular
+211,BigQuery,regular
+211,Java,regular
+211,SQL,regular
+211,JavaScript,regular
+211,Python,regular
+211,Scala,regular
+212,English,B2
+212,AWS,regular
+212,Google Cloud Platform,regular
+212,Palantir,regular
+212,Palantir Foundry,regular
+212,Azure,regular
+212,Data modeling,regular
+212,SQL,regular
+212,Python,regular
+212,Git,nice to have
+212,CI/CD,nice to have
+213,English,B1
+213,Machine Learning,advanced
+213,SQL,advanced
+213,Python,advanced
+214,English,B2
+214,AWS,master
+214,erlang,master
+214,OPT,master
+214,Apache Kafka,advanced
+214,PostgreSQL,advanced
+214,Elixir,regular
+214,Python,regular
+215,English,C1
+215,Oracle,advanced
+215,Python,advanced
+215,C#,advanced
+215,Kubernetes,advanced
+215,CI/CD,advanced
+216,English,B2
+216,Java,advanced
+216,Python,advanced
+216,Scala,advanced
+216,PySpark,advanced
+216,Hive,advanced
+217,Polish,B2
+217,English,B2
+217,Power BI,advanced
+217,SQL,advanced
+217,DAX,advanced
+217,Snowflake,nice to have
+217,Dynamics 365,nice to have
+218,English,C1
+218,IT system maintenance,advanced
+218,Jira,advanced
+218,Azure DevOps,advanced
+218,SQL,regular
+218,PySpark,regular
+218,API,regular
+219,English,C1
+219,Informatica,master
+220,Polish,C1
+220,English,B2
+220,Looker,advanced
+220,Google Cloud Platform,advanced
+220,LookML,advanced
+220,Airflow,regular
+220,DBT,regular
+220,dataform,regular
+220,Azure,regular
+220,DAX,regular
+220,SQL,regular
+220,SSAS,regular
+221,English,C1
+221,Software Development,advanced
+221,Python,advanced
+221,Big Data,advanced
+221,PySpark,regular
+221,Azure,regular
+221,Amazon AWS,regular
+222,Software Development,master
+222,PostgreSQL,advanced
+222,CI/CD,advanced
+222,ETL,advanced
+222,DDD,advanced
+222,API,advanced
+222,Oracle,advanced
+222,Python,advanced
+223,English,B2
+223,QlikSense,regular
+223,Qlik Server,regular
+224,English,B2
+224,Databricks,advanced
+224,Python,advanced
+224,Apache Spark,advanced
+224,SQL,advanced
+224,Azure,regular
+224,AWS,regular
+225,Polish,C2
+225,English,B2
+225,Azure Data Factory,advanced
+225,Azure,advanced
+226,English,B2
+226,PySpark,advanced
+226,Azure,advanced
+226,Databricks,advanced
+226,SQL,advanced
+226,Python,advanced
+227,Machine Learning,advanced
+227,Team Management,advanced
+227,Project Management,advanced
+227,Python,advanced
+227,Generative AI,advanced
+227,Data Science,advanced
+227,Big Data,advanced
+228,SQL Server,regular
+228,Databases,regular
+228,MySQL,regular
+228,Oracle,regular
+228,AWS,nice to have
+228,Google Cloud Platform,nice to have
+228,Azure,nice to have
+229,English,B2
+229,Google Cloud Platform,advanced
+229,ETL,advanced
+229,Data Warehousing,advanced
+229,GCP,advanced
+229,BigQuery,advanced
+229,SQL,advanced
+229,Python,advanced
+229,Apache,nice to have
+229,IntelliJ,nice to have
+229,Gradle,nice to have
+230,Polish,B2
+230,PostgreSQL,regular
+230,Power BI,regular
+230,SQL Server,regular
+230,Oracle,regular
+230,Tableau,nice to have
+230,SSRS,nice to have
+231,Microsoft Azure,advanced
+231,DWH,advanced
+231,datya modelinig,advanced
+231,Data Engineering,advanced
+232,English,B2
+232,Business Intelligence,advanced
+232,Project Management,advanced
+232,Microsoft,advanced
+232,Azure,advanced
+232,Power BI,advanced
+233,Spark,advanced
+233,Hadoop,advanced
+233,SQL,advanced
+233,Python,advanced
+234,English,B2
+234,Azure,advanced
+234,Snowflake,regular
+234,Databricks,regular
+234,Python,regular
+235,English,B2
+235,BI,master
+235,Business Intelligence,master
+235,SQL,regular
+235,Microsoft Power BI,regular
+235,DevOps,regular
+235,Databrics,nice to have
+235,ITIL,nice to have
+236,Data,advanced
+236,Data modeling,advanced
+236,data governance,advanced
+236,AI,advanced
+236,Machine Learning,advanced
+237,AWS,advanced
+237,PySpark,advanced
+237,Python,advanced
+237,Apache Spark,regular
+237,GitLab,regular
+237,CI/CD,regular
+237,Terraform,regular
+238,English,B2
+238,Spark,advanced
+238,Hive,regular
+238,HDFS,regular
+238,Python,regular
+238,Scala,regular
+238,Kafka,nice to have
+239,Software Development,advanced
+239,Big Data,advanced
+239,Databricks,advanced
+239,SQL,advanced
+239,Python,advanced
+239,Spark,advanced
+239,Azure,advanced
+239,Data Warehousing,advanced
+239,PySpark,advanced
+240,English,C1
+240,PySpark,advanced
+240,Databricks,advanced
+240,SQL,advanced
+240,Power BI,regular
+240,Azure,regular
+240,Python,regular
+241,Polish,B2
+241,Datawarehouse,regular
+241,SQL,regular
+241,ETL,regular
+241,Microsoft Azure,nice to have
+241,Databricks,nice to have
+241,Scrum,nice to have
+242,English,C1
+242,Amazon AWS,advanced
+242,Airflow,regular
+242,PowerBi,regular
+242,Python,regular
+243,SAP HANA,advanced
+243,Data,nice to have
+244,Backend,advanced
+244,Big Data,advanced
+244,AWS,regular
+244,Git,regular
+244,SQL,regular
+245,Data Science,advanced
+245,SQL,advanced
+245,Python,advanced
+245,Analytical Thinking,advanced
+246,English,B2
+246,MS Excel,advanced
+246,Microsoft Office,advanced
+247,Data Science,master
+247,Generative AI,master
+247,Python,master
+247,NLP,advanced
+247,NumPy,advanced
+247,Pandas,advanced
+247,Git,advanced
+247,PyTorch,regular
+248,English,B2
+248,Python,master
+248,Data Science,advanced
+248,AI,regular
+249,Python,regular
+249,SQL,regular
+249,Snowflake,regular
+249,PostgreSQL,regular
+249,Elasticsearch,regular
+249,Apache Spark,regular
+249,Azure Databricks,regular
+249,Airflow,regular
+250,DevOps,regular
+250,Google Cloud Platform,regular
+250,CI/CD,regular
+250,Cloud Storage,regular
+250,BigQuery,regular
+250,Java,regular
+250,Dataproc,regular
+250,Kubernetes Engine,regular
+251,Polish,B2
+251,English,B2
+251,C++,advanced
+251,Java,advanced
+252,English,B2
+252,Apache Spark,regular
+252,PySpark,regular
+252,Azure,regular
+252,Databricks,regular
+252,Delta Lake,regular
+252,Python,regular
+252,SQL,regular
+253,English,advanced
+253,SQL,advanced
+253,Python,advanced
+254,Cloudera,advanced
+254,Big Data,advanced
+254,Linux,advanced
+254,Hadoop,regular
+254,Jenkins,regular
+254,Ansible,regular
+254,s3,nice to have
+255,Data analysis,advanced
+255,R,advanced
+255,Python,advanced
+255,SQL,advanced
+255,Business Intelligence,advanced
+256,Python,master
+256,PySpark,advanced
+256,NumPy,advanced
+256,Azure,advanced
+256,Pandas,advanced
+257,Python,regular
+257,R,regular
+257,SQL,regular
+257,Machine Learning,junior
+257,BigQuery,junior
+258,English,B2
+258,Kafka,regular
+258,Python,regular
+258,Databricks,regular
+258,Azure Functions,regular
+259,English,B2
+259,Airflow,master
+259,DBT,master
+259,GCP,master
+259,BigQuery,master
+259,Python 3.x,advanced
+260,English,C1
+260,SQL,master
+260,DBT,regular
+260,ETL,regular
+260,Azure,junior
+261,English,B2
+261,AWS,regular
+261,Azure,regular
+261,GCP,regular
+261,Docker,regular
+261,SQL,regular
+261,NoSQL,regular
+261,CI/CD,regular
+261,Kubernetes,regular
+261,Snowflake,regular
+262,English,C1
+262,monitor vessel activity,regular
+262,verify data quality,regular
+262,review technical documentation,regular
+263,English,B2
+263,AWS,advanced
+263,ETL,advanced
+263,English,advanced
+263,Communication,advanced
+263,SQL,advanced
+263,Python,advanced
+263,AI,regular
+263,GCP,regular
+264,English,C1
+264,AWS,advanced
+264,Spark,advanced
+264,SQL,advanced
+264,Python,advanced
+264,Data Integration,advanced
+264,Hadoop,regular
+264,Iceberg,nice to have
+264,Hive,nice to have
+265,English,C1
+265,Data modeling,master
+265,Python,advanced
+265,Databricks,advanced
+265,Azure,advanced
+265,rag,advanced
+266,Polish,B2
+266,English,C1
+266,Full-stack BI Development,regular
+266,Power BI,regular
+266,Matillion,regular
+266,Managed Services,regular
+266,Snowflake,regular
+266,Agile,regular
+266,Business Analysis,junior
+266,Oracle,nice to have
+266,SSIS,nice to have
+267,English,C1
+267,ETL,advanced
+267,Python,regular
+267,SQL,regular
+267,Airflow,regular
+267,OLAP,regular
+268,English,B2
+268,AWS,advanced
+268,Databricks,advanced
+268,Python,advanced
+268,Apache Spark,advanced
+268,Machine Learning,regular
+268,AI,regular
+268,Azure,nice to have
+269,Microsoft SQL,advanced
+269,AWS,nice to have
+269,Windows AD,nice to have
+269,Azure,nice to have
+269,DBplus,nice to have
+269,redgate,nice to have
+270,Machine Learning,advanced
+270,English,advanced
+270,SQL,advanced
+270,Python,advanced
+270,Probability and Statistics,advanced
+270,C++,nice to have
+270,JavaScript,nice to have
+270,Scala,nice to have
+271,Snowflake,advanced
+271,Oracle,advanced
+271,SQL,advanced
+271,UX/UI,advanced
+271,Storytelling,advanced
+271,IBCS,advanced
+271,DAX,advanced
+271,Power BI,advanced
+272,Databricks,master
+272,English,advanced
+272,PySpark,regular
+272,Polish,regular
+273,SQL,master
+273,Power BI,master
+273,Google Data Studio,advanced
+273,English,regular
+273,Python,nice to have
+274,English,B2
+274,SQL Server,regular
+274,Powershell,regular
+274,SQL,regular
+275,ETL,advanced
+275,Data,advanced
+275,Big Query,advanced
+275,GCP,advanced
+275,SQL,advanced
+275,Airflow,regular
+275,Cloud,regular
+276,MySQL,master
+276,Ansible,advanced
+276,PMM,regular
+276,Linux server systems,regular
+276,Prometheus,regular
+277,English,B1
+277,Polish,C2
+277,PL/SQL,regular
+277,SQL,regular
+277,Microsoft Office Excel,regular
+277,Controlling,regular
+277,VBA,nice to have
+277,Bankowość,nice to have
+277,rachunkowość,nice to have
+277,Microsoft Power BI,nice to have
+277,leasing,nice to have
+278,DWH,regular
+278,Oracle,regular
+278,SAS,regular
+278,Azure,junior
+279,English,C1
+279,AWS,regular
+279,Data modeling,regular
+279,ETL,regular
+279,ELT,regular
+279,Data Warehousing,regular
+279,Terraform,regular
+279,CloudFormation,regular
+279,SQL,regular
+279,Python,regular
+279,Snowflake,nice to have
+280,English,B2
+280,Microsoft SQL,regular
+280,REST,regular
+280,T-SQL,junior
+280,Neo4j,junior
+280,VPN,junior
+280,FTP,junior
+280,SFTP,junior
+280,Java,nice to have
+280,Power BI,nice to have
+281,English,B2
+281,PL/SQL,advanced
+281,T-SQL,advanced
+282,Polish,B2
+282,English,C1
+282,ETL,advanced
+282,BI/DWH,advanced
+282,SQL,advanced
+282,T-SQL,regular
+282,Teradata,regular
+282,MySQL,regular
+282,MS SQL,regular
+282,Oracle,regular
+282,Big Data,regular
+282,AWS/Azure/GCP/SnowFlake,nice to have
+283,Oracle APEX,regular
+283,JavaScript,regular
+283,JQuexy,regular
+283,Apache Airflow,regular
+283,Oracle,regular
+284,Azure,advanced
+284,Databricks,advanced
+284,SQL,advanced
+284,Python,advanced
+284,Big Data,advanced
+284,Airflow,regular
+284,DBT,nice to have
+284,Power BI,nice to have
+284,Dagster,nice to have
+284,Apache Spark,nice to have
+285,Bash,regular
+285,Databases,regular
+285,PL/SQL,regular
+285,Oracle DB,regular
+285,SQL,regular
+285,Oracle,regular
+285,Linux OS,regular
+285,Virtualization,nice to have
+285,Python,nice to have
+286,data vault 2.0,advanced
+286,Snowflake,advanced
+286,DBT,advanced
+286,AWS,advanced
+287,English,B2
+287,PySpark,advanced
+287,Azure,advanced
+287,Databricks,advanced
+287,Python,advanced
+287,Snowflake,nice to have
+288,English,B2
+288,Data,advanced
+288,AI,advanced
+288,Python,advanced
+288,AWS,advanced
+288,Big Data,advanced
+288,Apache Kafka,advanced
+288,Terraform,advanced
+289,Polish,C2
+289,Informatica Powercenter,master
+289,PostgreSQL,advanced
+289,GCP,advanced
+289,Oracle,advanced
+290,T-SQL,advanced
+290,Power BI,advanced
+290,MS SQL,advanced
+291,English,B2
+291,Python,advanced
+291,Azure,regular
+291,Optimization methodologies,regular
+291,SQL,junior
+292,AWS,advanced
+292,DevOps,advanced
+292,CI/CD,advanced
+292,PySpark,regular
+292,Hadoop,regular
+292,Python,regular
+292,Big Data,regular
+293,SQL,regular
+293,T-SQL,regular
+293,PostgreSQL,regular
+293,Data modeling,regular
+293,ERD,regular
+293,Git,regular
+293,Microsoft Azure,regular
+293,Power BI,regular
+293,Oracle,nice to have
+293,Python,nice to have
+294,Polish,C2
+294,English,C1
+294,Machine Learning,advanced
+294,Python,advanced
+294,Azure,regular
+295,English,C1
+295,SAP,nice to have
+295,SAP CDC,nice to have
+296,Polish,C2
+296,English,B2
+296,Data,advanced
+296,Team Leadership,regular
+296,Python,regular
+296,Dagster,regular
+296,Airflow,regular
+296,SQL,regular
+296,Lake,regular
+296,LakeHouse,regular
+296,PySpark,nice to have
+296,Databricks,nice to have
+297,Cybersecurity,regular
+297,engineering,regular
+297,product owner,regular
+297,Data protection,regular
+297,Risk Management,regular
+298,English,C1
+298,Snowflake,advanced
+298,DBT,advanced
+298,Data Engineering,advanced
+298,Data modeling,advanced
+299,English,C1
+299,Data Warehousing,advanced
+299,Communication,advanced
+299,Data Science,advanced
+300,ML/AI,advanced
+300,Langchain,advanced
+300,English,advanced
+300,Python,advanced
+300,NumPy,regular
+300,Pandas,regular
+300,AI architectures,regular
+300,SQL,regular
+301,English,C1
+301,Python,regular
+301,Azure,regular
+301,Databricks,regular
+301,SQL,junior
+301,Java,nice to have
+301,C#,nice to have
+301,Terraform,nice to have
+301,Ansible,nice to have
+301,Kafka,nice to have
+301,Spark,nice to have
+302,Bazy Danych,regular
+302,AI,regular
+302,Make,regular
+302,Clickup,regular
+302,Buble,regular
+302,Automatyzacja procesów biznesowych,regular
+303,Airflow,advanced
+303,GCP,advanced
+303,Data,advanced
+303,SQL,regular
+303,NoSQL,regular
+304,English,B2
+304,Graph databases,advanced
+304,MongoDB,advanced
+304,JSON,advanced
+304,Amazon Neptune,regular
+304,Cypher,nice to have
+304,Gremlin,nice to have
+304,Apache Spark,nice to have
+304,ETL,nice to have
+305,Polish,C1
+305,English,B2
+305,MS SQL Server,advanced
+305,T-SQL,advanced
+305,Microsoft Azure Cloud,advanced
+305,Azure Services,advanced
+305,SQL,advanced
+305,Microsoft Fabric,advanced
+305,PySpark,regular
+305,Databricks,regular
+305,Python,regular
+305,ADF,regular
+306,Polish,C1
+306,Power BI,regular
+306,Microsoft Analysis Services,regular
+306,Oracle,regular
+306,Microsoft SQL,regular
+306,SQL,regular
+306,PLSQL,regular
+306,Transact-SQL,regular
+306,Microsoft SQL Server,regular
+306,ETL,regular
+306,ELT,regular
+307,Databases,advanced
+307,Oracle,advanced
+307,SQL,advanced
+307,MongoDB,advanced
+308,English,C1
+308,Snowflake,advanced
+308,SQL,advanced
+308,ETL,advanced
+308,AWS,regular
+309,PySpark,advanced
+309,Databricks,advanced
+309,Azure,advanced
+310,Polish,C2
+310,English,C1
+310,PySpark,master
+310,Blockchain,master
+310,Azure Databricks,master
+310,Delta Lake,master
+310,Apache Spark,master
+311,SQL,advanced
+311,Big Data,advanced
+311,Spark,advanced
+311,Python,regular
+311,Amazon AWS,regular
+312,English,C1
+312,Power BI,regular
+312,GCP,regular
+312,ETL/ELT processes,regular
+312,SQL,regular
+313,English,C1
+313,Architecture,advanced
+313,Azure Databricks,advanced
+313,Leadership,advanced
+313,Azure Cloud,advanced
+314,English,B2
+314,Darts,master
+314,PyTorch,master
+314,PySpark,master
+314,TensorFlow,master
+314,Prophet,advanced
+314,Linear Regression,advanced
+314,MLOps,advanced
+314,XGBoost,regular
+314,LSTM,regular
+314,Arima,regular
+315,Python,master
+315,Snowflake,master
+316,Python,advanced
+316,Big Data,advanced
+316,Apache Spark,advanced
+316,Airflow,regular
+316,Iceberg,regular
+316,Docker,regular
+316,Kubernetes,regular
+316,SQL,regular
+316,AWS,nice to have
+316,Java,nice to have
+317,English,B2
+317,Microsoft Fabric,regular
+317,Data Factory,regular
+317,REST API,regular
+317,ETL/ELT,regular
+317,SaaS,regular
+317,Python,regular
+317,Azure,regular
+317,IaC,regular
+317,CI/CD,regular
+318,English,B2
+318,PL/SQL,advanced
+318,Oracle,advanced
+318,Azure,regular
+319,English,B2
+319,Power BI,master
+319,DAX,advanced
+319,Data modeling,advanced
+319,SQL,advanced
+319,Microsoft Dynamics CRM,nice to have
+319,Business Central,nice to have
+319,Google Analytics,nice to have
+320,English,C1
+320,Big Data,advanced
+320,Data Science,advanced
+320,Python,advanced
+320,AWS,regular
+320,Azure,regular
+320,Docker,regular
+320,GCP,regular
+320,SQL,regular
+320,CI/CD,regular
+321,English,B2
+321,Oracle CPQ,regular
+321,Revalize CPQ,regular
+321,Tacton CPQ,regular
+321,Infor CPQ,regular
+321,CPQ,regular
+322,English,B2
+322,AI,advanced
+322,Python,advanced
+322,Azure Logic Apps,advanced
+322,Power Automate,advanced
+322,Power Platform,advanced
+322,Microsoft D365,advanced
+322,Microsoft Copilot,advanced
+322,Azure,nice to have
+323,Polish,C1
+323,PLSQL (Oracle),regular
+323,Informatica Power Center,regular
+324,English,B2
+324,SQL,advanced
+324,Data modeling,advanced
+324,Data Warehousing,advanced
+324,Communication,advanced
+324,Team Player,advanced
+324,Python,nice to have
+324,Bash,nice to have
+324,Java,nice to have
+324,CI/CD,nice to have
+325,English,C1
+325,Azure DevOps,master
+325,SQL,master
+325,Azure,advanced
+325,Snowflake,advanced
+325,Python,advanced
+326,Power BI,regular
+326,SQL,regular
+326,Python,regular
+326,ETL,regular
+326,DAX,regular
+327,English,C1
+327,Azure Databricks,advanced
+327,Terraform,advanced
+327,Azure Cloud,advanced
+328,Python,master
+328,Data Science,master
+328,NumPy,advanced
+328,Pandas,advanced
+328,Amazon AWS,regular
+329,English,B1
+329,T-SQL,regular
+329,ActiveX Data Objects,regular
+329,Delphi,regular
+329,Microsoft SQL Server,regular
+330,English,C2
+330,Azure,master
+330,Databricks,master
+330,SQL,master
+330,Python,master
+330,Scala,regular
+331,Python,regular
+331,R,regular
+331,SQL,regular
+331,Databricks,regular
+331,Snowflake,regular
+331,Machine Learning,regular
+332,English,B2
+332,Python,advanced
+332,Apache Spark,advanced
+332,Databricks,advanced
+332,Azure,regular
+332,CI/CD,regular
+332,Data Factory,regular
+332,ETL,regular
+332,AI,nice to have
+333,English,B2
+333,Ukrainian,C1
+333,JSON,regular
+333,XML,regular
+333,Postman,regular
+333,SQL,regular
+333,GitLab,regular
+333,CI/CD,regular
+333,Jira,regular
+333,Confluence,regular
+333,Kibana,regular
+334,English,B2
+334,Snowflake,master
+334,Python,master
+334,ETL,advanced
+334,DORA (DevOps Research and Assessment),nice to have
+335,Data Storytelling & Collaboration,master
+335,AI & Machine Learning,master
+335,Data Analytics & BI Tools,master
+335,Marketing Mix Modelling & Forecasting,master
+336,PM,regular
+336,Helios,regular
+336,Risk Management,regular
+337,English,B2
+337,Database administration,advanced
+337,MS SQL Server,advanced
+337,Powershell,advanced
+338,English,advanced
+338,SQL,advanced
+338,Python,advanced
+339,Linux / Unix,advanced
+339,Spark,advanced
+339,Hadoop,advanced
+339,Big Data,advanced
+340,SQL,regular
+340,Python,regular
+340,Data,regular
+340,Databricks,nice to have
+340,Airflow,nice to have
+341,English,C1
+341,SQL,advanced
+341,Azure Data Factory,advanced
+341,Databricks,advanced
+341,ETL,advanced
+341,Python,regular
+341,Azure DevOps,regular
+342,Azure,master
+342,Databricks,master
+342,Python,master
+343,Microsoft Office,regular
+343,MS Excel,regular
+343,Microsoft Project,junior
+343,Power Query,nice to have
+343,Power BI,nice to have
+344,Polish,C1
+344,English,B2
+344,MS SQL,regular
+344,T-SQL,regular
+344,SQL,regular
+344,.Net,regular
+344,Git,regular
+344,SQL Source Control,regular
+344,SQL Prompt,regular
+345,Polish,C1
+345,English,C1
+345,DWH,advanced
+345,MS Azure,advanced
+345,ETL,advanced
+345,Synapse,advanced
+345,Databricks,advanced
+345,CI/CD,regular
+345,AI,regular
+345,Fabric,junior
+346,Python,advanced
+346,Kubernetes,regular
+346,SQL,regular
+346,Data Lake/Lakehouse,regular
+346,Airflow,regular
+346,PySpark/Pandas,regular
+346,ETL,regular
+346,MLOps,nice to have
+346,DevSecOps,nice to have
+347,English,B2
+347,Data modeling,advanced
+347,ETL,advanced
+347,Microsoft Azure,regular
+347,Azure Databricks,regular
+348,English,C1
+348,DBT,regular
+348,Data Vault,regular
+348,Snowflake,regular
+348,SQL,regular
+348,Python,regular
+348,AWS,junior
+349,English,B2
+349,Adobe Analytics,regular
+349,Google Analytics,regular
+349,Google Cloud Platform,junior
+349,SQL,junior
+349,Python,junior
+350,Polish,B2
+350,English,B2
+350,ETL tools,advanced
+350,Fabric,regular
+350,Azure Data Factory,regular
+350,Docker,regular
+350,Kubernetes,regular
+351,English,B2
+351,Data Warehousing,advanced
+351,Communication,advanced
+351,Data modeling,advanced
+351,Team Player,advanced
+351,SQL,advanced
+351,CI/CD,nice to have
+351,Bash,nice to have
+351,Java,nice to have
+351,Python,nice to have
+352,Excel,regular
+352,DICOM,regular
+352,Mirth,regular
+352,SQL,regular
+353,English,C1
+353,Databricks,advanced
+353,Microsoft Azure,advanced
+353,SQL,advanced
+353,Python,advanced
+353,Big Data,advanced
+353,Azure DevOps,advanced
+353,Apache Spark,regular
+354,DB2,advanced
+354,SQL,advanced
+354,Databases,advanced
+355,English,B2
+355,Italian,C1
+355,Data,advanced
+355,GCP,advanced
+355,SQL,advanced
+355,BigQuery,advanced
+355,Cloudera,regular
+355,Hadoop,regular
+355,Apache Airflow,regular
+355,Git,regular
+355,Programming,junior
+355,CI/CD,nice to have
+356,English,B2
+356,Polish,C2
+356,Power BI,regular
+356,SQL,regular
+356,Python,regular
+357,English,C1
+357,Databricks,advanced
+357,SQL,advanced
+357,Python,advanced
+357,Airflow,regular
+357,Apache Kafka,regular
+357,Cloud,regular
+357,DBT,regular
+357,Databases,regular
+357,Flink,regular
+357,Apache Hadoop,regular
+358,Data,advanced
+358,Team Leadership,advanced
+358,Data Center,regular
+358,Troubleshooting,regular
+359,Polish,C1
+359,English,C1
+359,SQL,advanced
+359,Python,advanced
+359,PyTorch,regular
+359,TensorFlow,regular
+360,English,B2
+360,Qlik,regular
+360,QlikSense,regular
+360,Qlik Server,regular
+361,English,B2
+361,Team Leadership,advanced
+361,Databases,advanced
+362,English,C1
+362,Analytical Thinking,advanced
+362,PostgreSQL,regular
+362,MySQL,regular
+362,Atlassian,regular
+363,Polish,C2
+363,English,B2
+363,ETL,advanced
+363,SQL,advanced
+363,Snowflake,advanced
+363,Cloud,advanced
+363,CI/CD,advanced
+363,Docker,advanced
+363,Kubernetes,advanced
+363,NoSQL,advanced
+364,Polish,C1
+364,English,B2
+364,PySpark,advanced
+364,Azure,advanced
+364,azure data brics,advanced
+364,SQL,advanced
+364,Azure DevOps,advanced
+364,Python,advanced
+365,Polish,C1
+365,Python,regular
+365,Machine Learning,regular
+365,TensorFlow,regular
+365,PyTorch,regular
+365,AI,regular
+365,LLMs,regular
+365,R,nice to have
+365,SQL,nice to have
+365,Java,nice to have
+365,Big Data,nice to have
+366,Snowflake,advanced
+366,Python,regular
+366,Airflow,regular
+366,DBT,regular
+366,Tableau,regular
+367,Data Vault,advanced
+367,Kimball,advanced
+367,Snowflake,advanced
+367,Data Lake,advanced
+367,DWH,advanced
+367,Microsoft Azure,nice to have
+367,AWS,nice to have
+367,Microsoft Power BI,nice to have
+368,SQL Server,regular
+368,Databases,regular
+368,MySQL,regular
+368,Oracle,regular
+368,ETL,nice to have
+369,Power BI,advanced
+369,DAX,advanced
+369,Power Query,advanced
+369,Data modeling,advanced
+369,SQL,advanced
+370,English,C1
+370,Salesforce,advanced
+370,SaaS,advanced
+370,Qualtrics platform,advanced
+370,Salesforce Service Cloud,junior
+370,"XML, HTML, CSS, SOAP/REST",junior
+371,Python,master
+371,Microsoft Azure,advanced
+371,Azure,advanced
+371,Microsoft Azure Cloud,advanced
+371,Databricks,advanced
+371,Azure Services,advanced
+371,Azure DevOps,advanced
+371,Big Data,advanced
+371,MS Azure,regular
+372,English,B2
+372,DBT,advanced
+372,Snowflake,advanced
+372,SQL,advanced
+372,Python,advanced
+372,Java,advanced
+372,C#,advanced
+372,CI/CD,advanced
+372,Git,advanced
+372,Power BI,nice to have
+373,Scala,regular
+373,Apache Spark,regular
+373,Microsoft SQL,regular
+373,Python,regular
+373,Apache Hadoop,regular
+373,Databricks,nice to have
+374,English,B2
+374,QlikSense,advanced
+374,Qlik Server,regular
+375,Python,regular
+375,R,regular
+375,SQL,regular
+376,English,B2
+376,Data Warehousing,advanced
+376,Communication,advanced
+376,Data modeling,advanced
+376,Team Player,advanced
+376,SQL,advanced
+376,CI/CD,nice to have
+376,Bash,nice to have
+376,Java,nice to have
+376,Python,nice to have
+377,Data,advanced
+377,Data storage,advanced
+377,Spark,advanced
+377,Azure,advanced
+377,Databricks,advanced
+377,Data Factory,advanced
+377,Azure DevOps,regular
+378,English,C1
+378,Data Science,advanced
+378,Statistics,regular
+378,Cloud,regular
+378,SQL,regular
+378,adtech,junior
+378,Python,junior
+379,English,B2
+379,Python,junior
+379,RDBMS,junior
+379,DWH,junior
+379,Linux,junior
+379,Docker,junior
+379,Kubernetes,junior
+379,Java,nice to have
+379,Scala,nice to have
+380,Data Scientist,master
+380,Python,advanced
+380,Azure,advanced
+380,Energy,regular
+380,PySpark,regular
+381,Power BI,regular
+381,SQL,regular
+381,ETL,regular
+381,DAX,regular
+382,English,advanced
+382,SQL,advanced
+382,Python,advanced
+383,Scala,advanced
+383,Apache Spark,advanced
+383,MS SQL,advanced
+383,GitHub,regular
+384,English,C1
+384,PL/SQL,advanced
+384,SQL,advanced
+384,CI/CD,regular
+384,Oracle DB,regular
+384,Test Automation,regular
+384,AIX,regular
+385,English,B2
+385,SQL,advanced
+385,Azure Cloud,regular
+385,ETL,regular
+385,Azure Data Factory,regular
+385,T-SQL,nice to have
+385,CosmosDB,nice to have
+385,Power BI,nice to have
+385,CI/CD,nice to have
+385,GitHub,nice to have
+386,Databases,regular
+386,SQL,regular
+386,reading code,regular
+386,API,junior
+386,Google Analytics,junior
+387,Databases,regular
+387,PostgreSQL,regular
+387,PL/SQL,regular
+387,DBeaver,regular
+387,SQLplus,regular
+387,toad,regular
+387,Jira,regular
+387,Confluence,regular
+387,Vmware vCenter,regular
+387,Oracle Enterprise Manager,regular
+388,English,B2
+388,Data Enineering,advanced
+388,Data modeling,advanced
+388,DWH,regular
+388,Microsoft Azure,regular
+389,Kotlin,advanced
+389,Spring,advanced
+389,Apache Beam,regular
+389,BigQuery,regular
+389,MongoDB,regular
+389,Apache Spark,regular
+389,AI,nice to have
+389,Prompt Engineering,nice to have
+390,English,B2
+390,AWS,advanced
+390,Redshift,advanced
+390,Glue,advanced
+390,s3,advanced
+390,Lambda,advanced
+390,Athena,advanced
+390,EMR,advanced
+390,SQL,regular
+390,Python,regular
+390,ETL,regular
+391,English,C1
+391,Polish,C1
+391,Machine Learning,advanced
+391,Python,advanced
+391,Data Science,advanced
+391,PySpark,regular
+391,Azure,regular
+391,Databricks,regular
+392,English,C1
+392,Data,advanced
+392,Neo4j,advanced
+392,BigQuery,advanced
+392,SQL,advanced
+392,Git,regular
+392,GCP,regular
+392,Programming,junior
+392,Agile,nice to have
+393,English,C1
+393,German,B1
+393,GenAI,advanced
+393,Machine Learning,advanced
+393,SQL,advanced
+393,Python,advanced
+393,Vertex AI,regular
+393,Cloud Storage,regular
+393,GCP,regular
+393,Terraform,regular
+393,BigQuery,regular
+393,Cloud Run,regular
+394,SQL,advanced
+394,Python,advanced
+394,ETL,advanced
+394,PostgreSQL,advanced
+394,MySQL,advanced
+394,MongoDB,advanced
+394,Oracle,advanced
+394,Enterprise Architect,advanced
+394,MS Project,advanced
+394,Jira,advanced
+395,English,B2
+395,Python,advanced
+395,Snowflake,advanced
+395,DBT,advanced
+395,Azure,advanced
+396,English,B2
+396,AWS,advanced
+396,Airflow,advanced
+396,ETL,advanced
+396,Terraform,advanced
+396,Kafka,advanced
+396,Java,advanced
+396,SQL,advanced
+396,Scala,advanced
+396,Apache Spark,advanced
+397,English,B2
+397,Azure Databricks,regular
+397,Spark,regular
+397,PySpark,regular
+397,Delta Lake,regular
+397,Data modeling,regular
+397,Azure Data Factory,regular
+397,Python,regular
+397,SQL,regular
+398,Data modeling,advanced
+398,MDM concepts,nice to have
+398,AWS,nice to have
+398,GCP,nice to have
+398,Azure,nice to have
+399,English,C1
+399,Python,advanced
+399,Big Data,advanced
+399,Apache Spark,advanced
+399,CI/CD,regular
+399,Data Warehousing,regular
+399,Databricks,regular
+399,Data Integration,regular
+399,Apache Kafka,nice to have
+400,Azure,advanced
+400,Data Factory,advanced
+400,ETRM,advanced
+401,GCP,advanced
+401,Groovy,advanced
+401,Java,advanced
+401,Python,advanced
+401,Apache Spark,advanced
+402,Polish,C2
+402,English,B1
+402,SQL,regular
+402,ETL tools,regular
+402,Git,regular
+402,PL/SQL,regular
+402,CI/CD,junior
+402,JSON,junior
+402,Linux,junior
+402,Python,junior
+403,SQL,advanced
+403,Python,advanced
+403,BigQuery,advanced
+403,Spark,advanced
+403,GCP,advanced
+403,Ansible,advanced
+404,English,B2
+404,Python,advanced
+404,Databricks,advanced
+404,SQL,advanced
+404,BI Backend,advanced
+404,Microsoft Azure,advanced
+404,Data Factory,regular
+405,Polish,C1
+405,English,C1
+405,AWS,advanced
+405,PySpark,advanced
+405,SQL,advanced
+405,Python,advanced
+405,Redshift,regular
+405,Kafka,regular
+405,Apache Airflow,regular
+406,Polish,C1
+406,English,B2
+406,Python,regular
+406,SQL,regular
+406,GCP,regular
+406,Airflow,regular
+406,Databases,regular
+406,Docker,regular
+406,BigQuery,regular
+406,Azure,nice to have
+406,CI/CD,nice to have
+407,SQL,advanced
+407,ETL tools,advanced
+407,Data modeling,regular
+407,Cloud Platforms,regular
+407,Python,regular
+407,Shell,regular
+407,Bash,regular
+408,French,B2
+408,English,B2
+408,Microsoft Copilot,master
+408,D365,advanced
+408,Power Platform,advanced
+408,Azure,advanced
+408,AI,regular
+408,Python,regular
+408,Azure AI Engineer Associate,nice to have
+409,Polish,B2
+409,English,B2
+409,SQL,advanced
+409,Palantir Foudry,regular
+409,Snowflake,regular
+409,Python,regular
+409,PySpark,regular
+410,English,B2
+410,Informatica Powercenter,regular
+410,Azure Databricks,regular
+410,Databricks,regular
+410,Power Center,regular
+410,SQL,regular
+410,Azure DevOps,regular
+411,Amazon AWS,master
+411,JavaScript,master
+411,GitHub,master
+412,SQL,regular
+412,Analytics,regular
+412,Git,regular
+412,Spark,regular
+412,Databricks,regular
+412,Power BI,regular
+413,Big Data,advanced
+413,Apache Spark,advanced
+413,Hadoop,advanced
+413,Kafka,advanced
+413,Data storage,regular
+413,Data modeling,regular
+413,Docker,regular
+413,Kubernetes,regular
+414,Scrum,regular
+414,Kanban,regular
+414,Agile,regular
+414,SQL,regular
+414,AWS,nice to have
+414,Angular,nice to have
+414,Microsoft Azure Cloud,nice to have
+414,React,nice to have
+414,Java,nice to have
+414,Spring,nice to have
+415,English,B2
+415,GXP,advanced
+415,EQMS,advanced
+415,LIMS,advanced
+416,Relacyjne Bazy Danych,advanced
+416,PostreSQL,regular
+416,MySQL,regular
+416,MsSQL,regular
+416,Oracle,regular
+416,Enterprise Architect,regular
+417,Azure SQL,regular
+418,English,B2
+418,Qlik,regular
+418,Terradata,regular
+418,Informatica,regular
+418,Amazon Redshift,regular
+418,Snowflake,regular
+418,Databricks,regular
+418,Google Big Query,regular
+418,Microsoft Fabric,regular
+419,English,C1
+419,AWS,advanced
+419,Snowflake,advanced
+419,Python,advanced
+420,clean coder,regular
+420,Jira,regular
+420,OpenShift,regular
+420,Agile,regular
+420,SQL,regular
+421,Data,advanced
+421,Cloud,advanced
+421,ELT,advanced
+421,CI/CD,advanced
+421,DDD,advanced
+421,data governance,advanced
+421,API,advanced
+421,HLD,advanced
+421,LLD,advanced
+422,English,advanced
+422,Python,advanced
+422,Data Science,advanced
+422,Machine Learning,regular
+422,Cloud,regular
+422,Big Data,nice to have
+423,English,C1
+423,Hebrew,C1
+423,MuleSoft,junior
+423,JSON,junior
+423,Data,junior
+424,Power BI,advanced
+424,DAX,advanced
+424,SQL,regular
+424,Data modeling,regular
+424,data governance,regular
+425,English,C1
+425,SQL,advanced
+425,Python,advanced
+425,Tableau,advanced
+426,English,B2
+426,Data Engineering,advanced
+426,Apache Airflow or Hadoop,regular
+426,Tableau or Looker,regular
+426,Google Cloud Platform (GCP),regular
+426,Data modeling,regular
+427,Analytical Thinking,advanced
+427,ServiceNow,regular
+427,SQL,regular
+427,Data,regular
+428,Polish,B2
+428,English,B2
+428,SQL,regular
+428,Python,regular
+428,PySpark,regular
+428,Airflow,regular
+428,ETL,regular
+428,Google Cloud Platform,regular
+428,AWS,regular
+428,Azure,regular
+429,English,C1
+429,Python,advanced
+429,Data,advanced
+429,Spark,advanced
+429,Delta Lake,regular
+429,Kubernetes,regular
+429,AWS,regular
+430,English,B2
+430,SQL,advanced
+430,PowerBi,advanced
+430,Cloud,junior
+431,English,B2
+431,Docker,advanced
+431,Kubernetes,advanced
+431,Scala,advanced
+431,Apache Kafka,regular
+431,Hive,regular
+432,AI,advanced
+432,Bazy Danych,regular
+433,Polish,C2
+433,English,B2
+433,PostgreSQL,advanced
+433,SQL,advanced
+433,PLSQL,regular
+433,PL/pgSQL,regular
+433,MySQL,regular
+433,Oracle,regular
+434,English,B2
+434,SQL,regular
+434,Power BI,regular
+434,Tableau,regular
+434,Python,nice to have
+434,R,nice to have
+434,Mixpanel,nice to have
+434,DBT,nice to have
+435,English,C1
+435,Microstrategy,master
+436,Polish,C1
+436,English,B2
+436,Tableau,advanced
+436,SQL,advanced
+436,Python,regular
+437,English,C1
+437,Polish,C1
+437,AWS,advanced
+437,Unix,advanced
+437,ETL,advanced
+437,Docker,advanced
+437,Snowflake,advanced
+437,SQL,advanced
+437,Data Vault,advanced
+437,Python,advanced
+438,Oracle,advanced
+438,SharePoint,advanced
+438,Jira,advanced
+438,Microsoft Planner,advanced
+438,PowerApps,nice to have
+438,Powerautomate,nice to have
+438,Clickup,nice to have
+438,Monday.com,nice to have
+439,English,C1
+439,Microsoft Azure,master
+439,SQL,regular
+439,Python,regular
+439,Business Intelligence,regular
+440,English,C1
+440,Data Warehousing,advanced
+440,Data Science,advanced
+440,Communication,advanced
+441,English,B2
+441,Spark,advanced
+441,Azure Data Factory,advanced
+441,Databricks,advanced
+441,SQL,advanced
+442,English,C1
+442,AWS,advanced
+442,Spark,advanced
+442,SQL,advanced
+442,Python,advanced
+442,Data Integration,advanced
+442,Hadoop,regular
+442,Iceberg,nice to have
+442,Hive,nice to have
+442,Java,nice to have
+442,Scala,nice to have
+443,Polish,C2
+443,English,C1
+443,ETL,advanced
+443,BI,advanced
+443,SQL,advanced
+443,T-SQL,regular
+443,Teradata,regular
+443,AWS/Azure/GCP/SnowFlake,regular
+443,MySQL,regular
+443,MS SQL,regular
+443,Oracle,regular
+444,English,B2
+444,SQL,advanced
+444,Python,advanced
+444,Big Data,regular
+444,PySpark,regular
+444,SparkSQL,regular
+444,Presto,regular
+444,Airflow,regular
+445,English,C1
+445,AWS,advanced
+445,GenAI,regular
+445,Architecture,regular
+445,integration,regular
+445,AI,regular
+445,Big Data,regular
+446,English,C1
+446,data migration,regular
+446,S/4HANA,junior
+446,SAP ECC,junior
+446,SAP Data Services,nice to have
+446,Microsoft SQL,nice to have
+446,SAP LSMW,nice to have
+447,Polish,C2
+447,PL/SQL,master
+447,SQL,master
+447,REST,regular
+447,XQUERY,regular
+447,SOAP,regular
+447,XSLT,regular
+448,AWS,regular
+448,ETL,regular
+448,T-SQL,regular
+448,hortownia danych,regular
+448,Snowflake,regular
+448,Snowflake Cloud Data Platform,regular
+448,SSIS,regular
+449,English,B2
+449,Python,advanced
+449,Machine Learning,advanced
+449,German,nice to have
+450,English,C1
+450,Polish,B2
+450,Snowflake,advanced
+450,data vault 2.0,advanced
+450,DBT,advanced
+450,AWS,regular
+451,English,B2
+451,Data,advanced
+451,OSS/BSS,advanced
+451,SQL,advanced
+451,Salesforce,nice to have
+452,English,C1
+452,AWS,advanced
+452,CI/CD,advanced
+452,T-SQL,advanced
+452,Azure,advanced
+452,GCP,advanced
+452,MS SQL,advanced
+452,SQL,advanced
+453,English,B2
+453,AWS,advanced
+453,Airflow,advanced
+453,Redshift,advanced
+453,s3,advanced
+453,Lambda,advanced
+453,Snowflake,advanced
+453,SQL,advanced
+453,Python,advanced
+454,English,C1
+454,PL/SQL,advanced
+454,SQL,advanced
+454,AIX,regular
+454,Oracle DB,regular
+454,CI/CD,regular
+454,Test Automation,regular
+455,ETL,advanced
+455,Oracle,advanced
+455,WebLogic,regular
+455,JDeveloper,regular
+456,C#,advanced
+456,Python,advanced
+456,Java,advanced
+456,Cloud,advanced
+457,English,C1
+457,Salesforce,advanced
+457,Field Service,advanced
+457,Salesforce Service Cloud,advanced
+457,Salesforce Marketing Cloud,nice to have
+457,SAP,nice to have
+457,ERP,nice to have
+458,AWS,regular
+458,PySpark,regular
+458,Power BI,regular
+458,Azure,regular
+458,Google Cloud,regular
+458,SQL,regular
+458,Python,regular
+458,data analysys,regular
+458,Business Intelligence,regular
+458,Big Data,regular
+459,English,C1
+459,Polish,C1
+459,Azure,regular
+459,OR,regular
+460,Polish,C2
+460,English,B2
+460,Power BI,regular
+460,Azure Databricks,regular
+460,SQL Server,regular
+460,Azure Synapse,regular
+460,Azure Data Factory,regular
+460,Azure Analysis Services,regular
+461,Polish,C1
+461,English,B2
+461,NLP,regular
+461,Python,regular
+461,Kubernetes,regular
+461,AI/ML,regular
+461,Databricks,junior
+461,k8,nice to have
+462,Python,advanced
+462,Data Science,regular
+462,Machine Learning,regular
+462,SQL,regular
+462,MLOps,regular
+462,Docker,regular
+462,NoSQL,regular
+462,Redis,regular
+462,Linux,regular
+463,English,B2
+463,Polish,B2
+463,Unix,master
+463,Data Build Tool,advanced
+463,Git,advanced
+463,XML,advanced
+463,GitFLow,advanced
+463,JSON,advanced
+463,YAML,advanced
+463,Snowflake,advanced
+463,SQL,advanced
+464,Databricks,advanced
+464,Azure Synapse,advanced
+464,Azure Data Lake,advanced
+464,Cloud Data Platform,advanced
+464,SQL,advanced
+464,Data Vault,advanced
+464,Data modeling,advanced
+464,Data,advanced
+464,Data analysis,advanced
+465,DBT,regular
+465,Talend,regular
+465,Airflow,regular
+465,SQL,regular
+465,Snowflake,regular
+466,English,C1
+466,MS Excel,advanced
+466,SQL,advanced
+466,Looker,nice to have
+466,Tableau,nice to have
+466,Python,nice to have
+467,Bazy Danych,junior
+467,SQL,junior
+467,C#,nice to have
+467,Git,nice to have
+467,C++,nice to have
+467,Delphi,nice to have
+468,English,B2
+468,AWS,advanced
+468,LLM,advanced
+468,Communication Skills,advanced
+468,Docker,advanced
+468,English,advanced
+468,SQL,advanced
+468,Python,advanced
+468,GCP,regular
+469,English,B2
+469,AWS,master
+469,Snowflake,master
+469,SQL,master
+469,PySpark,advanced
+469,Python,advanced
+470,Databricks,master
+470,Python,master
+470,SQL,advanced
+470,Azure,advanced
+470,AWS,advanced
+470,DevOps,regular
+470,CI/CD,regular
+471,Power BI,advanced
+471,Databricks,advanced
+471,SQL,advanced
+471,Business Intelligence,advanced
+471,Azure,regular
+472,CI/CD,advanced
+472,Spark,advanced
+472,Azure,advanced
+472,Python,advanced
+472,SQL,regular
+473,English,B2
+473,Data engineer,regular
+473,Python,regular
+473,Amazon AWS,regular
+473,CI/CD,regular
+473,Cloud Development Kit,regular
+474,English,C1
+474,PyTorch,advanced
+474,Machine Learning,regular
+474,ML,regular
+474,AI,regular
+475,Apache Spark,advanced
+475,KEDA,advanced
+475,Python,advanced
+475,Go,advanced
+475,C#,advanced
+475,Azure,regular
+476,AWS,regular
+476,Python,regular
+476,TypeScript,regular
+476,Machine Learning,nice to have
+476,AI,nice to have
+477,English,C1
+477,CI/CD,advanced
+477,Python,advanced
+477,Apache Spark,advanced
+477,AWS,regular
+477,Airflow,regular
+477,Azure,regular
+477,GCP,regular
+477,Kubernetes,regular
+477,Apache Kafka,nice to have
+478,English,B2
+478,Python,regular
+478,SQL,regular
+478,Agile,regular
+478,Tableau,regular
+478,Power BI,regular
+478,Databases,regular
+479,English,B2
+479,Python,advanced
+479,DBT,regular
+479,Databricks,regular
+479,AWS,regular
+479,SQL,regular
+479,Agile,regular
+479,Spark,nice to have
+480,English,C1
+480,ETL,junior
+480,PySpark,junior
+480,Azure,junior
+480,Databricks,junior
+480,SQL,junior
+480,Python,junior
+481,Polish,C1
+481,GCP,regular
+481,Cloud FinOps,regular
+481,Ansible,regular
+481,Terraform,regular
+482,Polish,C1
+482,English,B2
+482,MS SQL Server,advanced
+482,T-SQL,advanced
+482,SSRS,advanced
+482,SQL,advanced
+482,SSAS tabular,advanced
+482,Angielski,regular
+482,SSIS,regular
+482,Power BI,junior
+482,Azure,junior
+483,PostreSQL,regular
+483,MySQL,regular
+483,MS SQL,regular
+483,Oracle,regular
+484,English,C1
+484,Power BI,regular
+484,SQL,regular
+485,English,C1
+485,MS Excel,regular
+485,VBA,regular
+485,Atlassian,regular
+485,ITIL,regular
+485,alteryx,nice to have
+485,Power BI,nice to have
+485,Power Automate,nice to have
+485,Power Query,nice to have
+485,SQL,nice to have
+485,React,nice to have
+486,PostgreSQL,advanced
+486,Cosmos DB,advanced
+486,MongoDB,advanced
+486,Oracle,advanced
+486,MS SQL Server,advanced
+486,Data architecture,advanced
+487,English,C1
+487,Jira,advanced
+487,powerPoint,advanced
+487,Excel,advanced
+487,SAP,advanced
+487,S/4HANA,advanced
+487,SAP ECC,advanced
+487,master data,advanced
+487,Data,advanced
+488,ETL tools,regular
+488,Big Data,regular
+488,Bazy Danych,regular
+488,Cloud,nice to have
+488,DevOps,nice to have
+488,Programming,nice to have
+489,English,B2
+489,ETL,regular
+489,T-SQL,regular
+489,Azure Data Factory,regular
+489,SQL,regular
+489,Python,nice to have
+490,PySpark,advanced
+490,Data Warehousing,advanced
+490,Software Development,advanced
+490,Spark,advanced
+490,Azure,advanced
+490,Databricks,advanced
+490,SQL,advanced
+490,Python,advanced
+490,Big Data,advanced
+491,English,B2
+491,Polish,B2
+491,Python,regular
+492,Polish,B2
+492,English,B2
+492,MS SQL,advanced
+492,Azure,regular
+492,ETL,regular
+493,Teradata,advanced
+493,Informatica,advanced
+493,Architecture,advanced
+493,Data analysis,regular
+493,SQL,regular
+494,Polish,C1
+494,GA4,advanced
+494,Grafana,advanced
+494,MS Excel,advanced
+494,Looker Studio,advanced
+494,Firebase,advanced
+494,BigQuery,advanced
+495,Polish,C2
+495,SQL,advanced
+495,T-SQL,regular
+495,PL/SQL,regular
+495,ETL,regular
+495,ETL tools,regular
+495,Data Integration,regular
+496,Polish,C1
+496,English,C1
+496,SQL,advanced
+496,Python,regular
+497,Polish,C2
+497,English,B2
+497,Databricks,advanced
+497,SQL,advanced
+497,Node.js,regular
+497,Python,regular
+497,React,nice to have
+498,English,B2
+498,SQL,regular
+498,T-SQL,regular
+498,SSRS,regular
+498,SSAS,regular
+499,Analytical Thinking,advanced
+499,Data,regular
+499,SQL,regular
+499,Python,regular
+500,Polish,B2
+500,English,B2
+500,SQL,regular
+500,Google Cloud Platform,regular
+500,ETL,regular
+500,ELT,regular
+500,Python,regular
+500,PySpark,regular
+500,Airflow,regular
+500,CI/CD,regular
+500,DHW,regular
+501,MS SQL Server,regular
+501,R,regular
+501,Power BI,regular
+501,MS Excel,regular
+501,Business Analysis,regular
+501,ERP,regular
+501,SQL,regular
+502,English,B2
+502,PySpark,regular
+502,Palantir,regular
+503,English,B2
+503,SQL,advanced
+503,Tableau Desktop,advanced
+503,Tableau Server,advanced
+504,GitHub,master
+504,Databricks,master
+504,Azure Data Lake Gen2,master
+504,Snowflake,regular
+505,English,B2
+505,Cloud,advanced
+505,AI,advanced
+505,Cybersecurity,advanced
+505,GitHub,regular
+505,Jira,regular
+505,Google Workspace,regular
+505,Rodo,nice to have
+506,English,B2
+506,Analytical Thinking,advanced
+506,Data,regular
+506,Qlik Sense,regular
+506,SQL,regular
+506,BigQuery,nice to have
+507,Polish,C1
+507,English,B2
+507,SQL,advanced
+507,Power BI,nice to have
+507,Cognos,nice to have
+507,Teradata,nice to have
+508,English,B2
+508,Python,advanced
+508,Elasticsearch,advanced
+508,fastapi,advanced
+508,GenAI,advanced
+508,rag,advanced
+508,Ansible,regular
+508,Jenkins,regular
+508,GitLab,regular
+509,Polish,B2
+509,English,C1
+509,Full-stack BI Development,advanced
+509,Snowflake,advanced
+509,Power BI,regular
+509,Business Analysis,regular
+509,Matillion,nice to have
+509,Managed Services,nice to have
+509,Agile,nice to have
+509,Oracle,nice to have
+509,SSIS,nice to have
+510,Polish,C2
+510,English,C1
+510,Azure,master
+510,Data modeling,master
+510,Databricks,master
+510,SQL,master
+510,Python,master
+510,Power BI,nice to have
+511,Polish,C2
+511,English,B2
+511,BigQuery,advanced
+511,SQL,advanced
+511,LLM,regular
+511,Power BI,regular
+511,dataform,regular
+511,DBT,nice to have
+511,Python,nice to have
+512,English,B2
+512,GCP,advanced
+512,Python,advanced
+512,Data Engineering,advanced
+512,Airflow,regular
+512,Terraform,regular
+513,English,B2
+513,Oracle DB,master
+513,Unix,advanced
+513,Linux,advanced
+513,SQL,advanced
+513,Ansible,regular
+513,Terraform,regular
+514,English,B2
+514,MySQL,advanced
+514,PostgreSQL,advanced
+514,Oracle,advanced
+514,Docker,nice to have
+514,Kubernetes,nice to have
+515,English,C1
+515,German,C1
+515,Microsoft 365,advanced
+515,Big Data,nice to have
+516,English,B2
+516,Databases,advanced
+517,English,B2
+517,Polish,A2
+517,LakeHouse,advanced
+517,Databricks,advanced
+517,SQL,advanced
+517,Python,advanced
+517,AWS,regular
+517,Azure,regular
+518,SQL,regular
+518,Python,regular
+518,QlikSense or Tableau,regular
+519,English,C1
+519,SQL,advanced
+519,Python,regular
+519,Scala,regular
+519,AWS,regular
+519,Azure,regular
+519,Google Cloud Platform,regular
+519,Apache Spark,regular
+519,Airflow,regular
+519,Kafka,regular
+519,CI/CD,regular
+520,Polish,C2
+520,ETL,regular
+520,ETL tools,regular
+520,PySpark,regular
+520,Jira,regular
+520,SQL,regular
+520,Python,regular
+520,Enterprise Architect,regular
+520,Big Data,regular
+521,English,C2
+521,Data Science,master
+521,Machine Learning,advanced
+521,GenAI,advanced
+521,Azure,advanced
+522,Spark,advanced
+522,Databricks,advanced
+522,SQL,regular
+523,SQL,advanced
+523,Qlik,regular
+523,Tableau,regular
+523,BI,regular
+523,PowerBi,regular
+523,GCP,nice to have
+523,BigQuery,nice to have
+524,Polish,C1
+524,Airflow,advanced
+524,ETL,advanced
+524,PL/SQL,advanced
+524,SQL,advanced
+524,Python,advanced
+524,PostgreSQL,regular
+524,Jira,junior
+524,Enterprise Architect,junior
+525,English,C1
+525,Data Warehousing,master
+525,MS Excel,master
+525,Business Intelligence,master
+525,AWS,advanced
+525,ETL,advanced
+525,SQL,advanced
+525,Python,advanced
+525,Analytical Thinking,advanced
+525,Big Data,advanced
+526,Polish,C1
+526,Python,advanced
+526,SQL,regular
+526,GCP,regular
+526,Azure,regular
+527,English,B2
+527,AWS,master
+527,CI/CD,advanced
+527,Agile,advanced
+527,Python,advanced
+527,Big Data,advanced
+527,Apache Kafka,regular
+527,Apache Spark,regular
+528,Data,advanced
+528,PL/SQL,advanced
+528,Unix,advanced
+528,Oracle PL/SQL,advanced
+528,SQL,advanced
+528,Perl,advanced
+528,Jenkins,advanced
+528,Ansible,advanced
+528,GitHub,advanced
+528,Jira,advanced
+529,English,C1
+529,German,C1
+529,Oracle Forms,advanced
+529,unix shell,regular
+529,PL/SQL,regular
+529,SQL,regular
+530,English,B2
+530,Spark,advanced
+530,Snowflake,advanced
+530,Databricks,advanced
+530,AWS,regular
+531,Polish,C2
+531,English,B2
+531,Power BI,regular
+531,Azure Databricks,regular
+531,Azure Synapse,regular
+531,Azure Data Factory,regular
+531,TestPlan,regular
+531,SQL,regular
+531,Azure DevOps,regular
+531,Azure Analysis Services,regular
+532,English,B2
+532,AWS,regular
+532,Git,regular
+532,Collibra Data Governance,regular
+532,CI/CD,regular
+532,REST,regular
+532,ETL/ELT,regular
+532,Terraform,regular
+532,Groovy,regular
+532,Python,regular
+533,English,C1
+533,Data Science,regular
+533,Python,regular
+533,Algorithms,regular
+533,SQL,regular
+533,Databricks,nice to have
+533,BigQuery,nice to have
+533,Power BI,nice to have
+533,Tableau,nice to have
+533,GitHub,nice to have
+533,DevOps,nice to have
+534,Terraform,advanced
+534,BigQuery,advanced
+534,Google Cloud Services,regular
+534,Python,regular
+534,Airflow,nice to have
+534,Spark,nice to have
+534,Oracle,nice to have
+535,English,B2
+535,Oracle DBA,master
+535,MS SQL,advanced
+535,PostgreSQL,regular
+536,Data,advanced
+536,Java,advanced
+536,Scala,advanced
+536,Airflow,regular
+536,CI/CD,regular
+536,Scrum,regular
+536,Spark,regular
+536,GitHub,regular
+536,Agile,regular
+537,Polish,C1
+537,PL/SQL,advanced
+537,Oracle,regular
+537,Oracle DB,regular
+537,SOA,regular
+537,SOAP,regular
+537,XQUERY,regular
+537,XSLT,regular
+537,Data Integration,regular
+537,SQL,junior
+538,Cloud,advanced
+538,Python,advanced
+538,Big Data,advanced
+538,Snowflake,regular
+538,Databricks,regular
+538,Scala,regular
+538,Apache Spark,regular
+538,Airflow,junior
+538,Docker,junior
+538,Kafka,junior
+539,Microsoft Intune,regular
+539,SCCM,regular
+539,Azure AD,junior
+539,Windows Autopilot,junior
+539,Microsoft Exchange,nice to have
+540,English,B2
+540,Data,advanced
+540,Bash,regular
+540,Python,regular
+540,AWS,regular
+540,IaC,regular
+540,Lambda,regular
+540,Glue,regular
+540,IAM,regular
+541,English,B2
+541,PL/SQL,advanced
+541,SQL,advanced
+541,Apex,regular
+541,Relational Databases,regular
+541,Oracle,regular
+541,CI/CD,junior
+542,Big Data,regular
+542,Business Intelligence,regular
+542,SQL,regular
+542,Teradata,regular
+542,Snowflake,regular
+542,Databricks,regular
+542,Machine Learning,regular
+542,AI,regular
+542,Python,regular
+543,Jira,advanced
+543,Confluence,advanced
+543,Ansible,advanced
+543,Linux/Unix,advanced
+543,Oracle WebLogic,advanced
+543,SQL,advanced
+543,Oracle Data Guard,advanced
+543,Oracle RAC,advanced
+543,oracle database,advanced
+544,PL/SQL,advanced
+544,T-SQL,advanced
+544,Cosmos DB,nice to have
+544,Power BI,nice to have
+544,CI/CD,nice to have
+544,GitHub,nice to have
+545,English,C1
+545,SAP,advanced
+545,Data,advanced
+545,Big Data,advanced
+545,Nvidia Omniverse,regular
+545,Databricks,regular
+546,SQL,advanced
+546,JavaScript,advanced
+546,Python,advanced
+546,Machine Learning,regular
+546,CI/CD,regular
+546,AI,regular
+547,Data analysis,advanced
+547,Data Engineering,advanced
+547,SQL,advanced
+547,Google Cloud Platform,advanced
+547,OpenShift,advanced
+547,Oracle,advanced
+547,PL/SQL,advanced
+547,Airflow,advanced
+547,Git,advanced
+547,Java,advanced
+548,English,B2
+548,Powershell,advanced
+548,Azure,advanced
+548,Python,advanced
+548,Bicep,advanced
+548,IaC,regular
+548,Cloud Migration,regular
+548,Cloud security,regular
+548,Azure DevOps,regular
+549,SQL,master
+549,Google Cloud Platform,advanced
+549,BigQuery,advanced
+549,PowerBi,advanced
+549,Python,advanced
+550,DevOps,advanced
+550,PostgreSQL,advanced
+550,Ansible,advanced
+550,Docker,advanced
+550,Hadoop,advanced
+550,Kubernetes,advanced
+550,Apache Hadoop,advanced
+550,Big Data,advanced
+550,Apache Spark,advanced
+551,English,C1
+551,SQL,master
+551,Data Visualization,master
+551,Data Storytelling,master
+551,SaaS,advanced
+551,Reporting,advanced
+551,Azure,regular
+552,Polish,C2
+552,English,B2
+552,Jira,advanced
+552,PL/SQL,advanced
+552,SQL,advanced
+552,DWH,advanced
+552,Airflow,regular
+552,PostgreSQL,regular
+552,ETL,regular
+552,Enterprise Architect,regular
+553,English,B2
+553,SQL,advanced
+553,Databricks,advanced
+553,PowerBi,regular
+553,PowerApps,regular
+553,Dataverse,regular
+554,English,B2
+554,Data,advanced
+554,Communication,advanced
+555,English,C1
+555,Machine Learning,advanced
+555,Data modeling,advanced
+555,Deep Learning,advanced
+556,English,B2
+556,MS Azure,master
+556,MS SQL,master
+556,Data Warehousing,master
+556,Power BI,advanced
+556,English,advanced
+556,Cloud Engineer,advanced
+556,Proactivity,regular
+556,Software Architecture,regular
+557,English,C1
+557,Spark,advanced
+557,SQL,advanced
+557,Python,advanced
+557,Scala,advanced
+557,Data Warehousing,regular
+557,BigQuery,regular
+557,Data modeling,regular
+558,redhat,regular
+558,Linux,regular
+558,PL/SQL,regular
+558,Oracle,regular
+558,Redis,nice to have
+558,PostgreSQL,nice to have
+558,Shell,nice to have
+558,Perl,nice to have
+558,Python,nice to have
+558,Cassandra,nice to have
+559,Data,advanced
+559,Snowflake,advanced
+559,Data Warehousing,advanced
+559,ETL,advanced
+559,Apify,regular
+559,Salesforce,regular
+559,ZoomInfo,regular
+559,RevOps,regular
+560,English,B2
+560,Databricks,advanced
+560,Data Engineering,advanced
+560,Python,advanced
+560,SQL,advanced
+560,DevOps,advanced
+560,CI/CD,advanced
+560,AWS,advanced
+560,Azure,advanced
+561,English,A1
+561,CUDA,master
+561,C,master
+561,LLM,advanced
+561,PyTorch,advanced
+561,TensorFlow,advanced
+561,cryptocurrency,advanced
+561,mining,regular
+561,inference llm optimising,regular
+561,CPU,regular
+561,GPU,regular
+562,Power Automate Desktop,nice to have
+562,Power Platform,nice to have
+562,Power Automate,nice to have
+563,R,advanced
+563,Python,advanced
+563,SQL,advanced
+563,SAS,advanced
+564,English,C1
+564,Azure Databricks,advanced
+564,Spark,advanced
+564,Delta Lake,regular
+564,Delta Live Tables,regular
+564,ETL,regular
+564,SQL,regular
+564,Python,regular
+564,Agile,regular
+565,English,B2
+565,MS SQL,advanced
+565,Guidewire,regular
+566,Polish,C1
+566,English,B2
+566,Docker,regular
+566,Kubernetes,regular
+566,Oracle,regular
+566,Teradata,regular
+566,ETL,regular
+566,Azure,regular
+567,PySpark,advanced
+567,Azure,advanced
+567,Databricks,advanced
+567,Python,advanced
+567,Azure DevOps,regular
+567,DBT,nice to have
+567,DLT,nice to have
+567,Docker,nice to have
+567,Data Vault,nice to have
+568,English,B2
+568,Pandas / NumPy / Scikit-learn,advanced
+568,Python,advanced
+568,Machine Learning,regular
+568,Feature Engineering,regular
+569,English,C1
+569,TypeScript,advanced
+569,API,advanced
+569,Cypress,advanced
+569,React,advanced
+569,tailwind,regular
+570,Polish,C1
+570,English,B2
+570,Oracle DB,advanced
+570,Linux,advanced
+570,Architecture,regular
+571,English,B2
+571,AWS/GCP,master
+571,Airflow,master
+571,Snowflake,master
+572,English,B2
+572,zarządzanie hurtowniami danych,regular
+572,SQL,regular
+572,T-SQL,regular
+572,PostgreSQL,regular
+572,ERD,regular
+572,Git,regular
+572,Microsoft Azure,regular
+572,Power BI,regular
+572,Oracle,nice to have
+572,Python,nice to have
+573,English,C1
+573,SQL,master
+573,Data Vault,master
+573,Python,master
+573,DBT,advanced
+573,AWS,nice to have
+573,Snowflake,nice to have
+574,SQL,master
+574,MS Excel,advanced
+574,Python,nice to have
+574,Jupyter Notebook,nice to have
+575,English,advanced
+575,Bazy Danych,junior
+575,SQL,junior
+575,Oracle APEX,junior
+576,English,B2
+576,Pandas,advanced
+576,Python,advanced
+576,SQL,advanced
+576,ETL,advanced
+576,CI/CD,advanced
+576,Snowflake,advanced
+577,Polish,C1
+577,English,B2
+577,SQL,advanced
+577,DWH,advanced
+577,ETL,regular
+577,ELT,regular
+577,Python,regular
+577,Google Cloud Platform,nice to have
+577,PySpark,nice to have
+577,Airflow,nice to have
+577,CI/CD,nice to have
+577,REST API,nice to have
+578,English,C1
+578,Data,master
+578,Grafana,advanced
+578,AI,advanced
+578,Sinequa,regular
+579,Airtable,regular
+580,Polish,C2
+580,English,C1
+580,Airflow,advanced
+580,DBT,advanced
+580,Azure Data Factory,advanced
+580,Snowflake,advanced
+580,PowerBi,advanced
+580,SQL,advanced
+581,English,C1
+581,Power BI,regular
+581,BI,regular
+581,Snowflake,regular
+581,BigQuery,regular
+581,DAX,regular
+581,Data modeling,regular
+582,Jenkins,advanced
+582,CI/CD,advanced
+582,Ansible,advanced
+582,Spark,advanced
+582,Hadoop,advanced
+582,Kafka,advanced
+582,Big Data,advanced
+582,Linux,regular
+583,English,B2
+583,Databricks,advanced
+583,Python,advanced
+583,Cloud,regular
+583,SQL,nice to have
+584,English,B2
+584,SQL,master
+584,PySpark,advanced
+584,Python,advanced
+585,English,C1
+585,PostgreSQL,advanced
+585,GreenPlum,advanced
+586,Python,advanced
+586,SQL,regular
+587,English,B2
+587,Identity and Access Management (IAM),regular
+587,Microsoft Identity Manager (MIM),regular
+587,SQL,regular
+587,Active Directory,regular
+587,.Net (C#),nice to have
+588,English,advanced
+588,SQL,advanced
+588,Python,advanced
+589,English,C1
+589,ETL,advanced
+589,Java,advanced
+589,SQL,advanced
+589,Python,advanced
+590,Data,advanced
+590,SAS,advanced
+590,Python,advanced
+590,PySpark,advanced
+590,SQL,advanced
+590,Hadoop Big Data,advanced
+590,Jira,regular
+590,Confluence,regular
+590,Monday.com,regular
+591,SQL,advanced
+591,Python,advanced
+591,Scala,advanced
+591,Power BI,advanced
+592,English,B2
+592,Python,regular
+592,Docker,regular
+592,Prometheus,regular
+592,Grafana,regular
+592,Airflow,regular
+592,Cloud,regular
+592,Machine Learning,nice to have
+593,English,B2
+593,ETL,regular
+593,CI/CD,regular
+593,Databricks,regular
+593,Power BI,nice to have
+594,English,C1
+594,Machine Learning,regular
+594,LLMs,regular
+594,PyTorch,regular
+594,Spark,regular
+594,Docker,regular
+594,TensorFlow,regular
+594,Kubernetes,regular
+594,Kafka,regular
+594,Deep Learning,regular
+594,Python,regular
+595,Polish,C1
+595,English,B2
+595,SQL,advanced
+595,Python,advanced
+595,Databases,advanced
+595,AWS,regular
+596,PySpark,master
+596,AWS S3,advanced
+596,Snowflake,advanced
+596,Databricks,advanced
+596,Big Data,advanced
+597,English,C1
+597,Azure,advanced
+597,AWS,advanced
+597,GCP,advanced
+597,Databrics,advanced
+597,Microsoft Azure,advanced
+597,Amazon AWS,advanced
+597,Google Cloud Platform,advanced
+597,Databrics Spark,advanced
+597,PySpark,advanced
+597,SQL,advanced
+598,English,B2
+598,Tableau,master
+598,SQL,master
+598,Python,master
+598,Reporting,advanced
+598,Power BI,junior
+599,English,B2
+599,Spanish,C1
+599,Airflow,advanced
+599,DBT,advanced
+599,Data,advanced
+599,Spark,advanced
+599,BigQuery,advanced
+599,SQL,advanced
+599,Git,regular
+599,GCP,regular
+599,Programming,junior
+599,Data Lake,junior
+600,English,C1
+600,SQL,master
+600,Python,regular
+600,Data Warehousing,regular
+600,Azure,regular
+600,Synapse,regular
+600,PySpark,junior
+601,English,B2
+601,Data Engineering,master
+601,Data Mapping,advanced
+601,Data modeling,advanced
+601,Cloud,advanced
+601,ETL,regular
+602,SAS,regular
+602,Python,regular
+602,PySpark,regular
+602,SQL,regular
+602,Hadoop,regular
+602,Jira,regular
+602,Confluence,regular
+602,prophecy,nice to have
+603,Polish,C1
+603,English,C1
+603,Spark,advanced
+603,Azure,advanced
+603,Databricks,advanced
+603,Kubernetes,regular
+603,Kafka,regular
+603,SQL,regular
+603,Python,regular
+604,English,C1
+604,SQL,advanced
+604,Python,advanced
+604,AWS,regular
+604,Google Cloud Platform,regular
+604,Airflow,regular
+604,Dagster,regular
+604,Databricks,regular
+604,Snowflake,regular
+604,Redshift,regular
+604,Microsoft Azure Cloud,nice to have
+605,English,B2
+605,Polish,C1
+605,Active Directory,regular
+605,DNS,regular
+605,DHCP,regular
+605,Azure,regular
+605,ITIL,regular
+605,SAFe,regular
+605,Powershell,regular
+606,SQL Server,advanced
+606,MySQL,advanced
+606,Database design,advanced
+606,Oracle,advanced
+606,Database administrator,advanced
+606,AWS,nice to have
+606,ETL,nice to have
+606,Azure,nice to have
+607,English,C1
+607,SQL,advanced
+607,AWS,regular
+607,Airflow,regular
+607,Google Cloud Platform,regular
+607,CI/CD,regular
+607,Azure,regular
+607,Kafka,regular
+607,Python,regular
+607,Scala,regular
+607,Apache Spark,regular
+608,Bash,advanced
+608,Databases,advanced
+608,PL/SQL,advanced
+608,Oracle DB,advanced
+608,Oracle,advanced
+608,SQL,regular
+608,Linux OS,regular
+608,Virtualization,junior
+608,Python,nice to have
+609,English,B2
+609,Big Data,regular
+609,Hadoop,regular
+610,English,C1
+610,Data Science,advanced
+610,Python,advanced
+610,Machine Learning,regular
+610,Cloud,regular
+610,Statistics,regular
+610,Analytics,regular
+610,GCP,nice to have
+610,Azure,nice to have
+610,Scala,nice to have
+611,English,C1
+611,Python,regular
+611,Unix,regular
+611,Linux,regular
+611,Microsoft Azure Cloud,regular
+611,RESTful API,regular
+611,Git,regular
+611,GitHub,regular
+611,Ansible,regular
+611,Jenkins,regular
+611,SDLC,regular
+612,English,B2
+612,Google Cloud Platform,regular
+612,SQL,regular
+612,ETL,regular
+612,ELT,regular
+612,PySpark,regular
+612,Airflow,regular
+612,CI/CD,regular
+612,DWH,regular
+613,Polish,C2
+613,English,B2
+613,Python,regular
+613,SQL,regular
+613,BigQuery,regular
+613,Airflow,regular
+613,GCP,regular
+613,Apache Spark,regular
+613,Looker Studio,regular
+613,XGBoost,regular
+613,Machine Learning,regular
+614,English,B2
+614,Apache,advanced
+614,Java,advanced
+614,SQL,advanced
+614,Python,advanced
+614,NoSQL,advanced
+614,Data,advanced
+614,Git,regular
+614,ETL,regular
+614,Databases,regular
+615,Docker,advanced
+615,SQL,advanced
+615,Python,advanced
+615,Big Data,advanced
+615,Apache Spark,advanced
+615,AWS,regular
+615,Airflow,regular
+615,Kubernetes,regular
+615,Iceberg,nice to have
+615,Java,nice to have
+616,Polish,C1
+616,English,B2
+616,AWS,regular
+616,Azure,regular
+616,Linux,regular
+616,Kubernetes,regular
+616,BI Data,regular
+616,Automatyzacja,regular
+616,Bazy Danych,regular
+616,SAS,nice to have
+617,English,C1
+617,Data,advanced
+617,ETL,advanced
+617,DATA MODELLING,advanced
+617,Jira,advanced
+617,MS Excel,advanced
+617,SQL Server Data Tools,advanced
+618,English,B2
+618,Python,regular
+618,Azure,regular
+618,Databricks,regular
+618,Apache Spark,regular
+618,SQL,regular
+619,Data,regular
+619,Python,regular
+619,SQL,regular
+619,SQL Server,regular
+619,PostgreSQL,regular
+619,Cloud Vendors,regular
+619,Azure,regular
+619,CI/CD,regular
+619,GitHub Actions,regular
+619,Azure DevOps,regular
+620,Data,regular
+620,AWS,regular
+620,Python,regular
+620,Databricks,regular
+620,Spark,regular
+620,DBT,regular
+620,SQL,regular
+620,CI/CD,nice to have
+620,Airflow,nice to have
+620,Dagster,nice to have
+621,English,B2
+621,AWS,advanced
+621,Golang,advanced
+621,CI/CD,advanced
+621,Node.js,advanced
+621,Angular,advanced
+621,Docker,advanced
+621,Kubernetes,advanced
+621,Java,advanced
+621,Python,advanced
+621,Spring Boot,advanced
+622,English,B2
+622,French,B2
+622,MS Excel,regular
+622,SaaS,regular
+622,Power Query,regular
+622,PowerBi,regular
+623,Databases,regular
+623,Oracle,regular
+623,MS SQL Server,regular
+623,MySQL,regular
+623,Project Management,regular
+623,Team Management,regular
+624,Data analysis,advanced
+624,SQL,advanced
+624,Python,advanced
+624,PySpark,nice to have
+624,Hadoop,nice to have
+624,SAS,nice to have
+625,English,C1
+625,Microservices,advanced
+625,Python,advanced
+625,AWS,regular
+625,Terraform,regular
+626,English,B2
+626,Snowflake,advanced
+626,Databricks,advanced
+627,English,B2
+627,SQL,regular
+627,T-SQL,regular
+627,PostgreSQL,regular
+627,ERD,regular
+627,Git,regular
+627,Microsoft Azure,regular
+627,Power BI,regular
+627,Oracle,nice to have
+627,Python,nice to have
+627,SSAS tabular,nice to have
+628,Machine Learning,advanced
+628,LLM,advanced
+628,Sagemaker,advanced
+628,Kubernetes,advanced
+628,Amazon AWS,advanced
+628,Python,advanced
+629,English,C1
+629,Python,advanced
+629,SQL,advanced
+629,PySpark,regular
+630,MongoDB,regular
+630,MySQL,regular
+630,Oracle,regular
+630,Java,regular
+630,Python,regular
+631,English,B2
+631,Microsoft Azure,regular
+631,Databricks,regular
+631,SQL,regular
+631,Apache Spark,regular
+631,Data modeling,regular
+631,Data Warehousing,regular
+632,English,B2
+632,Power Pages,advanced
+632,Power BI,advanced
+632,Power Apps,advanced
+632,Power Automate,advanced
+632,Microsoft Azure,nice to have
+633,English,B2
+633,Apache Spark,regular
+633,Microsoft Azure,regular
+633,Databricks,junior
+633,SQL,junior
+634,R,advanced
+634,Python,advanced
+634,Gurobi,advanced
+634,MathProg,advanced
+634,SQL,nice to have
+634,CI/CD,nice to have
+635,English,B2
+635,Data,advanced
+635,SQL,advanced
+635,Azure,advanced
+635,ETL,regular
+635,CI/CD,regular
+636,English,C1
+636,Apache Kafka,advanced
+636,Microservices,advanced
+636,Data,advanced
+636,batch processing,advanced
+636,Structured Streaming,advanced
+636,Databricks,advanced
+636,SQL,advanced
+636,Apache Spark,advanced
+636,CI/CD,regular
+636,Azure,regular
+637,Polish,C2
+637,English,B2
+637,SSAS,advanced
+637,OLAP,advanced
+637,Tabular,advanced
+637,SQL,advanced
+637,MDX,advanced
+637,DAX,advanced
+637,ETL,advanced
+637,Power BI,advanced
+638,Polish,C2
+638,English,C1
+638,PostgreSQL,master
+638,MongoDB / Firestore,master
+638,Redis,master
+638,Python,master
+638,Apache Airflow,master
+638,ETL,master
+638,GCP,master
+638,Docker,master
+638,Kubernetes,master
+639,English,C1
+639,Polish,C1
+639,Tableau,advanced
+639,SQL,advanced
+639,ETL,regular
+639,alteryx,regular
+639,Python,regular
+640,English,B2
+640,Polish,B2
+640,Cloud,advanced
+640,CI/CD,advanced
+640,ETL,advanced
+640,GCP,advanced
+640,AWS,nice to have
+640,CRM,nice to have
+640,Azure,nice to have
+641,Polish,C2
+641,English,B2
+641,Data Engineering,advanced
+641,Azure SQL,regular
+641,Azure DB,regular
+641,PowerQuery,regular
+641,Python,regular
+641,ETL,regular
+641,ETL tools,regular
+642,Git,advanced
+642,Airflow,advanced
+642,PL/SQL,advanced
+642,Oracle,advanced
+642,OpenShift,advanced
+642,Google Cloud Platform,advanced
+642,SQL,advanced
+642,Python,advanced
+642,Docker,advanced
+642,Data,advanced
+643,GCP,advanced
+643,Python,advanced
+643,CI/CD,regular
+644,Polish,C1
+644,Power BI,regular
+644,SQL,regular
+644,DAX,regular
+644,M Query,regular
+644,Data modeling,regular
+644,Tableau,nice to have
+644,Azure,nice to have
+644,R,nice to have
+644,ETL,nice to have
+644,API,nice to have
+645,Oracle,advanced
+645,Database,advanced
+645,Security,regular
+645,SQL,regular
+645,MongoDB,regular
+645,PostgreSQL,regular
+645,Teradata,regular
+645,Hadoop,regular
+646,Polish,C1
+646,English,B1
+646,Analiza Biznesowa,master
+646,Agile,master
+646,Data modeling,advanced
+646,Data Warehousing,regular
+646,SQL,regular
+647,English,C1
+647,Tableau,nice to have
+647,Big Data,nice to have
+648,Polish,C1
+648,English,B2
+648,Python,regular
+648,Microsoft Power BI,regular
+648,SQL,regular
+648,Microsoft Azure,nice to have
+648,ETL,nice to have
+648,Oracle,nice to have
+649,Software Development,master
+649,Data,advanced
+649,Big Data,advanced
+649,Java,regular
+649,Python,regular
+650,VBA,regular
+650,Tableau,regular
+650,CRM,regular
+650,MS Excel,regular
+650,Power BI,regular
+651,Data Warehousing,advanced
+652,Polish,C2
+652,English,B2
+652,SQL,advanced
+652,Microsoft Azure,regular
+652,ETL,regular
+652,Databricks,regular
+652,Azure Services,regular
+652,Python,regular
+653,English,C1
+653,Polish,B2
+653,Machine Learning,advanced
+653,LLMs,advanced
+653,PyTorch,advanced
+653,TensorFlow,advanced
+653,Python,advanced
+653,Generative AI,advanced
+653,Data Science,advanced
+653,R,nice to have
+653,SQL,nice to have
+653,Java,nice to have
+654,Polish,C2
+654,Power BI,advanced
+654,VertiPaq,advanced
+654,DAX,advanced
+654,Power Query,advanced
+654,SQL,advanced
+654,Data Warehousing,regular
+654,Power Platform,junior
+654,Microsoft Fabric,junior
+655,English,B2
+655,PL/SQL,advanced
+655,Unix,advanced
+655,Oracle,regular
+655,SQL,regular
+655,Perl,regular
+655,Jenkins,regular
+655,Ansible,regular
+655,Agile,regular
+655,GitHub,regular
+655,Jira,nice to have
+656,English,B2
+656,Snowflake,advanced
+656,SQL,advanced
+656,Cloud,regular
+656,AI,regular
+656,ML,regular
+657,Databricks,junior
+657,Snowflake,junior
+658,English,B2
+658,SQL,regular
+658,Python,regular
+658,Jira,regular
+658,GitHub,regular
+658,Datadog,regular
+658,API,regular
+658,Grafana,regular
+658,Tableau,regular
+658,ETL tools,regular
+659,English,B2
+659,Polish,C1
+659,Python,advanced
+659,SQL,advanced
+659,ETL,advanced
+659,Data Warehousing,advanced
+659,Airflow,regular
+659,Pandas,regular
+659,GCP,regular
+659,Amazon AWS,regular
+659,Azure,junior
+659,Docker,junior
+660,English,B2
+660,E-commerce,advanced
+660,UX,advanced
+660,SQL,advanced
+660,A/B Tests,advanced
+661,SQL,regular
+661,PL/SQL,regular
+661,PostgreSQL,regular
+661,Oracle,regular
+661,ETL,regular
+661,CI/CD,regular
+661,Git,regular
+662,English,B2
+662,AWS,advanced
+662,Azure,advanced
+662,GCP,advanced
+662,SQL,advanced
+662,NoSQL,advanced
+662,ETL,advanced
+662,DevOps,advanced
+662,CI/CD,advanced
+663,Polish,C1
+663,English,B2
+663,PostgreSQL,advanced
+663,Oracle/SQL,advanced
+663,PL/SQL/PL/PqSQL,advanced
+664,Polish,B2
+664,English,B2
+664,SAS,regular
+664,Oracle DB,regular
+664,Oracle SQL,regular
+664,Azure,regular
+664,Apache Kafka,regular
+664,REST API,regular
+664,DWH,regular
+665,English,B2
+665,SQL,regular
+665,Python,regular
+665,Power BI,regular
+665,Azure,regular
+666,QlikSense,regular
+666,CI/CD,regular
+666,SQL,regular
+666,Big Data,regular
+666,Hive,regular
+666,Agile,regular
+667,English,B2
+667,Python,master
+667,Machine Learning,master
+667,SQL,advanced
+668,Polish,C2
+668,English,B2
+668,DWH,advanced
+668,SQL,advanced
+668,AWS,regular
+668,Data modeling,regular
+668,Python,regular
+668,DBT,junior
+668,Java,nice to have
+669,Polish,C1
+669,English,B2
+669,Data,advanced
+669,Google Cloud Platform,regular
+669,GCP,regular
+669,BigQuery,regular
+669,Google Cloud,regular
+669,Oracle,regular
+670,Azure,advanced
+670,Databricks,advanced
+670,SQL,advanced
+670,Python,advanced
+670,Big Data,advanced
+670,Airflow,regular
+670,Apache Spark,regular
+670,Apache Kafka,nice to have
+670,DBT,nice to have
+671,MS SQL,master
+671,Data modeling,master
+672,English,C1
+672,Polish,C1
+672,MS Excel,master
+672,SQL,master
+673,W3C,advanced
+673,Analytical Thinking,advanced
+673,Semantic Web,regular
+674,English,C1
+674,Databricks,master
+674,Microsoft Azure,advanced
+674,Microsoft SQL,advanced
+674,Azure,advanced
+674,Microsoft Azure Cloud,advanced
+674,Azure Services,advanced
+674,Azure DevOps,advanced
+674,Python,advanced
+674,Big Data,advanced
+675,Polish,B2
+675,English,B2
+675,Snowflake,advanced
+675,SQL,advanced
+675,ETL,regular
+676,English,C1
+676,Polish,C1
+676,AWS,advanced
+676,DBT,advanced
+676,SQL,advanced
+676,Python,advanced
+676,DevOps,nice to have
+676,Terraform,nice to have
+676,Scala,nice to have
+677,English,B2
+677,Python,advanced
+677,Java,advanced
+677,Big Data,advanced
+677,Scala,advanced
+677,SQL,advanced
+677,NoSQL,advanced
+677,Kubernetes,advanced
+677,Airflow,advanced
+677,AWS,advanced
+677,Flink,advanced
+678,English,B2
+678,Google Cloud Platform,advanced
+678,ETL,advanced
+678,Data Warehousing,advanced
+678,GCP,advanced
+678,BigQuery,advanced
+678,SQL,advanced
+678,Python,advanced
+678,Apache,nice to have
+678,IntelliJ,nice to have
+678,Gradle,nice to have
+679,English,B2
+679,Google Cloud Platform,advanced
+679,BigQuery,regular
+679,Python,regular
+679,SQL,regular
+679,Airflow,regular
+679,DBT,regular
+679,dataform,regular
+679,Power BI,nice to have
+679,Tableau,nice to have
+679,Azure,nice to have
+680,AWS,advanced
+680,SQL,advanced
+680,Python,advanced
+681,AWS,advanced
+681,Informatica,advanced
+681,SQL Server,advanced
+681,Hadoop,advanced
+681,MySQL,advanced
+681,Snowflake,advanced
+681,PowerBi,advanced
+681,ERWIN,advanced
+681,Oracle,advanced
+681,NoSQL,advanced
+682,English,B2
+682,Data Warehousing,advanced
+682,Amazon AWS,advanced
+682,SQL,advanced
+682,Python,advanced
+683,SQL,advanced
+683,Python,advanced
+683,Power BI,advanced
+684,Polish,C2
+684,Azure Databricks,master
+684,ELT,master
+684,Data Warehouse,master
+684,SQL,advanced
+684,Python,advanced
+685,English,C1
+685,Microsoft,advanced
+685,Microsoft 365,advanced
+685,SharePoint,advanced
+685,Power Apps,advanced
+685,HTML5,advanced
+685,CSS,advanced
+685,JavaScript,advanced
+685,SaaS,advanced
+686,English,B2
+686,Architecture,regular
+686,Azure,regular
+686,Snowflake,regular
+686,Databricks,regular
+686,SQL,regular
+686,Cloud,regular
+686,ETL,regular
+687,GCP,regular
+687,Python,regular
+687,Airflow,regular
+687,BigQuery,regular
+688,German,C1
+688,English,C1
+688,Big Data,advanced

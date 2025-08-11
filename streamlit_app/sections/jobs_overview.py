@@ -2,7 +2,6 @@
 import streamlit as st
 from src.utils import load_latest_file
 import plotly.express as px
-#from utils.plotting import plot_job_category_barplot
 
 INPUT_DIR = "data/processed"
 
@@ -20,8 +19,6 @@ category_orders_dict = {
 }
 
 def render():
-    #st.header("📊 Jobs Overview")
-
     # Load data
     jobs_df = load_latest_file("justjoinit_jobs", INPUT_DIR)
 

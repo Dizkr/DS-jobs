@@ -1,9 +1,8 @@
 
 import pandas as pd
 import json
-import re
 from datetime import datetime
-from src.utils import load_latest_file, clean_and_map_skills
+from src.utils import load_latest_file, clean_and_map_skills, classify_job
 
 INPUT_DIR = "data/raw"
 OUTPUT_DIR = "data/processed"
@@ -12,59 +11,11 @@ OUTPUT_DIR = "data/processed"
 jobs_df = load_latest_file("justjoinit_jobs", INPUT_DIR)
 skills_df = load_latest_file("justjoinit_skills", INPUT_DIR)
 
-def matches_keyword(text, keywords):
-    return any(re.search(rf"\b{re.escape(k)}\b", text) for k in keywords)
+# Keep manual classification in a new column
+jobs_df['Category_manual'] = jobs_df['Job Title'].apply(classify_job)
 
-def classify_job(title):
-    # Define keywords for each merged category
-    data_science_keywords = [
-        'scientist', 'machine learning', 'ai', 'nlp', 'deep learning', 'science', 'llm',
-        'modeler', 'modeller', 'ml', 'bot detection', 'fraud detection', 'mlops'
-    ]
-
-    data_engineering_keywords = [
-        'engineer', 'engineering', 'etl', 'pipeline', 'snowflake', 'databricks', 'cloud', 'developer',
-        'database', 'integration', 'azure', 'dataops',
-        'master data', 'hurtowni danych', 'dwh',
-        'infrastructure', 'mulesoft', 'system integration', 'inżynier'
-    ]
-
-    data_analysis_keywords = [
-        'analyst', 'reporting', 'dashboard', 'power bi', 'analytics', 'business intelligence',
-        'analityk', 'process mining', 'celonis', 'conversion specialist', 'specjalista ds. analiz'
-    ]
-
-    database_administration_keywords = [
-        'administrator', 'admin', 'db administrator', 'sql server production', 'młodszy administrator',
-        'programista baz danych', 'database administrator', 'ms-sql', 'pl/sql', 'baz danych', 'sql'
-    ]
-
-    data_architect_keywords = [
-        'data architect', 'solution architect', 'enterprise architect', 'architecture',
-        'dimensional modeling', 'information architecture',
-        'azure architecture', 'cloud architecture', 'data vault', 'architect',
-        'architekt', 'database design', 'schema design'
-    ]
-
-    # Normalize title for case-insensitive matching
-    title_lower = title.lower()
-
-    # Check keywords by category
-    if matches_keyword(title_lower, database_administration_keywords):
-        return "Database Administration"
-    elif matches_keyword(title_lower, data_architect_keywords):
-        return "Data Architecture"
-    elif matches_keyword(title_lower, data_science_keywords):
-        return "Data Science"
-    elif matches_keyword(title_lower, data_analysis_keywords):
-        return "Data Analysis & BI"
-    elif matches_keyword(title_lower, data_engineering_keywords):
-        return "Data Engineering"
-    else:
-        return "Unclassified"
-
-# Classify job titles into predefined categories
-jobs_df['Category'] = jobs_df['Job Title'].apply(classify_job)
+# Also keep 'Category' for backward compatibility or for model training convenience
+jobs_df['Category'] = jobs_df['Category_manual']
 
 contract_map = {
     'B2B': 'B2B',

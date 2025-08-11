@@ -11,7 +11,7 @@ from datetime import datetime
 
 NUM_THREADS = 4
 SCROLL_PAUSE_TIME = 0.015
-SCROLL_END_THRESHOLD = 6
+SCROLL_END_THRESHOLD = 10
 OUTPUT_DIR = "data/raw"
 
 
@@ -45,7 +45,7 @@ def collect_job_links(driver, scroll_pause_time=0.015):
     prev_count = 0
     stable_iterations = 0
 
-    while stable_iterations < 5:
+    while stable_iterations < SCROLL_END_THRESHOLD:
         soup = BeautifulSoup(driver.page_source, "html.parser")
 
         # Extract job offer links from anchor tags with href containing "/job-offer/"
@@ -70,6 +70,7 @@ def collect_job_links(driver, scroll_pause_time=0.015):
         prev_count = current_count  # Update previous count
         iter_count += 1
 
+    print(f"Collected {len(seen_links)} links after {iter_count+1} scrolls")
     return list(seen_links)
 
 def clean_description(text):
@@ -135,12 +136,12 @@ def scrape_job_data(url, job_id):
 
     desc_paragraphs = soup.find_all("p", class_="editor-paragraph")
     if desc_paragraphs:
-        description_parts = [p.get_text(strip=True) for p in desc_paragraphs]
+        description_parts = [p.get_text(separator=" ", strip=True) for p in desc_paragraphs]
     else:
         desc_container = soup.find("div", class_="MuiBox-root mui-1vqiku9")
         if desc_container:
             ps = desc_container.find_all(["p", "li"])
-            description_parts = [" ".join(tag.stripped_strings) for tag in ps]
+            description_parts = [tag.get_text(separator=" ", strip=True) for tag in ps]
 
     description_text = " ".join(description_parts)
     job_details["Job Description"] = clean_description(description_text)
