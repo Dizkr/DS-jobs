@@ -110,7 +110,7 @@ X_train, X_test, y_train, y_test = train_test_split(
 # --- Train model ---
 model = pipeline.fit(X_train, y_train)
 
-#joblib.dump(pipeline, MODEL_PATH)
+joblib.dump(pipeline, MODEL_PATH)
 
 pred = pipeline.predict(X_test)
 
