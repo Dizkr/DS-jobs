@@ -77,16 +77,6 @@ class TextCleaner(BaseEstimator, TransformerMixin):
         X['Job Description'] = X['Job Description'].apply(self.clean_text)
         return X
 
-# Load data
-jobs_df = load_latest_file("justjoinit_jobs", DATA_DIR)
-
-# Filter out unclassified jobs for training
-jobs_df = jobs_df.drop(jobs_df[jobs_df["Category"] == "Unclassified"].index)
-
-# Split features & labels
-X = jobs_df[['Job Title', 'Job Description']]
-y = jobs_df['Category']
-
 # Feature extraction 
 combined_features = ColumnTransformer([
     ('title', TfidfVectorizer(max_features=TITLE_MAX_FEATURES), 'Job Title'),
@@ -102,10 +92,21 @@ pipeline = Pipeline([
     ('clf', LogisticRegression(max_iter=LOGREG_MAX_ITER))
 ])
 
-# Train/test split 
+# Load data
+jobs_df = load_latest_file("justjoinit_jobs", DATA_DIR)
+
+# Split features & labels
+X = jobs_df[['Job Title', 'Job Description']]
+y = jobs_df['Category']
+
 X_train, X_test, y_train, y_test = train_test_split(
     X, y, stratify=y, random_state=RANDOM_STATE
-    )
+)
+
+# Drop "Unclassified" from training set only
+train_mask = y_train != "Unclassified"
+X_train = X_train[train_mask]
+y_train = y_train[train_mask]
 
 # --- Train model ---
 model = pipeline.fit(X_train, y_train)
@@ -143,12 +144,18 @@ assert 'Category_manual' in jobs_df.columns, "Manual classification missing"
 X_full = jobs_df[['Job Title', 'Job Description']]
 y_full = jobs_df['Category_manual']
 
+X_full = X_test
+y_full = y_test
+
 pred = model.predict(X_full)
 
 thresholded_preds = threshold_predict(model, X_full, threshold=0.5)
 
 y_full = pd.Series(y_full)
 thresholded_preds = pd.Series(thresholded_preds)
+
+y_full = pd.Series(y_test).reset_index(drop=True)
+thresholded_preds = pd.Series(thresholded_preds).reset_index(drop=True)
 
 classified_mask = (y_full != "Unclassified") & (thresholded_preds != "Unclassified")
 
